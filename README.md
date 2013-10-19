@@ -95,3 +95,219 @@ I personally use the show's links more than often. So I thought it would be a gr
 + [Some Web Development Tips](http://duruk.net/some-web-development-tips/)
 + [Complex navigation patterns for responsive design](http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/)
 + [Avgrund](http://lab.hakim.se/avgrund/)
+
+---
+
+### Ep8
+
+---
+
+### Ep9
+
+---
+
+### Ep10
+
+---
+
+### Ep11
+
+---
+
+### Ep12
+
+---
+
+### Ep13
+
+---
+
+### Ep14
+
+---
+
+### Ep15
+
+---
+
+### Ep16
+
+---
+
+### Ep17
+
+---
+
+### Ep18
+
+---
+
+### Ep19
+
+---
+
+### Ep20
+
+---
+
+### Ep21
+
+---
+
+### Ep22
+
+---
+
+### Ep23
+
+---
+
+### Ep24
+
+---
+
+### Ep25
+
+---
+
+### Ep26
+
+---
+
+### Ep27
+
+---
+
+### Ep28
+
+---
+
+### Ep29
+
+---
+
+### Ep30
+
+---
+
+### Ep31
+
+---
+
+### Ep32
+
+---
+
+### Ep33
+
+---
+
+### Ep34
+
+---
+
+### Ep35
+
+---
+
+### Ep36
+
+---
+
+### Ep37
+
+---
+
+### Ep38
+
+---
+
+### Ep39
+
+---
+
+### Ep40
+
+---
+
+### Ep41
+
+---
+
+### Ep42
+
+---
+
+### Ep43
+
+---
+
+### Ep44
+
+---
+
+### Ep45
+
+---
+
+### Ep46
+
+---
+
+### Ep47
+
+---
+
+### Ep48
+
+---
+
+### Ep49
+
+---
+
+### Ep50
+
+---
+
+### Ep51
+
+---
+
+### Ep52
+
+---
+
+### Ep53
+
+---
+
+### Ep54
+
+---
+
+### Ep55
+
+---
+
+### Ep56
+
+---
+
+### Ep57
+
+---
+
+### Ep58
+
+---
+
+### Ep59
+
+---
+
+### Ep60
+
+---
+
+### Ep61
