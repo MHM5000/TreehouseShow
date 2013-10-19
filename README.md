@@ -125,8 +125,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep10
-
+### Ep10: jQuery Fundamentals
++ [jQuery Fundamentals](http://jqfundamentals.com/)
++ [Yeoman](http://yeoman.io/)
++ [Bower](http://twitter.github.com/bower/)
++ [This is Responsive](http://bradfrost.github.com/this-is-responsive/index.html)
++ [Total Spaces](http://totalspaces.binaryage.com/)
++ [ColorSense](https://github.com/omz/ColorSense-for-Xcode)
++ [Underscore CLI](https://github.com/ddopson/underscore-cli?ref=hn)
++ [Modern UI Icons](http://modernuiicons.com/)
 ---
 
 ### Ep11
