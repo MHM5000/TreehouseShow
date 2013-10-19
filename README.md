@@ -69,3 +69,16 @@ I personally use the show's links more than often. So I thought it would be a gr
 + [Cookie.js](https://github.com/js-coder/cookie.js)
 + [Gauge.js](http://bernii.github.com/gauge.js/)
 + [HTML5 Shim vs IE9 Emulation Mode](http://www.sitepoint.com/html5-shim-ie-emulation-mode/)
+
+---
+
+### Ep6: Twitter Bootstrap and JavaScript for Cats
++ [Safari, Chrome Ship Proposed High-Resolution Image Solution](http://www.webmonkey.com/2012/08/safari-chrome-now-support-high-resolution-images-in-css/)
++ [Bootstrap 2.1.0 Released](http://blog.getbootstrap.com/2012/08/20/bootstrap-2-1-0-released/)
++ [Date Picker for Bootstrap](http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/)
++ [JS Reload](http://www.2ality.com/2012/08/jsreload.html)
++ [BigVideo.js](http://dfcb.github.com/BigVideo.js/)
++ [JavaScript for Cats](http://jsforcats.com/)
++ [Underscores](http://underscores.me/)
++ [cdnjs](http://cdnjs.com/)
++ [JustGage](http://justgage.com/)
