@@ -149,7 +149,16 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep12
+### Ep12: Web Platform
++ [Fokus](http://lab.hakim.se/fokus/)
++ [flowplayer 5](http://flowplayer.org/)
++ [Cutting the Mustard](http://blog.responsivenews.co.uk/post/18948466399/cutting-the-mustard)
++ [IE for Mac](http://osxdaily.com/2011/09/04/internet-explorer-for-mac-ie7-ie8-ie-9-free/)
++ [WebPlatform](http://www1.webplatform.org/)
++ [KeyMaster](https://github.com/madrobby/keymaster)
++ [Dom Monster](http://mir.aculo.us/dom-monster/)
++ [Compass.app](http://compass.handlino.com/)
++ [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
 
 ---
 
