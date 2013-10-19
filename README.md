@@ -402,7 +402,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep33
+### Ep33: Web Typography, CSS Patterns and Simple Icons
++ [Typeplate » A typographic starter kit encouraging great type on the Web](http://typeplate.com/)
++ [HTML's New Template Tag: standardizing client-side templating - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
++ [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
++ [The Beginner's Guide to JavaScript Date and Time](http://www.sitepoint.com/beginners-guide-to-javascript-date-and-time/)
++ [Gumby - A Flexible, Responsive CSS Framework - Powered by Sass](http://gumbyframework.com/)
++ [SVGeezy - a JS plugin for SVG fallbacks](http://benhowdle.im/svgeezy/)
++ [Simple Icons](http://simpleicons.org/)
++ [Mobile Emulation - Chrome Developer Tools — Google Developers](http://developers.google.com/chrome-developer-tools/docs/mobile-emulation)
 
 ---
 
