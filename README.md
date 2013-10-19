@@ -303,7 +303,16 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep25
+### Ep25: Web Developer Checklists
++ [Workless](http://workless.ikreativ.com/)
++ [How To Deal With Vendor Prefixes](http://css-tricks.com/how-to-deal-with-vendor-prefixes/)
++ [Web Developer Checklist](http://webdevchecklist.com/)
++ [Gradient Scanner](http://www.gradient-scanner.com/)
++ [Web Interface Lab](http://www.webinterfacelab.com/)
++ [Junior](http://justspamjustin.github.com/junior/#home)
++ [oriDomi](http://oridomi.com/)
++ [Frank](http://somerandomdude.com/work/frank/)
++ [Sequence.js](http://www.sequencejs.com/)
 
 ---
 
