@@ -379,7 +379,14 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep31
+### Ep31: HTML Progress Element and JavaScript Sliders
++ [The progress element | HTML5 Doctor](http://html5doctor.com/the-progress-element/)
++ [Interactive Guide to Blog Typography](http://kaikkonendesign.fi/typography/section/1)
++ [Threesixty-slider by creativeaura](http://creativeaura.github.com/threesixty-slider/)
++ [Step-By-Step Landing Page Copywriting | Nathan Barry](http://nathanbarry.com/step-by-step-landing-page-copywriting/)
++ [jQuery Learning Center](http://learn.jquery.com/)
++ [The Web Font Combinator | A Web Typography Tool](http://font-combinator.com/)
++ [Icons DB - free custom icons](http://www.iconsdb.com/)
 
 ---
 
