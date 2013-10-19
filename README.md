@@ -162,7 +162,16 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep13
+### Ep13: LLJS, Navicons, and Framework Fights
++ [LLJS](http://lljs.org/)
++ [The Semantic, Responsive Navicon](http://mobile.smashingmagazine.com/2012/10/08/the-semantic-responsive-design-navicon/)
++ [JavaScript Stacktrace](https://github.com/eriwen/javascript-stacktrace)
++ [PHP The Right Way](http://www.phptherightway.com/)
++ [Anvil](http://anvilformac.com/)
++ [Verimail](https://github.com/comfirm/Verimail.js)
++ [js2coffee](http://js2coffee.org/)
++ [Framework Fight!](http://designshack.net/articles/css/framework-fight-zurb-foundation-vs-twitter-bootstrap/)
++ [Setting Up My Perfect Developer Environment on OSX 10.8 Mountain Lion (DP3 Edition)](http://vanderveer.be/blog/2012/04/21/setting-up-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion-dp3-edition/)
 
 ---
 
