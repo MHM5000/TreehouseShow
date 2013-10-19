@@ -7,7 +7,7 @@ Intro
 
 Other than that, you can have a "weekly dose of internet, where they talk about web design, web development and more" ( :-D ), and a lot more in Bonus Content.(Personally find [Exercise Your Creative](http://teamtreehouse.com/library/exercise-your-creative) quite fascinating)
 
-There is [Youtube Channel](http://youtube.com/user/gotreehouse), [iTunes feed](https://itunes.apple.com/us/podcast/the-treehouse-show-hd/id623064192) or [Bonus Content](http://teamtreehouse.com/library/the-treehouse-show) to watch the fun all along the learning. Don't forget to check them out.
+There is [Youtube Channel](http://youtube.com/user/gotreehouse), [iTunes feed](https://itunes.apple.com/us/podcast/the-treehouse-show-hd/id623064192) or [Bonus Content](http://teamtreehouse.com/library/the-treehouse-show) to watch these videos. Don't forget to check them out.
 
 Two hosts of the show are Jason Seifer([@jseifer](http://twitter.com/jseifer)) and Nick Pettit([@nickrp](http://twitter.com/nickrp)). Jim Hoskins([@jimrhoskins](http://twitter.com/jimrhoskins)) appears as well.
 
