@@ -209,7 +209,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep17
+### Ep17: Bootstrap, relogo, and Alfred
++ [Bootstrap 2.2.0](http://blog.getbootstrap.com/2012/10/29/bootstrap-2-2-0-released/)
++ [Bootbox.js](http://bootboxjs.com/)
++ [Dashing](http://shopify.github.com/dashing/)
++ [Alfred](http://www.alfredapp.com/)
++ [rel="logo"](http://relogo.org/)
++ [jq](http://stedolan.github.com/jq/)
++ [Gridlover](http://www.gridlover.net/)
++ [BonsaiJS](http://bonsaijs.org/)
 
 ---
 
