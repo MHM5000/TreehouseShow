@@ -292,7 +292,14 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep24
+### Ep24: JavaScript PDFS, CSS Transitions, and Web Design Trends
++ [Zippopotamus](http://www.zippopotam.us/)
++ [Conditionizr](http://conditionizr.com/)
++ [NumberHelpers](http://emcien.github.com/number-helpers-coffeescript/)
++ [All you need to know about CSS transitions](http://blog.alexmaccaw.com/css-transitions)
++ [jsPDF](http://jspdf.com/)
++ [Designing a responsive, retina ready site](http://paulstamatiou.com/responsive-retina-blog-design)
++ [20 Hottest Trends To Watch Out For In 2013](http://www.hongkiat.com/blog/web-design-trend-2013/)
 
 ---
 
