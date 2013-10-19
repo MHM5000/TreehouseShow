@@ -198,7 +198,14 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep16
+### Ep16: Simple CSS Grids
++ [Simple Grid](http://thisisdallas.github.com/Simple-Grid/)
++ [BootMetro](http://aozora.github.com/bootmetro/)
++ [Typeset.css](http://joshuarudd.github.com/typeset.css/)
++ [Time Goes Responsive](http://www.time.com/time/)
++ [Powerful Command Line Tools For Developers](http://coding.smashingmagazine.com/2012/10/29/powerful-command-line-tools-developers/)
++ [CSS 3D Dropdown](http://soulwire.github.com/Makisu/)
++ [A Newb Guide to Git](http://journal.kaush.co/744/git-newb-guid)
 
 ---
 
