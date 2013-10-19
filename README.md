@@ -280,7 +280,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep23
+### Ep23: Writing Error Messages, Navigation, and Documentation
++ [The 4 H's of Writing Error Messages](http://uxmas.com/2012/the-4-hs-of-writing-error-messages)
++ [jhere](https://github.com/mmarcon/jhere)
++ [Performance Calendar](http://calendar.perfplanet.com/2012/liking-performance/)
++ [Dash](http://kapeli.com/)
++ [FooTable](http://themergency.com/footable/)
++ [BERG Cloud Buttons](http://css-tricks.com/berg-cloud-buttons/)
++ [Focal Point](http://designshack.net/articles/css/focal-point-intelligent-cropping-of-responsive-images/)
++ [TinyNav.js](http://tinynav.viljamis.com/)
 
 ---
 
