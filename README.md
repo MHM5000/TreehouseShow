@@ -233,7 +233,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep19
+### Ep19: Memory management, wireframing, and JavaScript frameworks
++ [Backbone Memory Management Techniques](https://paydirtapp.com/blog/backbone-in-practice-memory-management-and-event-bindings/)
++ [wireframe.cc](http://wireframe.cc/)
++ [Brand identity style guides from around the world](http://www.logodesignlove.com/brand-identity-style-guides)
++ [Datepicker for Bootstrap](http://www.eyecon.ro/bootstrap-datepicker/)
++ [Creating Your Own Sublime Text 2 Plugin](http://www.mutuallyhuman.com/blog/2012/11/14/creating-a-sublime-text-2-plugin/)
++ [Ratchet](http://maker.github.com/ratchet/)
++ [Crumble - jQuery Feature Tours](http://tommoor.github.com/crumble/)
++ [microjs](http://microjs.com/#)
 
 ---
 
