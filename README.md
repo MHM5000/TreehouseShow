@@ -13,3 +13,13 @@ Why?
 I personally use the show's links more than often. So I thought it would be a great idea to collect them all somewhere. Here they are:
 
 ---
+
+### Ep1: CSS and JavaScript Tools
++ [Ceasar](http://matthewlein.com/ceaser/)
++ [Slowy](http://slowyapp.com/)
++ [Super Scrollorama](http://johnpolacek.github.io/superscrollorama/)
++ [Meteor](http://www.meteor.com/)
++ [Twitter Bootstrap](http://getbootstrap.com/2.3.2/)
++ [Zurb Foundation 3](http://foundation.zurb.com/)
+
+---
