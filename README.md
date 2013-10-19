@@ -245,7 +245,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep20
+### Ep20: Batch Icon Set, Bootstrap Goodies, Git Aliases, JavaScript Shopping Cart
++ [Batch](http://adamwhitcroft.com/batch/)
++ [18 Useful Twitter Bootstrap Goodies You Should Know](http://www.queness.com/post/11632/18-useful-twitter-boostrap-goodies-you-should-know)
++ [Must Have Git Aliases: Advanced Examples](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)
++ [simpleCart(js)](http://simplecartjs.org/)
++ [fastclick](https://github.com/ftlabs/fastclick)
++ [pickadate.js](http://amsul.github.com/pickadate.js/)
++ [Heyoffline.js](http://oskarkrawczyk.github.com/heyoffline.js/)
++ [Bones](http://themble.com/bones/)
 
 ---
 
