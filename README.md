@@ -187,7 +187,14 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep15
+### Ep15: Adaptive Images and Responsive SVGs
++ [Adaptive Images](http://adaptive-images.com/)
++ [Snappy Dashboards with Redis](http://blog.togo.io/how-to/snappy-dashboards-with-redis/)
++ [Responsive SVGs](http://www.joshuasortino.com/journal/creating-a-responsive-svg)
++ [Shortcat](http://shortcatapp.com/)
++ [Enquire.js](http://wickynilliams.github.com/enquire.js/)
++ [How to Customize Your Command Prompt](http://net.tutsplus.com/tutorials/tools-and-tips/how-to-customize-your-command-prompt/)
++ [Grid-A-Licious](http://suprb.com/apps/gridalicious/)
 
 ---
 
