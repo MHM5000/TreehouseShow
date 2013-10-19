@@ -269,7 +269,14 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep22
+### Ep22: Explaining CSS and Landing Pages
++ [CSS Explain](https://github.com/josh/css-explain)
++ [xCharts](http://tenxer.github.com/xcharts/)
++ [Lorem Pixel](http://lorempixel.com/)
++ [The Node Beginner Book](http://www.nodebeginner.org/)
++ [A 50-Point Checklist For Creating The Ultimate Landing Page](http://unbounce.com/landing-pages/checklist/)
++ [alertifyjs](http://fabien-d.github.com/alertify.js/)
++ [Bootsnipp](http://bootsnipp.com/)
 
 ---
 
