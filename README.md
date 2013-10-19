@@ -82,3 +82,16 @@ I personally use the show's links more than often. So I thought it would be a gr
 + [Underscores](http://underscores.me/)
 + [cdnjs](http://cdnjs.com/)
 + [JustGage](http://justgage.com/)
+
+---
+
+### Ep7: Web Development Tips
++ [Typing Practice for Programmers](http://typing.io/)
++ [5 Design Tricks FaceBook Uses to Affect Your Privacy Decisions](http://techcrunch.com/2012/08/25/5-design-tricks-facebook-uses-to-affect-your-privacy-decisions/)
++ [Free Python Books](http://pythonbooks.revolunet.com/)
++ [BigScreen](http://brad.is/coding/BigScreen/)
++ [Skitch](http://skitch.com/)
++ [jsPlumb](http://jsplumb.org/jquery/demo.html)
++ [Some Web Development Tips](http://duruk.net/some-web-development-tips/)
++ [Complex navigation patterns for responsive design](http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/)
++ [Avgrund](http://lab.hakim.se/avgrund/)
