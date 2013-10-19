@@ -257,7 +257,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep21
+### Ep21: HTML5 Mobile Apps
++ [Anatomy of a Native Feeling HTML5 iOS App](http://justinvincent.com/page/2043/anatomy-of-a-native-feeling-html5-ios-app)
++ [Changing Times For Web Developers – 6 Tips You Should Read To Survive](http://www.amazedsaint.com/2012/11/changing-times-for-web-developers-6.html)
++ [Adapting your Webkit Optimized Site for Internet Explorer 10](http://blogs.windows.com/windows_phone/b/wpdev/archive/2012/11/15/adapting-your-webkit-optimized-site-for-internet-explorer-10.aspx)
++ [Hammer](http://hammerformac.com/)
++ [Colour Schemes](https://github.com/daylerees/colour-schemes?hn)
++ [EpicEditor](http://epiceditor.com/)
++ [Tinytype](http://www.jordanm.co.uk/tinytype)
++ [Code smells in CSS](http://csswizardry.com/2012/11/code-smells-in-css/)
 
 ---
 
