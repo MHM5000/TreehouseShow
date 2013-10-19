@@ -15,6 +15,11 @@ Why?
 ---
 I personally use the show's links more than often. So I thought it would be a great idea to collect them all somewhere. Here they are:
 
+One more note
+---
+It's been more than a year from the first episode. It's probable that you find unactive(broken) links, updated versions of software or better replacements.
+All this repo does is keep tracking of this show.
+
 ---
 
 ### Ep1: CSS and JavaScript Tools
