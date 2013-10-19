@@ -175,7 +175,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep14
+### Ep14: Responsive Techniques, JavaScript MVC Frameworks, and Firefox 16
++ [Firefox 16 Released](http://www.mozilla.org/en-US/firefox/16.0/releasenotes/)
++ [Responsivator](http://dfcb.github.com/Responsivator/)
++ [8 ways to make your single-page web app faster](http://ozkatz.github.com/8-ways-to-make-your-single-page-web-app-faster.html)
++ [Patternify](http://www.patternify.com/)
++ [TodoMVC](http://todomvc.com/)
++ [CSS FilterLab](http://html.adobe.com/webstandards/csscustomfilters/cssfilterlab/)
++ [dbpatterns](http://dbpatterns.com/)
++ [PFold](http://tympanus.net/codrops/2012/10/17/pfold-paper-like-unfolding-effect/)
 
 ---
 
