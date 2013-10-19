@@ -41,3 +41,16 @@ I personally use the show's links more than often. So I thought it would be a gr
 + [Phusion Passenger Updates](http://blog.phusion.nl/2012/07/24/roadmap-preview-1-phusion-passenger-4-0-and-phusion-passenger-enterprise/)
 + [UI-Cloud](http://ui-cloud.com/)
 + [Icon Monstr](http://iconmonstr.com/)
+
+---
+
+### Ep4: LAMP on Mountain Lion
++ [Speed Limit](http://mschrag.github.com/)
++ [RWD Bookmarklet](http://responsive.victorcoulon.fr/)
++ [Add Notifications to Your Web App](http://www.fngtps.com/2012/how-to-add-notification-center-notifications-to-your-web-app/)
++ [iOS Image Optimization Tricks](http://www.dwellable.com/blog/Tech-iOS-Image-Tricks)
++ [Install Apache, MySQL, and PHP, on Mountain Lion](http://coolestguyplanettech.com/downtown/install-and-configure-apache-mysql-php-and-phpmyadmin-osx-108-mountain-lion)
++ [SideTap](http://sidetap.it/)
++ [gridster.js](http://gridster.net/)
++ [UI Parade](http://www.uiparade.com/)
++ [Prism](http://prismjs.com/)
