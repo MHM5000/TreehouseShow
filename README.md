@@ -134,9 +134,18 @@ I personally use the show's links more than often. So I thought it would be a gr
 + [ColorSense](https://github.com/omz/ColorSense-for-Xcode)
 + [Underscore CLI](https://github.com/ddopson/underscore-cli?ref=hn)
 + [Modern UI Icons](http://modernuiicons.com/)
+
 ---
 
-### Ep11
+### Ep11: Moment.js and HTML5
++ [Moment.js](http://momentjs.com/)
++ [jQuery joyride](http://www.zurb.com/playground/jquery-joyride-feature-tour-plugin)
++ [Emmet for sublime](https://github.com/sergeche/emmet-sublime)
++ [USA Today beta](http://beta.usatoday.com/)
++ [iPhone 5 web site teardown](https://docs.google.com/document/pub?id=1GWTMLjqQsQS45FWwqNG9ztQTdGF48hQYpjQHR_d1WsI)
++ [Fresco JS](http://www.frescojs.com/)
++ [7 html5 features you might not know](http://www.aaronlumsden.com/articles/7-html5-features-that-you-may-not-know-about/)
++ [CSS Values](http://cssvalues.com/)
 
 ---
 
