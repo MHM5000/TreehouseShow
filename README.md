@@ -328,7 +328,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep27
+### Ep27: Triangles, Sublime Text Plugins and HTML5 Geolocation
++ [Using the HTML5 Geolocation API](http://www.sitepoint.com/using-the-html5-geolocation-api/)
++ [CSS triangle generator](http://apps.eky.hk/css-triangle-generator/)
++ [Framer](http://www.framerjs.com/)
++ [So You’re Going To Start A Huge New Web Project](http://css-tricks.com/so-youre-going-to-start-a-new-huge-web-project/)
++ [RubyJS](http://rubyjs.org/)
++ [My Top 10 Sublime Text Plugins](http://www.henriquebarroso.com/my-top-10sublime-2-plugins/)
++ [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
++ [OverAPI](http://overapi.com/)
 
 ---
 
