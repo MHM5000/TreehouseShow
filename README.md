@@ -351,7 +351,14 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep29
+### Ep29: SVG Hacking
++ [A Primer to Front-end SVG Hacking](http://dbushell.com/2013/02/04/a-primer-to-front-end-svg-hacking/)
++ [Toolbar.Js](http://paulkinzett.github.com/toolbar/)
++ [Stately](http://intridea.github.com/stately/)
++ [Dropzonejs](http://www.dropzonejs.com/)
++ [Labels in Input Fields](http://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/)
++ [JavaScript function compatibility table](http://compatibility.shwups-cms.ch/de/home/)
++ [Sassaparilla](http://sass.fffunction.co/)
 
 ---
 
