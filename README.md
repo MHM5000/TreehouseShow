@@ -54,3 +54,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 + [gridster.js](http://gridster.net/)
 + [UI Parade](http://www.uiparade.com/)
 + [Prism](http://prismjs.com/)
+
+---
+
+### Ep5: JavaScript Tools
++ [Subtle Patterns](http://subtlepatterns.com/)
++ [Understanding Design Patterns in JavaScript](http://net.tutsplus.com/tutorials/javascript-ajax/digging-into-design-patterns-in-javascript/)
++ [Zoomooz.js](http://janne.aukia.com/zoomooz/)
++ [Prototypes](http://prototypesapp.com/)
++ [Can I Use](http://caniuse.com/)
++ [Cookie.js](https://github.com/js-coder/cookie.js)
++ [Gauge.js](http://bernii.github.com/gauge.js/)
++ [HTML5 Shim vs IE9 Emulation Mode](http://www.sitepoint.com/html5-shim-ie-emulation-mode/)
