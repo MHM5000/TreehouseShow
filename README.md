@@ -23,3 +23,10 @@ I personally use the show's links more than often. So I thought it would be a gr
 + [Zurb Foundation 3](http://foundation.zurb.com/)
 
 ---
+
+### Ep2: Retinafy Your Website
++ [Retina JS](http://retinajs.com/)
++ [How to Retinafy Your Website](http://mir.aculo.us/2012/06/26/flowchart-how-to-retinafy-your-website/)
++ [@thomasfuchs](http://twitter.com/thomasfuchs)
++ [CSS3 PS: A CSS3 Photoshop Plugin](http://css3ps.com/)
++ [Sublime Text 2 Tips for Beginners](http://blog.alainmeier.com/post/27255145114/some-things-beginners-might-not-know-about-sublime-text)
