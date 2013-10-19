@@ -316,7 +316,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep26
+### Ep26: jQuery Releases, Favicons and CSS Optimization
++ [Easing Functions Cheat Sheet](http://easings.net/)
++ [jQuery 1.9 Released](http://blog.jquery.com/2013/01/15/jquery-1-9-final-jquery-2-0-beta-migrate-final-released/)
++ [Maki Icons](http://mapbox.com/maki/)
++ [Parley.js](http://parsleyjs.org/)
++ [Understand the Favicon](http://www.jonathantneal.com/blog/understand-the-favicon/)
++ [basket.js](http://addyosmani.github.com/basket.js/)
++ [Using the HTML title attribute](http://www.paciellogroup.com/blog/2013/01/using-the-html-title-attribute-updated/)
++ [mincss](http://www.peterbe.com/plog/mincss)
 
 ---
 
