@@ -362,7 +362,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep30
+### Ep30: CSS and Frameworks w/ guest Ryan Carson
++ [Hint.css](http://kushagragour.in/lab/hint/)
++ [Using the main element](http://www.brucelawson.co.uk/2013/the-main-element/)
++ [Groundwork CSS ? A Responsive HTML5, CSS & Javascript Framework](http://groundwork.sidereel.com/?url=home)
++ [Character Entity Reference Chart](http://dev.w3.org/html5/html-author/charref)
++ [There Is No Breakpoint | Sparkbox](http://seesparkbox.com/foundry/there_is_no_breakpoint)
++ [typeahead.js](http://twitter.github.com/typeahead.js/)
++ [How To Design For Android Devices](http://blog.mengto.com/how-to-design-for-android-devices/)
++ [55+ Great and Useful Tools for Responsive Web Design](http://www.onextrapixel.com/2013/02/20/55-great-and-useful-tools-for-responsive-web-design/)
 
 ---
 
