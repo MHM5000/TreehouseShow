@@ -221,7 +221,15 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep18
+### Ep18: Backbone.js, Responsive Background Images, and HTML5 APIs
++ [Backbone.viewkit](https://github.com/scttnlsn/backbone.viewkit)
++ [Noise Texture Generator](http://www.noisetexturegenerator.com/)
++ [5 More HTML5 APIs You Didn't Know Existed](http://davidwalsh.name/more-html5-apis)
++ [Responsive Background Images](http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios)
++ [Sequel Pro](http://www.sequelpro.com/)
++ [Editable for Bootstrap](http://vitalets.github.com/bootstrap-editable/#)
++ [jPanelMenu](http://jpanelmenu.com/)
++ [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 
 ---
 
