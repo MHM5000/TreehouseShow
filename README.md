@@ -390,7 +390,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep32
+### Ep32: SVGs, Dropdowns, and HTML5 Form Elements
++ [SPOILER ALERT!](http://joshbuddy.github.com/spoiler-alert/)
++ [svg.js - A lightweight JavaScript library for manipulating and animating svg](http://www.svgjs.com/)
++ [Breaking down Amazon’s mega dropdown - Ben Kamens](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
++ [How to lose weight (in the browser)](http://browserdiet.com/)
++ [Preboot](http://getpreboot.com/)
++ [HTML5 forms input types | HTML5 Doctor](http://html5doctor.com/html5-forms-input-types/)
++ [Genericons - a free, GPL, flexible icon font for blogs!](http://genericons.com/)
++ [devref | HTTP Header Analyzer](http://devref.com/)
 
 ---
 
