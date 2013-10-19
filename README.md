@@ -98,7 +98,16 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep8
+### Ep8: Writing Markdown
++ [MagicNav.js](http://johnpolacek.github.com/MagicNav.js/)
++ [Glances](http://nicolargo.github.com/glances/)
++ [Slabtext](http://www.frequency-decoder.com/demo/slabText/)
++ [Marked](http://markedapp.com/)
++ [Thinking Async](http://css-tricks.com/thinking-async/)
++ [Typicons](http://www.typicons.com/)
++ [Automatic Conditional Retina Images](http://shauninman.com/tmp/retina/)
++ [SneakPeekIt](http://sneakpeekit.com/)
++ [jQuery Pictures](http://jquerypicture.com/)
 
 ---
 
