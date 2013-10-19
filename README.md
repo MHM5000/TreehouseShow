@@ -111,7 +111,17 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep9
+### Ep9: HTML5 Boilerplate
++ [Holder.js](http://imsky.github.com/holder/)
++ [Picturefill](https://github.com/scottjehl/picturefill)
++ [What The Key Code](http://whatthekeycode.com/)
++ [normalize.css](http://necolas.github.com/normalize.css/)
++ [Moom](http://manytricks.com/moom/)
++ [HTML5 Biolerplate 4.0](http://html5boilerplate.com/)
++ [HTML5 Boilerplate Changelog](https://github.com/h5bp/html5-boilerplate/blob/v4.0.0/CHANGELOG.md)
++ [Firefox Beta 16](https://hacks.mozilla.org/2012/08/new-firefox-command-line-helps-you-develop-faster/)
++ [JSbooks](http://jsbooks.revolunet.com/)
++ [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)
 
 ---
 
