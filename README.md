@@ -340,7 +340,14 @@ I personally use the show's links more than often. So I thought it would be a gr
 
 ---
 
-### Ep28
+### Ep28: Collapsing Headers, Icon Fonts, and More
++ [How To Create a Simple Collapsing Header Effect](http://line25.com/tutorials/how-to-create-a-simple-collapsing-header-effect)
++ [Textillate.js](http://jschr.github.com/textillate/)
++ [Trello uses an icon font and so can you](http://blog.fogcreek.com/trello-uses-an-icon-font-and-so-can-you/)
++ [Blokk](http://www.blokkfont.com/)
++ [Backstretch](http://srobbin.com/jquery-plugins/backstretch/)
++ [Flight](http://twitter.github.com/flight/)
++ [unsemantic](http://unsemantic.com/)
 
 ---
 
