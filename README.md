@@ -30,3 +30,14 @@ I personally use the show's links more than often. So I thought it would be a gr
 + [@thomasfuchs](http://twitter.com/thomasfuchs)
 + [CSS3 PS: A CSS3 Photoshop Plugin](http://css3ps.com/)
 + [Sublime Text 2 Tips for Beginners](http://blog.alainmeier.com/post/27255145114/some-things-beginners-might-not-know-about-sublime-text)
+
+---
+
+### Ep3: Rails 4 and OS X Mountain Lion
++ [Sprite Cow](http://www.spritecow.com/)
++ [OS X Mountain Lion Review](http://arstechnica.com/apple/2012/07/os-x-10-8/)
++ [Tiny PNG](http://tinypng.org/)
++ [Spin.js](http://fgnass.github.com/spin.js/)
++ [Phusion Passenger Updates](http://blog.phusion.nl/2012/07/24/roadmap-preview-1-phusion-passenger-4-0-and-phusion-passenger-enterprise/)
++ [UI-Cloud](http://ui-cloud.com/)
++ [Icon Monstr](http://iconmonstr.com/)
