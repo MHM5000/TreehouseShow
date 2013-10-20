@@ -592,7 +592,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep49
+### Ep49: App Store Screenshots, Regular Expressions, Programming Fonts
++ [Designing App Store “screenshots” by Travis Jeffery of 37signals](http://37signals.com/svn/posts/3553-designing-app-store-screenshots)
++ [Debuggex: The online visual regex tester. Supports JavaScript and PCRE.](http://www.debuggex.com/?flavor=pcre)
++ [Forecast Font](http://forecastfont.iconvau.lt/)
++ [JavascriptOO.com](http://www.javascriptoo.com/)
++ [Style Guide Boilerplate](https://bjankord.github.io/Style-Guide-Boilerplate/)
++ [AngularJS: an Overview - Glenn Stovall](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
++ [CSS filters, GIFs, and performance — What I Learned Building… — Medium](http://medium.com/what-i-learned-building/4364221d6d97)
++ [Slant - What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
 
 ---
 
