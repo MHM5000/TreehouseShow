@@ -545,7 +545,14 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep45
+### Ep45: UX, Sitemaps and JS Tours
++ [SIX UX](http://sixux.com/)
++ [How to keep up to date on Front-End Technologies - The Recipe](http://uptodate.frontendrescue.org/)
++ [Gif Countdown - Real time updating countdown with automatic time zone detection.](http://gifcountdown.com/)
++ [SlickMap CSS — A Visual Sitemapping Tool for Web Developers - Astuteo™](http://astuteo.com/slickmap)
++ [Tourist.js](http://easelinc.github.io/tourist/)
++ [least.js - Random & Responsive HTML 5, CSS3 Gallery with LazyLoad](http://kamilczujowski.github.io/least/)
++ [Free Responsive Testing Tool - Dimensions](http://www.dimensionsapp.com/)
 
 ---
 
