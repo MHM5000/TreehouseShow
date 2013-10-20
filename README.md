@@ -497,7 +497,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep41
+### Ep41: Reflections, Mobile Typography and Responsive Images
++ [BetterToggle jQuery Plugin](http://jquer.in/betterToggle-jquery-plugin/)
++ [Creating Realistic Reflections On Animated Glossy Elements](http://www.ryancollins.me/?p=404)
++ [Drawscript - convert Illustrator shapes into code](http://drawscri.pt/)
++ [Fullscreen Layout with Page Transitions | Codrops](http://tympanus.net/codrops/2013/04/23/fullscreen-layout-with-page-transitions/)
++ [How To Customize Your CSS Buttons With Pictogram Icons | DesignWoop](http://designwoop.com/2013/04/how-to-customize-your-css-buttons-with-pictogram-icons/)
++ [Typography in Mobile Design: Important Aspects and Examples - Designmodo](http://designmodo.com/mobile-design-typography/)
++ [estelle/clowncar · GitHub](http://github.com/estelle/clowncar)
++ [The Flattening of Design - NYTimes.com](http://bits.blogs.nytimes.com/2013/04/23/the-flattening-of-design/)
 
 ---
 
