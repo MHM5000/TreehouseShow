@@ -676,7 +676,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep56
+### Ep56: Node.js, CSS Buttons, PNG Compression
++ [Type Hunting](http://typehunting.com/)
++ [Random User Generator](http://randomuser.me/)
++ [Unsplash](http://unsplash.com/)
++ [An Absolute Beginner's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
++ [Buttons - A CSS button library built with Sass and Compass](http://alexwolfe.github.io/Buttons/)
++ [Compress PNG Images Online](http://compresspng.com/)
++ [Blind - A 1X Web Browser for Retina Displays - Mac OS X](http://blindbrowser.com/)
++ [Formstone  /  Ben Plum](http://www.benplum.com/formstone/)
 
 ---
 
