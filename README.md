@@ -604,7 +604,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep50
+### Ep50: OAuth, Canvas, Dev Tools
++ [Meet the Ipsums](http://meettheipsums.com/)
++ [tracking.js](http://www.trackingjs.com/)
++ [Webflow - Design Responsive Websites Visually](http://www.webflow.com/)
++ [OAuth.io - OAuth that just works.](http://oauth.io/#/home)
++ [Stylie. A graphical CSS animation tool.](http://jeremyckahn.github.io/stylie/)
++ [9 Mind-Blowing Canvas Demos](http://davidwalsh.name/canvas-demos)
++ [CSS Zen Garden: The Beauty in CSS Design](http://www.csszengarden.com/)
++ [Chrome DevTools Revolutions 2013 - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/)
 
 ---
 
