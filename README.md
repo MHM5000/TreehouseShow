@@ -425,7 +425,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep35
+### Ep35: JavaScript Tours and Pull Quotes
++ [Trip.js](http://eragonj.github.com/Trip.js/)
++ [Pull Quotes with HTML5 and CSS — miekd](http://miekd.com/articles/pull-quotes-with-html5-and-css/)
++ [jQuery Pin](http://webpop.github.com/jquery.pin/)
++ [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
++ [DevTools Extensions For Web App Developers](http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/)
++ [Almost Flat UI](http://websymphony.net/almost-flat-ui/)
++ [Practical Tips from Top WordPress Pros](http://wp.smashingmagazine.com/2013/03/20/practical-tips-top-wordpress-pros/)
++ [Zurb Foundation 4](http://foundation.zurb.com/)
 
 ---
 
