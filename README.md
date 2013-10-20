@@ -473,7 +473,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep39
+### Ep39: HTML Video and the Web as a Gaming Platform
++ [Cross browser compatible HTML5 videos | CatsWhoCode.com](http://www.catswhocode.com/blog/cross-browser-compatible-html5-videos)
++ [Mozilla is Unlocking the Power of the Web as a Platform for Gaming | The Mozilla Blog](http://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/)
++ [jQuery 2.0 Released | Official jQuery Blog](http://blog.jquery.com/2013/04/18/jquery-2-0-released/)
++ [jQuery Builder](http://projects.jga.me/jquery-builder/)
++ [shame.css – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts](http://csswizardry.com/2013/04/shame-css/)
++ [User Inter Faces](http://uifaces.com/)
++ [Single page apps in depth (a.k.a. Mixu' single page app book)](http://singlepageappbook.com/single-page.html)
++ [Responsive Multi-Level Menu | Codrops](http://tympanus.net/codrops/2013/04/19/responsive-multi-level-menu/)
 
 ---
 
