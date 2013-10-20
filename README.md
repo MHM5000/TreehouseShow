@@ -556,7 +556,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep46
+### Ep46: Responsive Images and HTML5 Form Inputs
++ [Midway.js | Automatically center responsive elements! | A project by Shipp Co.](http://shipp.co/midway/)
++ [Say Goodbye to Painful Image Loads on Small Devices. Say Hello to Interchange. by ZURB](http://zurb.com/article/1211/say-goodbye-to-painful-image-loads-on-sma)
++ [A Guide to the New HTML5 Form Input Types](http://sixrevisions.com/html5/new-html5-form-input-types/)
++ [Prinzhorn/skrollr](http://github.com/Prinzhorn/skrollr)
++ [Flippant.js](http://mintchaos.github.io/flippant.js/)
++ [Yes, you really can make complex webapps responsive](http://adioso.com/blog/2013/06/responsifying-adioso/)
++ [Progression.js](http://git.aaronlumsden.com/progression/#demo)
++ [Ughck. Images. - daverupert.com](http://daverupert.com/2013/06/ughck-images/)
 
 ---
 
