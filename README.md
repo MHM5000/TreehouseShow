@@ -726,7 +726,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep60
+### Ep60: CSS Animations, CSS Sprites, Form Building
++ [parallax.js](http://wagerfield.github.io/parallax/index.html)
++ [animo.js • Labs by Big Room Studios](http://labs.bigroomstudios.com/libraries/animo-js)
++ [Formbuilder.js by dobtco](http://dobtco.github.io/formbuilder/)
++ [completely.js](http://complete-ly.appspot.com/)
++ [Easily Remove Image Backgrounds Online - Clipping Magic](http://clippingmagic.com/)
++ [jpillora/xdomain](http://github.com/jpillora/xdomain)
++ [WebGL Filter](http://evanw.github.io/webgl-filter/)
++ [Spritemapper](http://yostudios.github.io/Spritemapper/)
 
 ---
 
