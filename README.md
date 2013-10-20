@@ -485,7 +485,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep40
+### Ep40: iTunes Scrolling and Mobile Shelving
++ [Quick 'n dirty iTunes 11 style scroller - CodePen](http://codepen.io/vaskemaskine/pen/DrdJE)
++ [Sly](http://darsa.in/sly/)
++ [jQuery.Shapeshift](http://mcpants.github.io/jquery.shapeshift/)
++ [Packery](http://packery.metafizzy.co/)
++ [Pure CSS Peeling Sticky - CodePen](http://codepen.io/patrickkunka/pen/axEgL)
++ [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer - Tech.Pro](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
++ [Niice. A search engine with taste.](http://www.niice.co/)
++ [jakiestfu/Snap.js · GitHub](http://github.com/jakiestfu/Snap.js/)
 
 ---
 
