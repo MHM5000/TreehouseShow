@@ -651,7 +651,16 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep54
+### Ep54: jQuery Plugins, Autoprefixer, CSS sprites
++ [The Responsinator](http://www.responsinator.com/)
++ [jQuery Boilerplate](http://jqueryboilerplate.com/)
++ [Autoprefixer](https://github.com/ai/autoprefixer)
++ [Glue — glue 0.3 documentation](http://glue.readthedocs.org/en/latest/)
++ [Cardinal — Build more with less.](http://cardinalcss.com/)
++ [Google Nexus Website Menu | Codrops](http://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/)
++ [Salvattore — A jQuery Masonry alternative with CSS-driven configuration.](http://salvattore.com/)
++ [FT Fastclick | FT Labs](http://labs.ft.com/articles/ft-fastclick/)
++ [Subtle Patterns | Free textures for your next web project.](http://subtlepatterns.com/)
 
 ---
 
