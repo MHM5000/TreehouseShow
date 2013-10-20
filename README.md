@@ -639,7 +639,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep53
+### Ep53: The ClassList API, CSS Frameworks, Animation
++ [The classList API | HTML5 Doctor](http://html5doctor.com/the-classlist-api/)
++ [Animated Books with CSS 3D Transforms - Demo 1](http://tympanus.net/Development/AnimatedBooks/)
++ [Animated GIFs the Hard Way](http://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html)
++ [Topcoat](http://topcoat.io/topcoat/)
++ [KineticJS HTML5 Canvas Framework](http://kineticjs.com/)
++ [Skeuocard by kenkeiter](http://kenkeiter.com/skeuocard/)
++ [Cross Site Request Forgery in JS Web Apps](http://blog.alexmaccaw.com/jswebapps-csrf)
++ [Animate.css](http://daneden.me/animate/)
 
 ---
 
