@@ -521,7 +521,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep43
+### Ep43: SVG and Icon Fonts, Typography and CSS Sliders
++ [Brackets](http://brackets.io/)
++ [hull, Reconciling SVG and Icon Fonts](http://blog.hull.io/post/47939445232/reconciling-svg-and-icon-fonts)
++ [Ui Parade - Live Tools](http://livetools.uiparade.com/index.html)
++ [Avoiding Unnecessary Paints - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
++ [Typeplate » A typographic starter kit encouraging great type on the Web](http://typeplate.com/)
++ [JavaScript Regular Expression Enlightenment - Tech.Pro](http://tech.pro/tutorial/1214/javascript-regular-expression-enlightenment)
++ [Slider with Sliding Backgrounds | CSS-Tricks](http://css-tricks.com/slider-with-sliding-backgrounds/)
++ [ClippyJS - Add Clippy or his friends to any website for instant nostalgia](http://www.smore.com/clippy-js)
 
 ---
 
