@@ -714,7 +714,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep59
+### Ep59: Form Validation, Safari Push Notifications, JavaScript Performance
++ [Formance.js by Omar Shammas](http://omarshammas.github.io/formancejs)
++ [Photon | CSS 3D Lighting Engine](http://photon.attasi.com/)
++ [json.human.js - Json Formatting for Human Beings](http://marianoguerra.github.io/json.human.js/)
++ [Pattern Lab](http://pattern-lab.info/)
++ [Safari Push Notifications - Apple Developer](http://developer.apple.com/notifications/safari-push-notifications/)
++ [dat.GUI](http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage)
++ [jsPerf: JavaScript performance playground](http://jsperf.com/)
++ [D3.js - Data-Driven Documents](http://d3js.org/)
 
 ---
 
