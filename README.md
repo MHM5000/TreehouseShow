@@ -568,7 +568,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep47
+### Ep47: Dev Tool Secrets
++ [Secrets of the Browser Developer Tools - Secrets](http://devtoolsecrets.com/)
++ [iOS7 GUI PSD | Teehan+Lax](http://www.teehanlax.com/tools/ios7/)
++ [JSDB.io - The Database of JavaScript Libraries](http://www.jsdb.io/?sort=trending)
++ [Ladda](http://lab.hakim.se/ladda/)
++ [philipwalton/html-inspector](http://github.com/philipwalton/html-inspector)
++ [simple statistics](http://macwright.org/simple-statistics/)
++ [magic css3 animations](http://www.minimamente.com/magic-css3-animations/)
++ [Creative Button Styles | Codrops](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
 
 ---
 
