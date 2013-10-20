@@ -449,7 +449,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep37
+### Ep37: Sublime Text 2 and Login Forms
++ [Login and Registration Form with HTML5 and CSS3 | Codrops](http://tympanus.net/codrops/2012/03/27/login-and-registration-form-with-html5-and-css3/)
++ [xyCSS.com : xy.css](http://xycss.com/xy/)
++ [CSS @supports](http://davidwalsh.name/css-supports)
++ [Setting up Sublime Text 2 | Alex MacCaw](http://blog.alexmaccaw.com/sublime-text)
++ [Metrize Icons • 300 Icons for Designers & Developers](http://www.alessioatzeni.com/metrize-icons/)
++ [MagicSuggest](http://nicolasbize.github.io/magicsuggest/)
++ [CSS Masking - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/masking/adobe/)
++ [jQuery Best Practices - CodeProject](http://www.codeproject.com/Tips/573781/jQuery-Best-Practices)
 
 ---
 
