@@ -580,7 +580,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep48
+### Ep48: Tablet friendly design, good ui, gif.js
++ [A Couple of Best Practices for Tablet-Friendly Design | CSS-Tricks](http://css-tricks.com/a-couple-of-best-practices-for-tablet-friendly-design/)
++ [gif.js](http://jnordberg.github.io/gif.js/)
++ [PortKit: UX Metaphor Equivalents for iOS & Android](http://kintek.com.au/blog/portkit-ux-metaphor-equivalents-for-ios-and-android/)
++ [Lunatech Blog: What every web developer must know about URL encoding](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
++ [Native Form Elements](http://nativeformelements.com/)
++ [Prepros :: Compile less, sass, scss, compass, stylus, cofffeescript, jade, haml, slim and markdown with live browser refresh.](http://alphapixels.com/prepros/)
++ [Real Shadow: Photorealistic Shadows](http://indamix.github.io/real-shadow/)
++ [GoodUI](http://goodui.org/)
 
 ---
 
