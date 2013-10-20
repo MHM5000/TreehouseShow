@@ -616,7 +616,14 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep51
+### Ep51: JavaScript diagramming, SASS, HTML5 Elements
++ [Macaw | The code-savvy web design tool.](http://macaw.co/)
++ [JointJS - JavaScript diagramming library.](http://jointjs.com/)
++ [Test Responsive Web Design With Our Free Tool - Dimensions App](http://www.dimensionsapp.com/)
++ [SassMeister | The Sass Playground!](http://sassmeister.com/)
++ [Typer from LayerVault](http://cosmos.layervault.com/typer-js.html)
++ [Element Index | HTML5 Doctor](http://html5doctor.com/element-index/)
++ [ZeroClipboard](http://zeroclipboard.github.io/ZeroClipboard/)
 
 ---
 
