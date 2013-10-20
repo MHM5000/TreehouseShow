@@ -738,4 +738,11 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep61
+### Ep61: Request Autocomplete, Navicons, CSS Preprocessing
++ [requestAutocomplete - take my money, not my time - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/forms/requestautocomplete/)
++ [Navicon Transformicons](http://codepen.io/bennettfeely/details/twbyA)
++ [Prerender - AngularJS SEO, BackboneJS SEO, or EmberJS SEO](http://prerender.io/)
++ [ProCSSor - Advanced CSS Prettifier](http://procssor.com/)
++ [jonathanstark/FastActive · GitHub](http://github.com/jonathanstark/FastActive)
++ [Optimizing UI icons for faster recognition « Boxes and Arrows](http://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition/)
++ [benweet/stackedit · GitHub](http://github.com/benweet/stackedit/)
