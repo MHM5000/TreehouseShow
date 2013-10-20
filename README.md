@@ -688,7 +688,16 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep57
+### Ep57: CSS3 Multiple Backgrounds, Ember.js, Favicons
++ [Decoupling Your HTML, CSS, and JavaScript — Philip Walton](http://philipwalton.com/articles/decoupling-html-css-and-javascript/)
++ [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
++ [Introducing CSS3 Multiple Backgrounds | Developer Drive](http://www.developerdrive.com/2013/08/introducing-css3-multiple-backgrounds/)
++ [Ember.js - Ember 1.0 Released](http://emberjs.com/blog/2013/08/31/ember-1-0-released.html)
++ [audreyr/favicon-cheat-sheet](http://github.com/audreyr/favicon-cheat-sheet)
++ [favico.js - Make a use of your favicon](http://lab.ejci.net/favico.js/)
++ [iOS Dev Tools](http://ios.devtools.me/)
++ [jpillora/xdomain](http://github.com/jpillora/xdomain)
++ [UIBox - Tag: typeahead](http://www.uibox.in/tag/typeahead)
 
 ---
 
