@@ -627,7 +627,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep52
+### Ep52: Reactive Programming, CSS Spacing, Image Loading
++ [tidyTime.js](http://git.aaronlumsden.com/tidytime.js/)
++ [Ractive.js - next-generation DOM manipulation](http://www.ractivejs.org/)
++ [MockUPhone - One Click to Wrap App Screenshots in Device Mockup!](http://mockuphone.com/)
++ [tracing-framework by Google](http://google.github.io/tracing-framework/index.html)
++ [paulirish/browser-logos](http://github.com/paulirish/browser-logos)
++ [Your app makes me fat — Serious Pony](http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat)
++ [Spacing The Bottom of Modules | CSS-Tricks](http://css-tricks.com/spacing-the-bottom-of-modules/)
++ [BARREL | Taking Control of Image Loading](http://www.barrelny.com/blog/taking-control-of-imageloading/)
 
 ---
 
