@@ -533,7 +533,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep44
+### Ep44: HTML5 Features, Responsive CSS Modules and Sass
++ [Movies in Color](http://moviesincolor.com/)
++ [5 HTML5 Features you need to know – Adnane Belmadiaf's Blog](http://daker.me/2013/05/5-html5-features-you-need-to-know.html)
++ [Pure](http://purecss.io/)
++ [Popcorn.js | The HTML5 Media Framework](http://popcornjs.org/)
++ [Sass Style Guide | CSS-Tricks](http://css-tricks.com/sass-style-guide/)
++ [Screensiz.es](http://screensiz.es/)
++ [Principles of Flat Design - Designmodo](http://designmodo.com/flat-design-principles/)
++ [Starters Guide to iOS Design](http://taybenlor.com/2013/05/21/designing-for-ios.html)
 
 ---
 
