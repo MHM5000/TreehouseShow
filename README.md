@@ -701,7 +701,16 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep58
+### Ep58: The Main Element, jQuery CLNDR, Keystrokes
++ [The main element | HTML5 Doctor](http://html5doctor.com/the-main-element/)
++ [HandJS - Home](http://handjs.codeplex.com/)
++ [Height equals width with pure CSS](http://www.mademyday.de/css-height-equals-width-with-pure-css.html)
++ [Git Tips For Beginners Interested In Open Source](http://markjberger.com/blog/git-tips-for-beginners-interested-in-open-source)
++ [CLNDR.js](http://kylestetz.github.io/CLNDR/)
++ [Mousetrap - Keyboard shortcuts in Javascript](http://craig.is/killing/mice)
++ [Why cards are the future of the web | Inside Intercom](http://insideintercom.io/why-cards-are-the-future-of-the-web/)
++ [ChocolateChip-UI](http://www.chocolatechip-ui.com/)
++ [Formbuilder.js by dobtco](http://dobtco.github.io/formbuilder/)
 
 ---
 
