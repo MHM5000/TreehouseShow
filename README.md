@@ -461,7 +461,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep38
+### Ep38: JavaScript Design Patterns and CSS Windows
++ [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
++ [Crocodoc](http://blog.crocodoc.com/post/46369766700/3d-ifying-documents-using-css-transforms)
++ [windows](http://nick-jonas.github.io/windows/)
++ [csscss by zmoazeni](http://zmoazeni.github.io/csscss/?hn=1)
++ [digitalBush » Masked Input Plugin](http://digitalbush.com/projects/masked-input-plugin/)
++ [Polychart.JS](http://www.polychartjs.com/)
++ [Cypher by djave-co](http://djave-co.github.io/jCypher/)
++ [Dashing](http://shopify.github.io/dashing/)
 
 ---
 
