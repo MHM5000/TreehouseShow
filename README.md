@@ -437,7 +437,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep36
+### Ep36: Sidebar Menus and Icon Stacks
++ [ququplay/jquery-mobile-flat-ui-theme · GitHub](http://github.com/ququplay/jquery-mobile-flat-ui-theme)
++ [Sidr - A jQuery plugin for creating side menus](http://www.berriart.com/sidr/)
++ [Lungo - HTML5 Cross-Device Framework](http://lungo.tapquo.com/)
++ [Conor Muirhead // Designer](http://conor.cc/posts/icon-stacks)
++ [Select2 3.3.2](http://ivaynberg.github.io/select2/)
++ [Tear-able Cloth on CodePen](http://codepen.io/stuffit/pen/KrAwx)
++ [Pickadate.js](http://amsul.ca/pickadate.js/)
++ [Chardin.js](http://heelhook.github.io/chardin.js/)
 
 ---
 
