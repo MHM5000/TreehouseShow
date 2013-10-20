@@ -509,7 +509,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep42
+### Ep42: Flat UI Colors, Don't do's with jQuery and Usability
++ [Flat UI Colors](http://flatuicolors.com/)
++ [5 Things You Should Stop Doing With jQuery | Flippin' Awesome](http://flippinawesome.org/2013/05/06/5-things-you-should-stop-doing-with-jquery/)
++ [ScriptCraft/docs/YoungPersonsGuideToProgrammingMinecraft.md at master · walterhiggins/ScriptCraft . GitHub](http://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md)
++ [Framer - Prototyping Tool](http://www.framerjs.com/)
++ [Usability checklist | Userium | Catch common usability problems before user testing.](http://userium.com/)
++ [Ghostlab](http://vanamco.com/ghostlab/)
++ [Handy Sass Mixins - Web Design Weekly](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/)
++ [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
 
 ---
 
