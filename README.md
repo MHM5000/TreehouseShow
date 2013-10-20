@@ -664,7 +664,15 @@ All this repo does is keep tracking of this show.
 
 ---
 
-### Ep55
+### Ep55: Web Typography, JavaScript Progress Bars, CSS 3D
++ [FlowType.JS — Responsive web typography at its finest: font-size and line-height based on element width.](http://simplefocus.com/flowtype/)
++ [AdminJS: The Backend-Agnostic Administration Framework](http://adminjs.com/)
++ [Responsive Images with Apropos](http://corner.squareup.com/2013/08/responsive-images-with-apropos.html)
++ [NProgress: slim progress bars in JavaScript](http://ricostacruz.com/nprogress/)
++ [1pxdeep | A flat Bootstrap 3 theme that changes color](http://rriepe.github.io/1pxdeep/)
++ [Thinkful | Javascript Best Practices Part 1](http://www.thinkful.com/learn/javascript-best-practices-1/)
++ [Tridiv | CSS 3D Editor](http://tridiv.com/)
++ [The iOS 7 Design Cheat Sheet - Ivo Mynttinen / User Interface Designer](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)
 
 ---
 
