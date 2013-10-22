@@ -13,7 +13,11 @@ Two hosts of the show are Jason Seifer([@jseifer](http://twitter.com/jseifer)) a
 
 Why?
 ---
-I personally use the show's links more than often. So I thought it would be a great idea to collect them all somewhere. Here they are:
+I personally use the show's links more than often. So I thought it would be a great idea to collect them all somewhere.
+
+Contribute
+---
+I really don't understand how, but you can [Contribute](https://github.com/MHM5000/TreehouseShow /wiki/Contribution "Contribute"). If you have any idea for this repo, just do it!
 
 One more note
 ---
