@@ -750,3 +750,23 @@ All this repo does is keep tracking of this show.
 + [jonathanstark/FastActive · GitHub](http://github.com/jonathanstark/FastActive)
 + [Optimizing UI icons for faster recognition « Boxes and Arrows](http://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition/)
 + [benweet/stackedit · GitHub](http://github.com/benweet/stackedit/)
+
+---
+
+### Ep62: CSS Position: fixed-sticky, Flexbox, Google Web Designer
++ [filamentgroup/fixed-sticky · GitHub](https://github.com/filamentgroup/fixed-sticky)
+	CSS position:sticky is really in its infancy in terms of browser support. In stock browsers, it is currently only available in iOS 6. In Chrome you can enable it by navigating to chrome://flags and enabling experimental “WebKit features” or “Web Platform features” (Canary).
++ [elclanrs/jq-idealforms · GitHub](https://github.com/elclanrs/jq-idealforms)
+	The ultimate framework for building and validating responsive HTML5 forms.
++ [Focus transition](http://n12v.com/focus-transition/)
+	Keyboard navigation has a major downside: it’s not clear where the focus moves upon pressing the Tab key. Animation makes the transition more apparent.
++ [wilsonpage/fastdom · GitHub](https://github.com/wilsonpage/fastdom)
+	Eliminates layout thrashing by batching DOM read/write operations
++ [Solved By Flexbox — Cleaner, hack-free CSS](http://philipwalton.github.io/solved-by-flexbox/)
+	A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
++ [Top Drawer - A smooth dropdown menu for responsive web design | Experiment #5](http://www.jordanm.co.uk/lab/topdrawer)
+	To demonstrate smoother reveal menus in small contexts using CSS3 rather than animating with JavaScript.
++ [Google Web Designer](http://www.google.com/webdesigner/)
+	Create engaging, interactive HTML5-based designs and motion graphics that can run on any device.
++ [Full Screen Mario](http://www.fullscreenmario.com/)
+	Full Screen Mario is a fully HTML5 remake of the original Super Mario Brothers. You can play the original levels, play through some of literally millions of possible random maps, or create your own using the level editor. This whole project is open source and free.
