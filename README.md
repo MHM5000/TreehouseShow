@@ -778,3 +778,31 @@ All this repo does is keep tracking of this show.
 + [Full Screen Mario](http://www.fullscreenmario.com/)
 	
 	Full Screen Mario is a fully HTML5 remake of the original Super Mario Brothers. You can play the original levels, play through some of literally millions of possible random maps, or create your own using the level editor. This whole project is open source and free.
+
+---
+
+### Ep63: Responsive Design, Rich Text Editing, Squircles
++ [Responsive Design Knowledge Hub](http://www.ugurus.com/responsive-design)
+	
+	A simple well designed hub to access Responsive Design resources.
++ [Sir Trevor JS | Made by Many](http://madebymany.github.io/sir-trevor-js/)
+	
+	An intuitive editor for web content which does not presuppose anything about how it will be rendered.
++ [UIPlayGround | CSS 3 Icons | CSS 3 Icons Generator | CSS 3 Icons Code Generator](http://www.uiplayground.in/css3-icons/)
+	
+	Over 200 easy to use CSS3 Icons. It will reduce the http Requests for you, too.
++ [Git/Github Resources | Brad Frost Web](http://bradfrostweb.com/blog/post/gitgithub-resources/)
+	
+	Great resources on how to learn working with git.
++ [Making iOS 7 squircles using CSS3](http://thecodeplayer.com/walkthrough/css3-squircles)
+	
+	How to make SQUIRCLES. Learn easy by TheCodePlayer.com
++ [hr.js](http://friendcode.github.io/hr.js/)
+	
+	Build large client-side applications in a structured way.
++ [Full Screen Mario](http://www.fullscreenmario.com/)
+	
+	Super Mario in Fullscreen
++ [Welcome - Polymer](http://www.polymer-project.org/)
+	
+	Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
