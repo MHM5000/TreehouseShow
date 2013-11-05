@@ -806,3 +806,34 @@ All this repo does is keep tracking of this show.
 + [Welcome - Polymer](http://www.polymer-project.org/)
 	
 	Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
+
+---
+
+### Ep64: Touchscreen UI events, Sprite and checkbox animation, Lo-Dash
++ [Touche.js](http://benhowdle.im/touche/)
+	
+	It removes the delay that happen when you touch an element on page with your touch-screen device.
++ [Motio](http://darsa.in/motio/)
+	
+	Small JavaScript library for sprite based animations and panning
++ [GridForms](http://kumailht.com/gridforms)
+	
+	A tiny Javascript/CSS framework that helps you make forms on grids with ease.
++ [Animated Checkboxes and Radio Buttons with SVG](http://tympanus.net/codrops/2013/10/15/animated-checkboxes-and-radio-buttons-with-svg/)
+	
+	Animation and SVG used for checkbox/radio
++ [Lo-Dash](http://lodash.com/)
+	
+	A utility library delivering consistency, customization, performance, & extras. You will find it pretty fascenating if you've used Undescore.js .
++ [CircleType.js](http://circletype.labwire.ca/)
+	
+	Circletype.js is a tiny (2.7kb) jQuery plugin that lets you set type on a circle
++ [Odometer](http://github.hubspot.com/odometer/docs/welcome/)
+	
+	TRANSITION NUMBERS WITH EASE
++ [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+	
+	A huge list of frontend development resources I collected over time. Pull requests are welcome. Website coming soon.
++ [TreehouseShow](https://github.com/MHM5000/TreehouseShow)
+	
+	This awesome List that **YOU** are scrolling right now! Thanks Treehouse. ;)
