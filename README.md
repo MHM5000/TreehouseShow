@@ -837,3 +837,29 @@ All this repo does is keep tracking of this show.
 + [TreehouseShow](https://github.com/MHM5000/TreehouseShow)
 	
 	This awesome List that **YOU** are scrolling right now! Thanks Treehouse. ;)
+
+---
+
+### Ep65: Contrast Ratio, Favicons, Offline Web Apps
+
++ [Contrast Ratio: Easily calculate color contrast ratios. Passing WCAG was never this easy!](http://leaverou.github.io/contrast-ratio/)
+
+	A great tool for Contrast Ratio
++ [Favicon Generator - Generate favicon pictures and HTML](http://realfavicongenerator.net/)
+
+	Favicon Generator. For real.
++ [Ionicons: The premium icon font for Ionic Framework](http://ionicons.com/)
+
+	A great icon font Licensed under MIT.
++ [Zeros in JavaScript](http://zero.milosz.ca/)
+
+	Crazy Javascript zeros!
++ [Responsive design, screens, and shearing layers — Unstoppable Robot Ninja](http://unstoppablerobotninja.com/entry/responsive-web-design-screens-and-shearing-layers/)
+
+	A great read on RWD.
++ [offline](http://github.hubspot.com/offline/)
+
+	Improve the experience of your app when your users lose connection.
++ [Snazzy Maps - Color Schemes for Google Maps](http://snazzymaps.com/?page=2)
+
+	Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
