@@ -863,6 +863,7 @@ All this repo does is keep tracking of this show.
 + [Snazzy Maps - Color Schemes for Google Maps](http://snazzymaps.com/?page=2)
 
 	Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
+
 ---
 
 ### Ep66: JavaScript Formatting, Pie Charts, SVG Animation
