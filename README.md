@@ -863,3 +863,34 @@ All this repo does is keep tracking of this show.
 + [Snazzy Maps - Color Schemes for Google Maps](http://snazzymaps.com/?page=2)
 
 	Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
+---
+
+### Ep66: JavaScript Formatting, Pie Charts, SVG Animation
+
++ [Pixelkit/PixelKit-Bootstrap-UI-Kits](http://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits)
+
+	Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!
++ [formatter.js by firstopinion](http://firstopinion.github.io/formatter.js/)
+
+	Format user input to match a specified pattern
++ [Lazy Line Painter](http://lazylinepainter.info/)
+
+	A JQUERY PLUGIN FOR SVG PATH ANIMATION
++ [Snap.svg - Home](http://snapsvg.io/)
+
+	The JavaScript SVG library for the modern web.
++ [PhysicsJS - A modular, extendable, and easy-to-use physics engine for javascript](http://wellcaffeinated.net/PhysicsJS/)
+
+	A modular, extendable, and easy-to-use physics engine for javascript
++ [airbnb/javascript](https://github.com/airbnb/javascript)
+
+	JavaScript Style Guide
++ [Creating Non-Rectangular Layouts with CSS Shapes](http://sarasoueidan.com/blog/css-shapes/index.html)
+
+	A great read on Creating Non-Rectangular Layouts with CSS Shapes.
++ [stickUp - a free jQuery Plugin](http://lirancohen.github.io/stickUp/)
+
+	A simple plugin that "sticks" an element to the top of the browser window while scrolling past it, always keeping it in view. 
++ [Pizza Pie Charts | Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
+
+	Creating responsive pie charts for any device is a piece of pie.
