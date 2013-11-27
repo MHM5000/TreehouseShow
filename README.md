@@ -895,3 +895,29 @@ All this repo does is keep tracking of this show.
 + [Pizza Pie Charts | Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
 
 	Creating responsive pie charts for any device is a piece of pie.
+
+---
+
+### Ep67: Responsive HTML Emails, JavaScript Techniques, WebGL
+
++ [Responsive HTML Emails: a Different Strategy - Fog Creek Blog](http://blog.fogcreek.com/responsive-html-emails-a-different-strategy/)
+
+    A good read on RWD in Emails.
++ [Frequently Misunderstood JavaScript Concepts](http://bolinfest.com/javascript/misunderstood.html)
+
+    Frequently Misunderstood JavaScript Concepts.
++ [Building an amazing fullscreen mobile experience - HTML5 Rocks](http://www.html5rocks.com/en/mobile/fullscreen/)
+
+    Building an amazing fullscreen mobile experience.
++ [Creditcard.js](http://creditcardjs.com/)
+
+    Make your Payment forms a little better.
++ [WebGL Shaders with Firefox Developer Tools](http://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/)
+
+    Live editing WebGL shaders with Firefox Developer Tools
++ [getify/You-Dont-Know-JS](http://github.com/getify/You-Dont-Know-JS)
+
+    A JavaScript book series launched through Kickstarter
++ [Techniques for Responsive Typography | Codrops](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
+
+    A good read on Typography.
