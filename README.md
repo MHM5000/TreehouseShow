@@ -921,3 +921,29 @@ All this repo does is keep tracking of this show.
 + [Techniques for Responsive Typography | Codrops](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
 
     A good read on Typography.
+
+---
+
+### Ep68: JavaScript Templating, Flexbox, DevTools
+
++ [End Dash](http://www.enddash.com/)
+
+	EndDash is a two-way binding javascript templating framework built on top of semantic HTML
++ [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+
+	THE ULTIMATE FLEXBOX CHEAT SHEET
++ [Badoo Tech Blog :: 5 Advanced Javascript and Web Debugging Techniques You Should Know About](http://techblog.badoo.com/blog/2013/11/18/5-advanced-javascript-and-web-debugging-techniques-you-should-know-about/)
+
+	5 advanced techniques which web developers can use to reduce the time they spend debugging and squash challenging bugs by using new tools available to us
++ [Animated Opening Type | Codrops](http://tympanus.net/codrops/2013/11/14/animated-opening-type/)
+
+	A tutorial on how to create an interesting animated 3D opening type effect with pseudo-elements, CSS transforms and transitions.
++ [DevTools Snippets](http://bgrins.github.io/devtools-snippets/)
+
+	A collection of helpful snippets to use inside of browser devtools
++ [Color Template](http://www.rocket-design.fr/color-template/)
+
+	Choose the right color for your designs.
++ [Advanced JavaScript Debugging with console.table()](http://www.mariusschulz.com/2013/11/13/advanced-javascript-debugging-with-consoletable)
+
+	Learn about a nifty little JavaScript debugging feature which is part of Chrome's developer tools.
