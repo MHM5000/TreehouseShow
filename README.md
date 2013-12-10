@@ -902,25 +902,25 @@ All this repo does is keep tracking of this show.
 
 + [Responsive HTML Emails: a Different Strategy - Fog Creek Blog](http://blog.fogcreek.com/responsive-html-emails-a-different-strategy/)
 
-    A good read on RWD in Emails.
+	A good read on RWD in Emails.
 + [Frequently Misunderstood JavaScript Concepts](http://bolinfest.com/javascript/misunderstood.html)
 
-    Frequently Misunderstood JavaScript Concepts.
+	Frequently Misunderstood JavaScript Concepts.
 + [Building an amazing fullscreen mobile experience - HTML5 Rocks](http://www.html5rocks.com/en/mobile/fullscreen/)
 
-    Building an amazing fullscreen mobile experience.
+	Building an amazing fullscreen mobile experience.
 + [Creditcard.js](http://creditcardjs.com/)
 
-    Make your Payment forms a little better.
+	Make your Payment forms a little better.
 + [WebGL Shaders with Firefox Developer Tools](http://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/)
 
-    Live editing WebGL shaders with Firefox Developer Tools
+	Live editing WebGL shaders with Firefox Developer Tools
 + [getify/You-Dont-Know-JS](http://github.com/getify/You-Dont-Know-JS)
 
-    A JavaScript book series launched through Kickstarter
+	A JavaScript book series launched through Kickstarter
 + [Techniques for Responsive Typography | Codrops](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
 
-    A good read on Typography.
+	A good read on Typography.
 
 ---
 
@@ -947,3 +947,32 @@ All this repo does is keep tracking of this show.
 + [Advanced JavaScript Debugging with console.table()](http://www.mariusschulz.com/2013/11/13/advanced-javascript-debugging-with-consoletable)
 
 	Learn about a nifty little JavaScript debugging feature which is part of Chrome's developer tools.
+
+---
+
+### Ep69: JavaScript Footnotes, Geographic Autocompletion, Sortable Lists
+
++ [Bigfoot](http://cmsauve.com/labs/bigfoot/)
+
+	A jQuery plugin for empowering footnotes.
++ [Blueprints For Web And Print: Specctr, A Free Adobe Illustrator Plugin | Smashing Magazine](http://www.smashingmagazine.com/2013/11/15/specctr-an-adobe-illustrator-plugin-freebie/)
+
+	Blueprints For Web And Print.
++ [Geocomplete - jQuery Geocoding and Places Autocomplete Plugin](http://ubilabs.github.io/geocomplete/)
+
+	An advanced jQuery plugin that wraps the Google Maps API's Geocoding and Places Autocomplete services.
++ [OriDomi - origami for the web](http://oridomi.com/)
+
+	Fold the DOM like paper.
++ [List.js - Search, sort, filters, flexibility to tables, list and more!](http://listjs.com/)
+
+	Tiny, invisible and simple, yet powerful and incredibly fast vanilla Javascript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.
++ [Perfection kills » Exploring canvas drawing techniques](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
+
+	Canvas and designing.
++ [Sortable – Sorting tables since 2007](http://github.hubspot.com/sortable/docs/welcome/?hnd2)
+
+	Drop-in script to make your tables sortable.
++ [CSS Alignment and Sizing](http://timseverien.nl/2013/10/css-alignment-and-sizing/)
+
+	Alignment and sizing
