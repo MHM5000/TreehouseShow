@@ -976,3 +976,32 @@ All this repo does is keep tracking of this show.
 + [CSS Alignment and Sizing](http://timseverien.nl/2013/10/css-alignment-and-sizing/)
 
 	Alignment and sizing
+
+---
+
+### Ep70: URL Rewriting, Responsive Emails, QR Codes
+
++ [URL Rewriting for the Fearful ? 24 ways](http://24ways.org/2013/url-rewriting-for-the-fearful/)
+
+	URL Rewriting
++ [GitHub Résumé]()
+
+	Easily make résumé out of your github.
++ [AutoJS by atmb4u]()
+
+	Helps you write faster than ever.
++ [Ink: A Responsive Email Framework from ZURB]()
+
+	Quickly create responsive HTML emails that work on any device & client. Even Outlook.
++ [qrcode.js]()
+
+	Make QRCode with js.
++ [The HTML5 meter Element | CSS-Tricks]()
+
+	HTML meter Element
++ [Prism]()
+
+	Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind.
++ [A Collection of Section Separators]()
+
+	A collection of separator styles for horizontally dividing sections on a website.
