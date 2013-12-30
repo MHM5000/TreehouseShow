@@ -1005,3 +1005,32 @@ All this repo does is keep tracking of this show.
 + [A Collection of Section Separators]()
 
 	A collection of separator styles for horizontally dividing sections on a website.
+
+---
+
+### Ep71: Animated GIFs for Documentation, Chrome DevTools for Mobile, Grunt
+
++ [Creating Animated GIFs for Documentation - David Smith](http://david-smith.org/blog/2013/12/02/creating-animated-gifs-for-documentation/)
+
+    A good article on Creating Animated GIFs for Documentation
++ [Chrome DevTools for Mobile: Screencast and Emulation - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/mobile/)
+
+    Chrome DevTools for Mobile
++ [Grunt for People Who Think Things Like Grunt are Weird and Hard ? 24 ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
+
+    If you think Grunt is hard, just read this Article!
++ [Bulletproof email buttons | Campaign Monitor](http://buttons.cm/)
+
+    Design gorgeous buttons using progressively enhanced VML and CSS.
++ [Headroom.js](http://wicky.nillia.ms/headroom.js/)
+
+    Give your pages some headroom. Hide your header until you need it.
++ [Duo, the browser for responsive web development from Electric Pulp](http://helloduo.com/)
+
+    A new way to see Responsive Web Development.
++ [JavaScript Promises: There and back again - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/)
+
+    JavaScript Promises: There and back again
++ [jquery.adaptive-backgrounds.js • A jQuery plugin for extracting dominant colors from images and applying it to its parent](http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/)
+
+    A jQuery plugin for extracting dominant colors from images and applying it to its parent.
