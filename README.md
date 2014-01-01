@@ -1034,3 +1034,29 @@ All this repo does is keep tracking of this show.
 + [jquery.adaptive-backgrounds.js • A jQuery plugin for extracting dominant colors from images and applying it to its parent](http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/)
 
     A jQuery plugin for extracting dominant colors from images and applying it to its parent.
+
+---
+
+### Ep72: Dynamic Tables, Progress Button Styles, Spinkit
+
++ [Dynatable.js - jQuery plugin for HTML5+JSON interactive tables and more](http://www.dynatable.com/)
+
+    Dynatable is a funner, semantic, interactive table plugin using jQuery, HTML5, and JSON. And it's not just for tables.
++ [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
+
+    Creative effects for loading buttons
++ [300ms tap delay, gone away - HTML5Rocks Updates](http://updates.html5rocks.com/2013/12/300ms-tap-delay-gone-away)
+
+    Remove touch delay.
++ [SpinKit | Simple CSS Spinners](http://tobiasahlin.com/spinkit/)
+
+    A collection of loading indicators animated with CSS
++ [zertosh/jquery-audit](https://github.com/zertosh/jquery-audit)
+
+    jQuery Audit is a Chrome Developer Tools extension for auditing jQuery.
++ [Freestyle | Pixate](http://www.pixate.com/freestyle/)
+
+    Freestyle is a simple, powerful way to define the look and feel of your app, via structured CSS and Sass.
++ [Zoomerang.js](http://yyx990803.github.io/zoomerang/)
+
+    is a drop-in library that allows your users to zoom in on (almost) any element on your existing page. No setup, arbitrary styling.
