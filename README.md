@@ -1060,3 +1060,32 @@ All this repo does is keep tracking of this show.
 + [Zoomerang.js](http://yyx990803.github.io/zoomerang/)
 
     is a drop-in library that allows your users to zoom in on (almost) any element on your existing page. No setup, arbitrary styling.
+
+---
+
+### Ep73: Sprite Generation, Native HTML5 Apps, Color Schemes
+
++ [The Sprite Generator (beta) » Stupid Apps](http://apps.stupid-studio.com/)
+
+    The Sprite Generator (beta) - Unlimited frames, high FPS, full control.
++ [Tools | Intel® Developer Zone](http://software.intel.com/en-us/html5/tools)
+
+    Develop, emulate, test-on-device and build apps like never before.
++ [Colors](http://clrs.cc/)
+
+    A nicer color palette for the web.
++ [ckundo/access_lint](https://github.com/ckundo/access_lint)
+
+    Check for web accessibility errors from Ruby
++ [Planetary.js: Awesome interactive globes for the web](http://planetaryjs.com/)
+
+    Awesome interactive globes for the web
++ [Magnifier.js demo](http://mark-rolich.github.io/Magnifier.js/)
+
+    Magnifier.js is a Javascript library enabling magnifying glass effect on an images.
++ [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
+
+    A collection of CSS3 powered hover effects to be applied to call to actions, buttons, logos, featured images and so on.
++ [Placeit - Generate Product Screenshots in Realistic Environments](https://placeit.net/)
+
+    Generate Product Screenshots in Realistic Environments!
