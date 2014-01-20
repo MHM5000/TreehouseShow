@@ -1,6 +1,6 @@
 TreehouseShow
 ===
-![Treehouse Show](https://github.com/MHM5000/TreehouseShow/blob/master/treehouseshownew.jpg)
+![Treehouse Show](https://raw2.github.com/MHM5000/TreehouseShow/master/treehouseshownew.jpg)
 
 Intro
 ---
