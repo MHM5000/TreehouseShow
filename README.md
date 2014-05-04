@@ -1090,3 +1090,32 @@ All this repo does is keep tracking of this show.
 + [Placeit - Generate Product Screenshots in Realistic Environments](https://placeit.net/)
 
     Generate Product Screenshots in Realistic Environments!
+
+---
+
+### Ep74: JavaScript Tips and Tricks, Typography, HTML5 Game Development
+
++ [45 Useful JavaScript Tips, Tricks and Best Practices](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/)
+
+    45 Useful JavaScript Tips, Tricks and Best Practices
++ [csswizardry/typecsset](https://github.com/csswizardry/typecsset)
+
+    A small Sass library for setting type on the web.
++ [Smooth image loading by upscaling](http://spadgos.github.io/blog/2014/01/08/smooth-image-loading-by-upscaling/)
+
+    A technique to make the loading of images appear smoother and faster
++ [Shape Hover Effect with SVG](http://tympanus.net/codrops/2014/01/07/shape-hover-effect-with-svg/)
+
+    Recreate the hover effect as seen on The Christmas Experiments website using SVG for the shape and Snap.svg for animating it on hover.
++ [Slip.js](http://pornel.net/slip/)
+
+    Swiping and reordering lists of elements on touch screens, no fuss.
++ [Butterick's Practical Typography](http://practicaltypography.com/)
+
+    This book will make you a bet­ter typographer
++ [Best jQuery Plugins of 2013](http://webdesignledger.com/tools/best-jquery-plugins-of-2013)
+
+    Best jQuery Plugins of 2013.
++ [Phaser - Desktop and Mobile HTML5 game framework](http://phaser.io/)
+
+    A free, fast and flexible framework for HTML5 game creation
