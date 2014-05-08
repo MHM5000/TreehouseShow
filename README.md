@@ -1119,3 +1119,34 @@ All this repo does is keep tracking of this show.
 + [Phaser - Desktop and Mobile HTML5 game framework](http://phaser.io/)
 
     A free, fast and flexible framework for HTML5 game creation
+
+    ---
+
+---
+
+### Ep75: Flexible Navigation, JavaScript Good Parts, CSS Animation Tricks
+
++ [FlexNav - A jQuery Plugin for Responsive Menus](http://jasonweaver.name/lab/flexiblenavigation/)
+
+    Navigation for flexible layouts.
++ [JS: The Right Way](http://jstherightway.org/)
+
+    A great collection of articles on different methods of developing your JavaScript
++ [Download Bootstrap 3 UI Kit](http://bootstrapuikit.com/)
+
+    A vector UI kit for bootstrap 3
++ [Fit.js » Fit things into other things](http://soulwire.github.io/fit.js/)
+
+    Fit DOM elements into other DOM elements
++ [CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More | CSS-Tricks](http://css-tricks.com/css-animation-tricks/)
+
+    CSS animations
++ [countUp.js](http://inorganik.github.io/countUp.js/)
+
+    Counter animations
++ [Design the Details: Empty States by @hamishmcneill — Realmac Software Blog](http://realmacsoftware.com/blog/design-the-details-empty-states)
+
+    A blog pody on designing an empty state
++ [Windows Chrome, why do my fonts look so bad? - Lee Green](http://lee.greens.io/blog/2014/01/13/windows-chrome/)
+
+    A blog post about a web font bug in Google Chrome
