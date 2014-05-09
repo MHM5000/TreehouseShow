@@ -1150,3 +1150,32 @@ All this repo does is keep tracking of this show.
 + [Windows Chrome, why do my fonts look so bad? - Lee Green](http://lee.greens.io/blog/2014/01/13/windows-chrome/)
 
     A blog post about a web font bug in Google Chrome
+
+---
+
+### Ep76: Gulp, Kinetic Scrolling, Page Visibility
+
++ [Getting started with gulp — Mark Goodyear — Front-end developer and designer](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
+
+    A task management system
++ [ariya/kinetic](https://github.com/ariya/kinetic)
+
+    Kinetic scrolling in JS
++ [Ifvisible.js by serkanyersen](http://serkanyersen.github.io/ifvisible.js/)
+
+    Checks if current page is visible
++ [matthieua/jackInTheBox](https://github.com/matthieua/jackInTheBox)
+
+    Reveals animations as you scroll
++ [Avoiding anonymous JavaScript functions](http://toddmotto.com/avoiding-anonymous-javascript-functions/)
+
+    Why to avoid anonymous JS functions
++ [Your guide to the best Google web fonts | Whats the Closest Google Font?](http://joelcrawfordsmith.com/new/content/your-guide-best-google-web-fonts)
+
+    Find the closest google web font alternative to any font
++ [Yo Polymer -- A Whirlwind Tour Of Web Component Tooling - HTML5Rocks Updates](http://updates.html5rocks.com/2014/01/Yo-Polymer-A-Whirlwind-Tour-Of-Web-Component-Tooling)
+
+    Create a jukebox application
++ [Bulletproof Accessible Icon Fonts | Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/bulletproof_icon_fonts)
+
+    A blog post about icon fonts
