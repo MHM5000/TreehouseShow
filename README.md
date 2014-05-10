@@ -1179,3 +1179,29 @@ All this repo does is keep tracking of this show.
 + [Bulletproof Accessible Icon Fonts | Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/bulletproof_icon_fonts)
 
     A blog post about icon fonts
+
+---
+
+### Ep77: Sass Mixins, JavaScript Coding, Git Tips
+
++ [Z63 | 8 Sass mixins you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
+
+    Eight Sass mixins to include in your toolbox
++ [Firefox Notes - Desktop](http://www.mozilla.org/en-US/firefox/27.0/releasenotes/)
+
+    Firefox 27 has been released!
++ [Sass: Mixin or Placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/)
+
+    A blog post about Sass
++ [A re-introduction to JavaScript (JS Tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+    A blog post about JS
++ [carrot/share-button](https://github.com/carrot/share-button)
+
+    A single share button that includes them all
++ [Git tips from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
+
+    Tips for using Git
++ [A List Apart Pattern Library](http://patterns.alistapart.com/)
+
+    A pattern library
