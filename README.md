@@ -2,28 +2,25 @@ TreehouseShow
 ===
 ![Treehouse Show](https://raw2.github.com/MHM5000/TreehouseShow/master/treehouseshownew.jpg)
 
-Intro
----
 [Teamtreehouse](http://teamtreehouse.com/) and it's great teachers will help you to have a great start in dev/des.
 
-Other than that, you can have a "weekly dose of internet, where they talk about web design, web development and more" ( :-D ), and a lot more in Bonus Content.(Personally find [Exercise Your Creative](http://teamtreehouse.com/library/exercise-your-creative) quite fascinating)
+Other than that, you can have a "weekly dose of internet, where they talk about web design, web development and more" ( :-D ), and a lot more in Bonus Content.(I Personally find [Exercise Your Creative](http://teamtreehouse.com/library/exercise-your-creative) quite fascinating)
 
 There is [Youtube Channel](http://youtube.com/user/gotreehouse), [iTunes feed](https://itunes.apple.com/us/podcast/the-treehouse-show-hd/id623064192) or [Bonus Content](http://teamtreehouse.com/library/the-treehouse-show) to watch these videos. Don't forget to check them out.
 
-Two hosts of the show are Jason Seifer([@jseifer](http://twitter.com/jseifer)) and Nick Pettit([@nickrp](http://twitter.com/nickrp)). Jim Hoskins([@jimrhoskins](http://twitter.com/jimrhoskins)) appears as well.
+The two hosts of the show are Jason Seifer([@jseifer](http://twitter.com/jseifer)) and Nick Pettit([@nickrp](http://twitter.com/nickrp)). Jim Hoskins([@jimrhoskins](http://twitter.com/jimrhoskins)) appears as well.
 
-Why?
+Purpose of repo
 ---
-I personally use the show's links more than often. So I thought it would be a great idea to collect them all somewhere.
+The Treehouse Show is full of helpful resources. For example, if you're looking for a blog post about responsive design, [go ahead](http://eightarms.co.uk/blog/go-ahead-with-the-treehouse-show/) and do ctrl+f or command+f on your keyboard and type in responsive design.
 
-Contribute
+How to Contribute
 ---
-I really don't understand how, but you can [Contribute](https://github.com/MHM5000/TreehouseShow /wiki/Contribution "Contribute"). If you have any idea for this repo, just do it!
+If you feel like being awesome, please do [Contribute](https://github.com/MHM5000/TreehouseShow /wiki/Contribution "Contribute"). If you have any idea for this repo, just do it!
 
 One more note
 ---
-It's been more than a year from the first episode. It's probable that you find unactive(broken) links, updated versions of software or better replacements.
-All this repo does is keep tracking of this show.
+It's been more than a year since the first episode; You may run into broken links. If you do find one, then please do let me know in the issues section.
 
 ---
 
@@ -1230,4 +1227,33 @@ All this repo does is keep tracking of this show.
 	When you might not need jQuery
 + [Origins of Common UI Symbols](https://readymag.com/shuffle/ui-symbols/)
 
-	Origins of symbols
+   Origins of symbols 
+
+---
+
+### Ep79: Front-End Development Guidelines, Sublime Text, Sass and Compass
+
++ [Tmw-frontend-guidelines](http://tmwagency.github.io/TMW-frontend-guidelines/)
+
+	A guide for frontend development
++ [Sublimall](http://sublimall.org/)
+
+	Keep your sublime settings synced
++ [Sache: Find Sass and Compass Extensions for your next project](http://www.sache.in/)
+
+	Discover Sass and Compass extentions
++ [InstantClick – JS lib to make your website instant](http://instantclick.io/)
+
+	Drematically speed up your website's navigation
++ [CSS A/Z](http://cssaz.tumblr.com/)
+
+	A HTML and CSS animation for each letter
++ [Go ahead, with the Treehouse Show | Eight Arms, London](http://eightarms.co.uk/blog/go-ahead-with-the-treehouse-show/)
+
+	A blog post about the Treehouse Show
++ [Hemingway](http://www.hemingwayapp.com/)
+
+	Makes your writting bold and clear
++ [Mozilla localForge](http://mozilla.github.io/localForage/)
+
+	Improves the offline experiance of your web application
