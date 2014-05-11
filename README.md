@@ -1205,3 +1205,29 @@ All this repo does is keep tracking of this show.
 + [A List Apart Pattern Library](http://patterns.alistapart.com/)
 
     A pattern library
+
+---
+
+### Ep78: Origami, HTML 5 Game Development, Form Labels
+
++ [Origami - Design prototyping with Quartz Composer](http://facebook.github.io/origami/)
+
+    A project from Facebook for prototyping
++ [Molecule - HTML5 game development framework](www.moleculejs.net)
+
+    HTML5 game development framework
++ [Image Lightbox, Responsive and Touch?friendly — Osvaldas Valutis](http://osvaldas.info/image-lightbox-responsive-touch-friendly)
+
+    An image lightbox
++ [fronteed/iCheck](https://github.com/fronteed/iCheck)
+
+    Custom checkboxes and more
++ [Form Label Design – David Bushell – Web Design & Front-end Development](http://dbushell.com/2013/11/08/form-label-design/)
+
+    Form label design blog post
++ [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+
+    When you might not need jQuery
++ [Origins of Common UI Symbols](https://readymag.com/shuffle/ui-symbols/)
+
+   Origins of symbols 
