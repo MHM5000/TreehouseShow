@@ -1013,28 +1013,28 @@ All this repo does is keep tracking of this show.
 
 + [Creating Animated GIFs for Documentation - David Smith](http://david-smith.org/blog/2013/12/02/creating-animated-gifs-for-documentation/)
 
-    A good article on Creating Animated GIFs for Documentation
+	A good article on Creating Animated GIFs for Documentation
 + [Chrome DevTools for Mobile: Screencast and Emulation - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/mobile/)
 
-    Chrome DevTools for Mobile
+	Chrome DevTools for Mobile
 + [Grunt for People Who Think Things Like Grunt are Weird and Hard ? 24 ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
 
-    If you think Grunt is hard, just read this Article!
+	If you think Grunt is hard, just read this Article!
 + [Bulletproof email buttons | Campaign Monitor](http://buttons.cm/)
 
-    Design gorgeous buttons using progressively enhanced VML and CSS.
+	Design gorgeous buttons using progressively enhanced VML and CSS.
 + [Headroom.js](http://wicky.nillia.ms/headroom.js/)
 
-    Give your pages some headroom. Hide your header until you need it.
+	Give your pages some headroom. Hide your header until you need it.
 + [Duo, the browser for responsive web development from Electric Pulp](http://helloduo.com/)
 
-    A new way to see Responsive Web Development.
+	A new way to see Responsive Web Development.
 + [JavaScript Promises: There and back again - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
-    JavaScript Promises: There and back again
+	JavaScript Promises: There and back again
 + [jquery.adaptive-backgrounds.js • A jQuery plugin for extracting dominant colors from images and applying it to its parent](http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/)
 
-    A jQuery plugin for extracting dominant colors from images and applying it to its parent.
+	A jQuery plugin for extracting dominant colors from images and applying it to its parent.
 
 ---
 
@@ -1042,25 +1042,25 @@ All this repo does is keep tracking of this show.
 
 + [Dynatable.js - jQuery plugin for HTML5+JSON interactive tables and more](http://www.dynatable.com/)
 
-    Dynatable is a funner, semantic, interactive table plugin using jQuery, HTML5, and JSON. And it's not just for tables.
+	Dynatable is a funner, semantic, interactive table plugin using jQuery, HTML5, and JSON. And it's not just for tables.
 + [Progress Button Styles](http://tympanus.net/Development/ProgressButtonStyles/)
 
-    Creative effects for loading buttons
+	Creative effects for loading buttons
 + [300ms tap delay, gone away - HTML5Rocks Updates](http://updates.html5rocks.com/2013/12/300ms-tap-delay-gone-away)
 
-    Remove touch delay.
+	Remove touch delay.
 + [SpinKit | Simple CSS Spinners](http://tobiasahlin.com/spinkit/)
 
-    A collection of loading indicators animated with CSS
+	A collection of loading indicators animated with CSS
 + [zertosh/jquery-audit](https://github.com/zertosh/jquery-audit)
 
-    jQuery Audit is a Chrome Developer Tools extension for auditing jQuery.
+	jQuery Audit is a Chrome Developer Tools extension for auditing jQuery.
 + [Freestyle | Pixate](http://www.pixate.com/freestyle/)
 
-    Freestyle is a simple, powerful way to define the look and feel of your app, via structured CSS and Sass.
+	Freestyle is a simple, powerful way to define the look and feel of your app, via structured CSS and Sass.
 + [Zoomerang.js](http://yyx990803.github.io/zoomerang/)
 
-    is a drop-in library that allows your users to zoom in on (almost) any element on your existing page. No setup, arbitrary styling.
+	is a drop-in library that allows your users to zoom in on (almost) any element on your existing page. No setup, arbitrary styling.
 
 ---
 
@@ -1068,28 +1068,28 @@ All this repo does is keep tracking of this show.
 
 + [The Sprite Generator (beta) » Stupid Apps](http://apps.stupid-studio.com/)
 
-    The Sprite Generator (beta) - Unlimited frames, high FPS, full control.
+	The Sprite Generator (beta) - Unlimited frames, high FPS, full control.
 + [Tools | Intel® Developer Zone](http://software.intel.com/en-us/html5/tools)
 
-    Develop, emulate, test-on-device and build apps like never before.
+	Develop, emulate, test-on-device and build apps like never before.
 + [Colors](http://clrs.cc/)
 
-    A nicer color palette for the web.
+	A nicer color palette for the web.
 + [ckundo/access_lint](https://github.com/ckundo/access_lint)
 
-    Check for web accessibility errors from Ruby
+	Check for web accessibility errors from Ruby
 + [Planetary.js: Awesome interactive globes for the web](http://planetaryjs.com/)
 
-    Awesome interactive globes for the web
+	Awesome interactive globes for the web
 + [Magnifier.js demo](http://mark-rolich.github.io/Magnifier.js/)
 
-    Magnifier.js is a Javascript library enabling magnifying glass effect on an images.
+	Magnifier.js is a Javascript library enabling magnifying glass effect on an images.
 + [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
 
-    A collection of CSS3 powered hover effects to be applied to call to actions, buttons, logos, featured images and so on.
+	A collection of CSS3 powered hover effects to be applied to call to actions, buttons, logos, featured images and so on.
 + [Placeit - Generate Product Screenshots in Realistic Environments](https://placeit.net/)
 
-    Generate Product Screenshots in Realistic Environments!
+	Generate Product Screenshots in Realistic Environments!
 
 ---
 
@@ -1097,30 +1097,30 @@ All this repo does is keep tracking of this show.
 
 + [45 Useful JavaScript Tips, Tricks and Best Practices](http://flippinawesome.org/2013/12/23/45-useful-javascript-tips-tricks-and-best-practices/)
 
-    45 Useful JavaScript Tips, Tricks and Best Practices
+	45 Useful JavaScript Tips, Tricks and Best Practices
 + [csswizardry/typecsset](https://github.com/csswizardry/typecsset)
 
-    A small Sass library for setting type on the web.
+	A small Sass library for setting type on the web.
 + [Smooth image loading by upscaling](http://spadgos.github.io/blog/2014/01/08/smooth-image-loading-by-upscaling/)
 
-    A technique to make the loading of images appear smoother and faster
+	A technique to make the loading of images appear smoother and faster
 + [Shape Hover Effect with SVG](http://tympanus.net/codrops/2014/01/07/shape-hover-effect-with-svg/)
 
-    Recreate the hover effect as seen on The Christmas Experiments website using SVG for the shape and Snap.svg for animating it on hover.
+	Recreate the hover effect as seen on The Christmas Experiments website using SVG for the shape and Snap.svg for animating it on hover.
 + [Slip.js](http://pornel.net/slip/)
 
-    Swiping and reordering lists of elements on touch screens, no fuss.
+	Swiping and reordering lists of elements on touch screens, no fuss.
 + [Butterick's Practical Typography](http://practicaltypography.com/)
 
-    This book will make you a bet­ter typographer
+	This book will make you a bet­ter typographer
 + [Best jQuery Plugins of 2013](http://webdesignledger.com/tools/best-jquery-plugins-of-2013)
 
-    Best jQuery Plugins of 2013.
+	Best jQuery Plugins of 2013.
 + [Phaser - Desktop and Mobile HTML5 game framework](http://phaser.io/)
 
-    A free, fast and flexible framework for HTML5 game creation
+	A free, fast and flexible framework for HTML5 game creation
 
-    ---
+	---
 
 ---
 
@@ -1128,28 +1128,28 @@ All this repo does is keep tracking of this show.
 
 + [FlexNav - A jQuery Plugin for Responsive Menus](http://jasonweaver.name/lab/flexiblenavigation/)
 
-    Navigation for flexible layouts.
+	Navigation for flexible layouts.
 + [JS: The Right Way](http://jstherightway.org/)
 
-    A great collection of articles on different methods of developing your JavaScript
+	A great collection of articles on different methods of developing your JavaScript
 + [Download Bootstrap 3 UI Kit](http://bootstrapuikit.com/)
 
-    A vector UI kit for bootstrap 3
+	A vector UI kit for bootstrap 3
 + [Fit.js » Fit things into other things](http://soulwire.github.io/fit.js/)
 
-    Fit DOM elements into other DOM elements
+	Fit DOM elements into other DOM elements
 + [CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More | CSS-Tricks](http://css-tricks.com/css-animation-tricks/)
 
-    CSS animations
+	CSS animations
 + [countUp.js](http://inorganik.github.io/countUp.js/)
 
-    Counter animations
+	Counter animations
 + [Design the Details: Empty States by @hamishmcneill — Realmac Software Blog](http://realmacsoftware.com/blog/design-the-details-empty-states)
 
-    A blog pody on designing an empty state
+	A blog pody on designing an empty state
 + [Windows Chrome, why do my fonts look so bad? - Lee Green](http://lee.greens.io/blog/2014/01/13/windows-chrome/)
 
-    A blog post about a web font bug in Google Chrome
+	A blog post about a web font bug in Google Chrome
 
 ---
 
@@ -1157,28 +1157,28 @@ All this repo does is keep tracking of this show.
 
 + [Getting started with gulp — Mark Goodyear — Front-end developer and designer](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
 
-    A task management system
+	A task management system
 + [ariya/kinetic](https://github.com/ariya/kinetic)
 
-    Kinetic scrolling in JS
+	Kinetic scrolling in JS
 + [Ifvisible.js by serkanyersen](http://serkanyersen.github.io/ifvisible.js/)
 
-    Checks if current page is visible
+	Checks if current page is visible
 + [matthieua/jackInTheBox](https://github.com/matthieua/jackInTheBox)
 
-    Reveals animations as you scroll
+	Reveals animations as you scroll
 + [Avoiding anonymous JavaScript functions](http://toddmotto.com/avoiding-anonymous-javascript-functions/)
 
-    Why to avoid anonymous JS functions
+	Why to avoid anonymous JS functions
 + [Your guide to the best Google web fonts | Whats the Closest Google Font?](http://joelcrawfordsmith.com/new/content/your-guide-best-google-web-fonts)
 
-    Find the closest google web font alternative to any font
+	Find the closest google web font alternative to any font
 + [Yo Polymer -- A Whirlwind Tour Of Web Component Tooling - HTML5Rocks Updates](http://updates.html5rocks.com/2014/01/Yo-Polymer-A-Whirlwind-Tour-Of-Web-Component-Tooling)
 
-    Create a jukebox application
+	Create a jukebox application
 + [Bulletproof Accessible Icon Fonts | Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/bulletproof_icon_fonts)
 
-    A blog post about icon fonts
+	A blog post about icon fonts
 
 ---
 
@@ -1186,25 +1186,25 @@ All this repo does is keep tracking of this show.
 
 + [Z63 | 8 Sass mixins you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
 
-    Eight Sass mixins to include in your toolbox
+	Eight Sass mixins to include in your toolbox
 + [Firefox Notes - Desktop](http://www.mozilla.org/en-US/firefox/27.0/releasenotes/)
 
-    Firefox 27 has been released!
+	Firefox 27 has been released!
 + [Sass: Mixin or Placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/)
 
-    A blog post about Sass
+	A blog post about Sass
 + [A re-introduction to JavaScript (JS Tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-    A blog post about JS
+	A blog post about JS
 + [carrot/share-button](https://github.com/carrot/share-button)
 
-    A single share button that includes them all
+	A single share button that includes them all
 + [Git tips from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
 
-    Tips for using Git
+	Tips for using Git
 + [A List Apart Pattern Library](http://patterns.alistapart.com/)
 
-    A pattern library
+	A pattern library
 
 ---
 
@@ -1212,22 +1212,22 @@ All this repo does is keep tracking of this show.
 
 + [Origami - Design prototyping with Quartz Composer](http://facebook.github.io/origami/)
 
-    A project from Facebook for prototyping
+	A project from Facebook for prototyping
 + [Molecule - HTML5 game development framework](www.moleculejs.net)
 
-    HTML5 game development framework
+	HTML5 game development framework
 + [Image Lightbox, Responsive and Touch?friendly — Osvaldas Valutis](http://osvaldas.info/image-lightbox-responsive-touch-friendly)
 
-    An image lightbox
+	An image lightbox
 + [fronteed/iCheck](https://github.com/fronteed/iCheck)
 
-    Custom checkboxes and more
+	Custom checkboxes and more
 + [Form Label Design – David Bushell – Web Design & Front-end Development](http://dbushell.com/2013/11/08/form-label-design/)
 
-    Form label design blog post
+	Form label design blog post
 + [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
-    When you might not need jQuery
+	When you might not need jQuery
 + [Origins of Common UI Symbols](https://readymag.com/shuffle/ui-symbols/)
 
-   Origins of symbols 
+	Origins of symbols
