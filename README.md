@@ -1257,3 +1257,32 @@ It's been more than a year since the first episode; You may run into broken link
 + [Mozilla localForge](http://mozilla.github.io/localForage/)
 
 	Improves the offline experiance of your web application
+
+---
+
+### Ep80: Sandboxed iFrames, Progress Element, Responsive Screenshots
+
++ [Play safely in sandboxed IFrames - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/)
+
+	Set your iframe's permissions
++ [angular translate - i18n for your Angular apps, made easy.](http://angular-translate.github.io/)
+
+	Translate your apps
++ [Liquidapsive (Liqui-dap-sive)](http://liquidapsive.com/)
+
+	Static vs Liquid vs Responsive vs Adaptive
++ [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
+
+	Generate sceenshots
++ [Progress.js - Themeable progress bar library](http://usablica.github.io/progress.js/)
+
+	A progress indication
++ [Dug.js — A JSONP to HTML Script — Rog.ie](http://rog.ie/blog/dugjs-a-jsonp-to-html-script)
+
+	JSONP to HTML
++ [Grid](http://www.adamkaplan.me/grid/)
+
+	A Simple guide to responsive design
++ [Snugug/north](https://github.com/Snugug/north)
+
+	Design and development standards to align and guide your project
