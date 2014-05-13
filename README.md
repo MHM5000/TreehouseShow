@@ -1286,3 +1286,61 @@ It's been more than a year since the first episode; You may run into broken link
 + [Snugug/north](https://github.com/Snugug/north)
 
 	Design and development standards to align and guide your project
+
+---
+
+### Ep81: Outdated UX Patterns, Learn Angular JS, Lazy Ads
+
++ [jimbojsb/launchrocket](https://github.com/jimbojsb/launchrocket)
+
+	Start and stop services installed with homebrew
++ [raphaelcruzeiro/jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook)
+
+	WYSIWYG editor
++ [Tether – Marrying elements for life](http://github.hubspot.com/tether/docs/welcome/)
+
+	Marrying elements for life
++ [Outdated UX patterns and alternatives](http://sideproject.io/outdated-ux-patterns/)
+
+	Alternatives to UX patterns
++ [How to Learn AngularJS - Your AngularJS Sherpa | ng-newsletter](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
+
+	An introduction to AngularJS
++ [Why you should move that button 3px to the left | Google Ventures](http://www.gv.com/lib/design-details)
+
+	Why you should perfect the details
++ [madgex/lazy-ads](http://github.com/madgex/lazy-ads)
+
+	Responsive design for your ads
++ [CSS Shake](http://elrumordelaluz.github.io/csshake/)
+
+	CSS animations
+
+---
+
+### Ep82: Web Font Generators, ECMAScript 6 Features, Accessibility
+
++ [Web Font Generator for Mac OSX | FontPrep](http://fontprep.com/)
+
+	Generate web fonts
++ [Code Guide by @mdo](http://mdo.github.io/code-guide/)
+
+	A guide for well written code
++ [Free mobile and web prototyping for designers | Marvel](https://www.marvelapp.com/)
+
+	Prototype websites, web applications, etc...
++ [lukehoban/es6features](https://github.com/lukehoban/es6features)
+
+	Features of JS 6
++ [Accessibility and Building a web for everyone because sometimes it's not all about us](http://negativitysandwiches.com/accessibility-and-building-a-web-for-everyone-because-sometimes-its-not-all-about-us/)
+
+	Why accessibility is important
++ [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/)
+
+	A blog post about promise anti-patterns
++ [GraphicBurger | Tasty PSD & other resources made with care for each pixel. Free for both personal & commercial use. Have a bite!](http://graphicburger.com/)
+
+	Awesome resources
++ [nanobar.js](http://nanobar.micronube.com/)
+
+	Progress bar
