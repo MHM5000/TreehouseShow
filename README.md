@@ -1312,6 +1312,6 @@ It's been more than a year since the first episode; You may run into broken link
 + [madgex/lazy-ads](madgex/lazy-ads)
 
 	Responsive design for your ads
-+ [CSS Shake](CSS Shake)
++ [CSS Shake](http://elrumordelaluz.github.io/csshake/)
 
 	CSS animations
