@@ -1309,7 +1309,7 @@ It's been more than a year since the first episode; You may run into broken link
 + [Why you should move that button 3px to the left | Google Ventures](http://www.gv.com/lib/design-details)
 
 	Why you should perfect the details
-+ [madgex/lazy-ads](madgex/lazy-ads)
++ [madgex/lazy-ads](http://github.com/madgex/lazy-ads)
 
 	Responsive design for your ads
 + [CSS Shake](http://elrumordelaluz.github.io/csshake/)
