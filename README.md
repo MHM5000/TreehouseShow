@@ -1315,3 +1315,32 @@ It's been more than a year since the first episode; You may run into broken link
 + [CSS Shake](http://elrumordelaluz.github.io/csshake/)
 
 	CSS animations
+
+---
+
+### Ep82: Web Font Generators, ECMAScript 6 Features, Accessibility
+
++ [Web Font Generator for Mac OSX | FontPrep](http://fontprep.com/)
+
+	Generate web fonts
++ [Code Guide by @mdo](http://mdo.github.io/code-guide/)
+
+	A guide for well written code
++ [Free mobile and web prototyping for designers | Marvel](https://www.marvelapp.com/)
+
+	Prototype websites, web applications, etc...
++ [lukehoban/es6features](https://github.com/lukehoban/es6features)
+
+	Features of JS 6
++ [Accessibility and Building a web for everyone because sometimes it's not all about us](http://negativitysandwiches.com/accessibility-and-building-a-web-for-everyone-because-sometimes-its-not-all-about-us/)
+
+	Why accessibility is important
++ [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/)
+
+	A blog post about promise anti-patterns
++ [GraphicBurger | Tasty PSD & other resources made with care for each pixel. Free for both personal & commercial use. Have a bite!](http://graphicburger.com/)
+
+	Awesome resources
++ [nanobar.js](http://nanobar.micronube.com/)
+
+	Progress bar
