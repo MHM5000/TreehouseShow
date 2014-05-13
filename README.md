@@ -1286,3 +1286,32 @@ It's been more than a year since the first episode; You may run into broken link
 + [Snugug/north](https://github.com/Snugug/north)
 
 	Design and development standards to align and guide your project
+
+---
+
+### Ep81: Outdated UX Patterns, Learn Angular JS, Lazy Ads
+
++ [jimbojsb/launchrocket](https://github.com/jimbojsb/launchrocket)
+
+	Start and stop services installed with homebrew
++ [raphaelcruzeiro/jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook)
+
+	WYSIWYG editor
++ [Tether – Marrying elements for life](http://github.hubspot.com/tether/docs/welcome/)
+
+	Marrying elements for life
++ [Outdated UX patterns and alternatives](http://sideproject.io/outdated-ux-patterns/)
+
+	Alternatives to UX patterns
++ [How to Learn AngularJS - Your AngularJS Sherpa | ng-newsletter](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
+
+	An introduction to AngularJS
++ [Why you should move that button 3px to the left | Google Ventures](http://www.gv.com/lib/design-details)
+
+	Why you should perfect the details
++ [madgex/lazy-ads](madgex/lazy-ads)
+
+	Responsive design for your ads
++ [CSS Shake](CSS Shake)
+
+	CSS animations
