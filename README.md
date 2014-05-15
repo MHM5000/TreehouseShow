@@ -1344,3 +1344,43 @@ It's been more than a year since the first episode; You may run into broken link
 + [nanobar.js](http://nanobar.micronube.com/)
 
 	Progress bar
+
+---
+
+### Ep83: Web Icons, Webshims, jQuery Coding Standards
+
++ [Iconic](https://useiconic.com/)
+
+	SVG Icon set with support for CSS customisation
++ [First Time User Experiences](http://firsttimeux.tumblr.com/)
+
+	Tumblr blog on empty states
++ [Webshim](http://afarkas.github.io/webshim/demos/index.html#)
+
+	Use HTML5 accross browsers
++ [Wirefy](http://getwirefy.com/)
+
+	A simple frontend framework for prototyping
++ [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/)
+
+	jQuery best practices
++ [Random User Generator | FREE Photoshop Extension](http://randomuser.me/extension/)
+
+	Generate users for designing interfaces in photoshop
++ [ScrollMagic - Demo](http://janpaepke.github.io/ScrollMagic/)
+
+	Parrallax scrolling
++ [The Gamepad API ? Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2013/12/the-gamepad-api/)
+
+	A gamepad API
+
+---
+
+### Ep84: CSS Frameworks, Facebook Predictions API, Development Techniques
+
++ [Bootstrap Foundation Five](http://bootstrapfoundationfive.github.io)
+
+	A new CSS framework based on bootstrap and foundation
++ [Facebook Predictions API](http://predictions.github.io)
+	
+	Make predictions on what a user will do next
