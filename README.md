@@ -1373,3 +1373,14 @@ It's been more than a year since the first episode; You may run into broken link
 + [The Gamepad API ? Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2013/12/the-gamepad-api/)
 
 	A gamepad API
+
+---
+
+### Ep84: CSS Frameworks, Facebook Predictions API, Development Techniques
+
++ [Bootstrap Foundation Five](http://bootstrapfoundationfive.github.io)
+
+	A new CSS framework based on bootstrap and foundation
++ [Facebook Predictions API](http://predictions.github.io)
+	
+	Make predictions on what a user will do next
