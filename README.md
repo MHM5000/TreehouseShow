@@ -982,25 +982,25 @@ It's been more than a year since the first episode; You may run into broken link
 + [URL Rewriting for the Fearful ? 24 ways](http://24ways.org/2013/url-rewriting-for-the-fearful/)
 
 	URL Rewriting
-+ [GitHub Résumé]()
++ [GitHub Résumé](http://resume.github.io/)
 
 	Easily make résumé out of your github.
-+ [AutoJS by atmb4u]()
++ [AutoJS by atmb4u](http://atmb4u.github.io/AutoJS/)
 
 	Helps you write faster than ever.
-+ [Ink: A Responsive Email Framework from ZURB]()
++ [Ink: A Responsive Email Framework from ZURB](http://zurb.com/ink/)
 
 	Quickly create responsive HTML emails that work on any device & client. Even Outlook.
-+ [qrcode.js]()
++ [qrcode.js](http://davidshimjs.github.io/qrcodejs/)
 
 	Make QRCode with js.
-+ [The HTML5 meter Element | CSS-Tricks]()
++ [The HTML5 meter Element | CSS-Tricks](http://css-tricks.com/html5-meter-element/)
 
 	HTML meter Element
-+ [Prism]()
++ [Prism](http://prismjs.com/)
 
 	Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind.
-+ [A Collection of Section Separators]()
++ [A Collection of Section Separators](http://tympanus.net/Development/SectionSeparators/)
 
 	A collection of separator styles for horizontally dividing sections on a website.
 
