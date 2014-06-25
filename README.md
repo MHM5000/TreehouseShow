@@ -1117,8 +1117,6 @@ It's been more than a year since the first episode; You may run into broken link
 
 	A free, fast and flexible framework for HTML5 game creation
 
-	---
-
 ---
 
 ### Ep75: Flexible Navigation, JavaScript Good Parts, CSS Animation Tricks
