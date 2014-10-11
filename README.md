@@ -1382,3 +1382,121 @@ It's been more than a year since the first episode; You may run into broken link
 + [Facebook Predictions API](http://predictions.github.io)
 	
 	Make predictions on what a user will do next
+
+---
+
+### Ep85: Flexbox | CSS and Sass Style Guides | HTML Frameworks
+
++ [Flexbox in the Real World](http://www.planningforaliens.com/blog...)
+
++ [My Current CSS and Sass Styleguide](http://www.sitepoint.com/css-sass-sty...)
+
++ [x-gif](http://geelen.github.io/x-gif/#/http:...)
+
++ [MixItUp](https://mixitup.kunkalabs.com/)
+
++ [Bootflat](http://bootflat.github.io/index.html)
+
++ [Getting started with Grunticon - The Iconfinder Blog](http://blog.iconfinder.com/get-starte...)
+
++ [uberVU/grid](https://github.com/ubervu/grid)
+
++ [Framework7 - Full Featured HTML Framework For Building iOS7 Apps](http://www.idangero.us/framework7/)
+
+---
+
+### Ep86: Really Good Emails | Credit Card Detection | Epic Editor
+
++ [Really Good Emails - The Best Email Designs in the Universe (that came into my inbox)](http://reallygoodemails.com/)
+
++ [Error Handling in Nodejs - Developer Center - Joyent](http://www.joyent.com/developers/node...)
+
++ [Refills](http://refills.bourbon.io/)
+
++ [How to correctly detect credit card type](http://creditcardjs.com/credit-card-t...)
+
++ [Font-To-Width](http://font-to-width.com/)
+
++ [Speaking JavaScript](http://speakingjs.com/)
+
++ [EpicEditor - An embeddable JavaScript Markdown editor](http://epiceditor.com/)
+
++ [Debugging Asynchronous JavaScript with Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorial...)
+
+---
+
+### Ep87: Creating Style Guides | Writing Interface Copy | Ratchet
+
++ [Creating Style Guides · An A List Apart Article](http://alistapart.com/article/creatin...)
+
++ [From Google Ventures: 5 Rules For Writing Great Interface Copy | Co.Design | business + design](http://www.fastcodesign.com/3026463/f...)
+
++ [Ratchet](http://goratchet.com/)
+
++ [Magic Animations CSS3](http://www.minimamente.com/example/ma...)
+
++ [tiimgreen/github-cheat-sheet](http://github.com/tiimgreen/github-ch...)
+
++ [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-ever...)
+
++ [vis.js | a dynamic, browser-based visualization library](http://visjs.org/)
+
+---
+
+### Ep88: Gulp | Sketch 3 | Bud 
+
++ [gulp.js - the streaming build system](http://gulpjs.com/)
+
++ [What is new in Sketch 3  — Medium](http://medium.com/p/4b92d8b25f3)
+
++ [azer/bud](ttp://github.com/azer/bud)
+
++ [qrohlf/trianglify](http://github.com/qrohlf/trianglify)
+
++ [sindresorhus/multiline](http://github.com/sindresorhus/multiline)
+
++ [How to Use steps() in CSS Animations - Designmodo](http://designmodo.com/steps-css-anima...)
+
++ [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/w...)
+
++ [Pesticide - Kill Your Css Layout Bugs](http://pesticide.io/)
+
+---
+
+### Ep89: Typography | Sidebars | Style Guides 
+
+
++ [typebase.css: The starting point for good typography on the web](http://devinhunt.github.io/typebase.css/)
+
++ [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-ge...)
+
++ [Slidebars](http://plugins.adchsm.me/slidebars/)
+
++ [felixge/node-style-guide](https://github.com/felixge/node-style...)
+
++ [Improve the payment experience with animations — Medium](https://medium.com/p/3d1b0a9b810e)
+
++ [The PourOver Book · PourOver](http://nytimes.github.io/pourover/)
+
++ [CSS Vocabulary](http://pumpula.net/p/apps/css-vocabul...)
+
++ [Fluidbox (v1.3) - CodePen](http://codepen.io/terrymun/full/JKHwp)
+
+### Ep90: Voodoo | Responsive Tables | JavaScript Graphs
+
++ [Voodoo - A Next Generation Internet](http://www.voodoojs.com/)
+
++ [Responsive tables](http://gergeo.se/RWD-Table-Patterns/)
+
++ [Isomer -- an isometric graphics library for HTML5 canvas](http://jdan.github.io/isomer/)
+
++ [Labelmask | Brad Frost Web](http://bradfrostweb.com/blog/post/lab...)
+
++ [Seven JavaScript Quirks I Wish I'd Known About | Telerik Developer Network](http://developer.telerik.com/featured...)
+
++ [Flexplorer](http://bennettfeely.com/flexplorer/)
+
+
+
+
+
