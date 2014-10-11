@@ -1664,3 +1664,144 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [A Couple of Use Cases for Calc() | CSS-Tricks](http://css-tricks.com/a-couple-of-use...)
 
+---
+
+### Ep101: CSS will-change Property | HTML5 Forms | Vertical Align
+
++ [Share: The Icon No One Agrees On - BOLD by Pixelapse](https://bold.pixelapse.com/minming/sh...)
+
++ [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS)
+
++ [Web Starter Kit](https://developers.google.com/web/sta...)
+
++ [Read JavaScript Allongé | Leanpub](https://leanpub.com/javascript-allong...)
+
++ [What Every Frontend Developer Should Know About Webpage Rendering — Frontend Babel](http://frontendbabel.info/articles/we...)
+
++ [Odyssey.js](http://cartodb.github.io/odyssey.js/)
+
+---
+
+### Ep102: UI Kits | Internet Explorer Development Tools | Fast.js
+
++ [rafaelconde/ios8-ui-kit](https://github.com/rafaelconde/ios8-u...)
+
++ [Announcing Internet Explorer Developer Channel - IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/archive/20...)
+
++ [Ideas for Subtle Hover Effects | Codrops](http://tympanus.net/codrops/2014/06/1...)
+
++ [codemix/fast.js](https://github.com/codemix/fast.js)
+
++ [Headstart](http://www.headstart.io/)
+
++ [Epoch by Fastly](http://fastly.github.io/epoch/)
+
+---
+
+### Ep103: Human JavaScript | Interactive Graphs | Sidecomments
+
++ [Introduction | Human JavaScript](http://read.humanjavascript.com/)
+
++ [The Simpsons in CSS](http://pattle.github.io/simpsons-in-css/)
+
++ [Rickshaw: A JavaScript toolkit for creating interactive time-series graphs](http://code.shutterstock.com/rickshaw/)
+
++ [Find Guidelines - The fastest way to brand assets.](http://findguidelin.es/)
+
++ [Side Comments - Medium.com style commenting](http://aroc.github.io/side-comments-d...)
+
+---
+
+### Ep104: Pixels | Web Components | The Hamburger Menu
+
++ [Aerotwist - Pixels are expensive](http://aerotwist.com/blog/pixels-are-...)
+
++ [Why Web Components Aren't Ready for Production... Yet -Telerik Developer Network](http://developer.telerik.com/featured...)
+
++ [The origin of the hamburger icon](https://www.evernote.com/shard/s207/s...)
+
++ [Papa Parse - Powerful CSV parser for Javascript](http://papaparse.com/)
+
++ [molly.is/saying](http://molly.is/saying/no-more-put-a-...)
+
+---
+
+### Ep105: SVG Backgrounds | Breach | FastShell
+
++ [PatternBolt](http://buseca.github.io/patternbolt/)
+
++ [DomFlags - devtools extension to create keyboard shortcuts to DOM elements](http://domflags.com/)
+
++ [Breach - A browser for the HTML5 era](http://breach.cc/)
+
++ [FastShell: HTML5, Sass and JavaScript boilerplate for Gulp, by @_Karamii](http://hosseinkarami.github.io/fastsh...)
+
++ [The "Just In Time" Theory of User Behavior](http://blog.codinghorror.com/the-just...)
+
+---
+
+### Ep106: Responsive Logos | Waves | Pagekit
+
++ [Responsive Logos](http://responsivelogos.co.uk/)
+
++ [Waves](http://publicis-indonesia.github.io/W...)
+
++ [Page Kit](http://pagekit.com/)
+
++ [DevDocs](http://devdocs.io/)
+
++ [Dev.Opera — Responsive Images: Use Cases and Documented Code Snippets to Get You Started](http://dev.opera.com/articles/respons...)
+
+---
+
+### Ep107: Reading jQuery Source Code | HTML 5 Video Captions | Flexbox
+
++ [18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado](http://quickleft.com/blog/18-surprise...)
+
++ [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
+
++ [Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback — Osvaldas Valutis](http://osvaldas.info/flexbox-based-re...)
+
++ [Please JS](http://www.checkman.io/please/)
+
+---
+
+### Ep108: Practical Typography | Date Pickers | Form Builders
+
++ [Butterick’s Practical Typography](http://practicaltypography.com/)
+
++ [Shoelace - Visual Bootstrap 3 Grid Builder](http://shoelace.io/)
+
++ [Creating distraction-free reading experiences — azumbrunnen](http://azumbrunnen.me/blog/creating-d...)
+
++ [Rome](http://bevacqua.github.io/rome/)
+
++ [Pure CSS One Div Weather Animated Icons - CodePen](http://codepen.io/fbrz/full/iqtlk)
+
+---
+
+### Ep109: CSS Triggers | Fireshell | Responsive Design
+
++ [he Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-s...)
+
++ [CSS Triggers...](http://csstriggers.com/)
+
++ [FireShell: HTML5, Sass and JavaScript boilerplate for Grunt, by @toddmotto](http://getfireshell.com/)
+
++ [How we make RWD sites load fast as heck | Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/performa...)
+
++ [way.js](http://gwendall.github.io/way/)
+
+---
+
+### Ep110: Chrome Dev Tools | heatmap.js | Device Mockups
+
++ [Tell Chrome Developer Tools to use a dark theme - howchoo](http://howchoo.com/g/tell-chrome-deve...)
+
++ [Heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/hea...)
+
++ [HTML5 device mockups](http://github.com/pixelsign/html5-dev...)
+
++ [Comprehensive Beginner's Guide to AngularJS - AntJanus](http://antjanus.com/blog/web-developm...)
+
++ [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Author and responsive web developer Ben Frain](http://benfrain.com/enduring-css-writ...)
