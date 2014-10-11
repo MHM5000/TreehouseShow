@@ -1449,7 +1449,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [What is new in Sketch 3  — Medium](http://medium.com/p/4b92d8b25f3)
 
-+ [azer/bud](ttp://github.com/azer/bud)
++ [azer/bud](http://github.com/azer/bud)
 
 + [qrohlf/trianglify](http://github.com/qrohlf/trianglify)
 
@@ -1496,7 +1496,171 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Flexplorer](http://bennettfeely.com/flexplorer/)
 
+---
 
+### Ep91: Path Animation | Sidebar Transitions | Icons
 
++ [Advanced animation path » legomushroom](http://blog.legomushroom.com/2014/03/...)
 
++ [Velocity.js](http://julian.com/research/velocity/)
+
++ [Sidebar Transitions](http://tympanus.net/Development/Sideb...)
+
++ [Feather: 130 Free Icons by Cole Bemis](http://colebemis.com/feather/)
+
++ [Open Iconic, a free and open icon set](https://useiconic.com/open)
+
++ [Home — Google Web Fundamentals](https://developers.google.com/web/fun...)
+
++ [Eight Bit Color Picker](http://bilalq.github.io/eight-bit-col...)
+
++ [NYTimes/ice](https://github.com/NYTimes/ice)
+
+---
+
+### Ep92: Morphing Buttons | Rangeslider | Declarative Animations
+
++ [sandropaganotti/pull-and-zoom](https://github.com/sandropaganotti/pu...)
+
++ [Morphing Buttons Concept | Codrops](http://tympanus.net/codrops/2014/05/1...)
+
++ [rangeslider.js](http://andreruffert.github.io/rangesl...)
+
++ [WTF, forms?](http://wtfforms.com/)
+
++ [Quill - An Open Source Rich Text Editor with an API](http://quilljs.com/)
+
++ [Realistic terrain in 130 lines](ttp://www.playfuljs.com/realistic-te...)
+
++ [AniJS, Declarative handling library for CSS animations](http://anijs.github.io/)
+
++ [Bezier Curves and Type Design: A Tutorial | Learn - Scannerlicker!](http://learn.scannerlicker.net/2014/0...)
+
+---
+
+### Ep93: Parallax | StyleStats | Uncss
+
++ [Parallax Done Right — Medium](https://medium.com/@dhg/82ced812e61c)
+
++ [Picturefill](http://scottjehl.github.io/picturefill/)
+
++ [StyleStats - Useful tool to collect CSS statistics](http://www.stylestats.org/?uri=http%3...)
+
++ [Luis Abreu: Why and How to avoid Hamburger Menus](http://lmjabreu.com/post/why-and-how-...)
+
++ [uncss: Find Unused CSS](http://davidwalsh.name/uncss)
+
++ [leemunroe/grunt-email-design](https://github.com/leemunroe/grunt-em...)
+
+---
+
+### Ep94:Web Design Manual | Script-Injected | Flow.js
+
++ [Web Design Field Manual](http://webfieldmanual.com/)
+ 
++ [Script-injected "async scripts" considered harmful - igvita.com](https://www.igvita.com/2014/05/20/scr...)
+
++ [The Scroll Up Bar - The Usability Post](http://usabilitypost.com/2014/05/24/t...)
+
++ [Angular file upload - flow.js](http://flowjs.github.io/ng-flow/)
+
++ [Compressor.io - optimize and compress your images and photos](http://compressor.io/)
+
++ [A Hacker's Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers...)
+
+---
+
+### Ep95: App js | LoopBack | SVGO
+
++ [App.js | Mobile webapps made easy](http://code.kik.com/app/2/index.html)
+
++ [svg/svgo-gui](https://github.com/svg/svgo-gui)
+
++ [LoopBack](http://loopback.io/)
+
++ [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/)
+
++ [JavaScript Memory Profiling - Google Chrome](https://developer.chrome.com/devtools...)
+
++ [Skippr. A jQuery plugin for creating tasteful slideshows.](http://iamapioneer.com/plugins/skippr/)
+
+---
+
+### Ep96: jQuery Plugins | Progress Bars | HTTP API Design
+
++ [Selectize.js](http://brianreavis.github.io/selectiz...)
+
++ [pullpush | jQuery and JavaScript plugins and libraries](http://pullpu.sh/)
+
++ [NumberProgressBar](http://kalasoo.github.io/NumberProgre...)
+
++ [interagent/http-api-design](https://github.com/interagent/http-ap...)
+
++ [Profound Grid | A grid system for fixed and fluid layouts](http://www.profoundgrid.com/)
+
++ [demosthenes.info -- Slash Page Load Times With CSS Font Subsetting](http://demosthenes.info/blog/878/Slas...)
+
+---
+
+### Ep97: Data-binding Techniques | CSS Techniques | Zepto.js
+
++ [Data-binding Revolutions with Object.observe() - HTML5 Rocks](http://www.html5rocks.com/en/tutorial...)
+
++ [icholy/ttygif](https://github.com/icholy/ttygif)
+
++ [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map/...)
+
++ [Single Responsibility - Drew Barontini](http://drewbarontini.com/articles/sin...)
+
++ [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
+
++ [David Walsh on Redesigning with Sass | CSS-Tricks](http://css-tricks.com/redesigning-wit...)
+
+---
+
+### Ep98: Dev.Opera — Getting to know CSS Blend Modes
+
++ [Dev.Opera — Getting to know CSS Blend Modes](http://dev.opera.com/articles/getting...)
+
++ [Stella.js](http://markdalgleish.com/projects/ste...)
+
++ [Adaptive Placeholders | The Circle Blog](http://blog.circleci.com/adaptive-pla...)
+
++ [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/)
+
++ [Inspiration for Article Intro Effects | Codrops](http://tympanus.net/codrops/2014/05/2...)
+
++ [Landing Proxy.app](http://blog.websecurify.com/2014/01/l...)
+
+---
+
+### Ep99: Inline Anchor Styles | Steady Scrolling | Web Speech API
+
++ [Inline Anchor Styles](http://tympanus.net/Development/Inlin...)
+
++ [Steady.js](ttp://lafikl.github.io/steady.js/)
+
++ [voice-elements](http://zenorocha.github.io/voice-elem...)
+
++ [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://jsnice.org/)
+
++ [Sketch Tutorial_01 — Medium](https://medium.com/@KounterB/sketch-t...)
+
++ [jquery.matchHeight.js - a more robust equal heights plugin for jquery](http://brm.io/jquery-match-height/)
+
+---
+
+### Ep100: CSS will-change Property | HTML5 Forms | Vertical Align
+
++ [Dev.Opera — Everything You Need to Know About the CSS will-change Property](http://dev.opera.com/articles/css-wil...)
+
++ [HTML5 Forms: JavaScript and the Constraint Validation API](http://www.sitepoint.com/html5-forms-...)
+
++ [Bounce.js](http://bouncejs.com/)
+
++ [Z63 | Vertical align anything with just 3 lines of CSS | zerosixthree](http://zerosixthree.se/vertical-align...)
+
++ [dc.js - Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
+
++ [A Couple of Use Cases for Calc() | CSS-Tricks](http://css-tricks.com/a-couple-of-use...)
 
