@@ -1387,17 +1387,17 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep85: Flexbox | CSS and Sass Style Guides | HTML Frameworks
 
-+ [Flexbox in the Real World](http://www.planningforaliens.com/blog...)
++ [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/)
 
-+ [My Current CSS and Sass Styleguide](http://www.sitepoint.com/css-sass-sty...)
++ [My Current CSS and Sass Styleguide](http://www.sitepoint.com/css-sass-styleguide/)
 
-+ [x-gif](http://geelen.github.io/x-gif/#/http:...)
++ [x-gif](http://geelen.github.io/x-gif/)
 
 + [MixItUp](https://mixitup.kunkalabs.com/)
 
 + [Bootflat](http://bootflat.github.io/index.html)
 
-+ [Getting started with Grunticon - The Iconfinder Blog](http://blog.iconfinder.com/get-starte...)
++ [Getting started with Grunticon - The Iconfinder Blog](http://blog.iconfinder.com/get-started-with-grunticon/)
 
 + [uberVU/grid](https://github.com/ubervu/grid)
 
@@ -1409,11 +1409,11 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Really Good Emails - The Best Email Designs in the Universe (that came into my inbox)](http://reallygoodemails.com/)
 
-+ [Error Handling in Nodejs - Developer Center - Joyent](http://www.joyent.com/developers/node...)
++ [Error Handling in Nodejs - Developer Center - Joyent](http://www.joyent.com/developers/node)
 
 + [Refills](http://refills.bourbon.io/)
 
-+ [How to correctly detect credit card type](http://creditcardjs.com/credit-card-t...)
++ [How to correctly detect credit card type](http://creditcardjs.com/credit-card-type-detection)
 
 + [Font-To-Width](http://font-to-width.com/)
 
@@ -1421,23 +1421,23 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [EpicEditor - An embeddable JavaScript Markdown editor](http://epiceditor.com/)
 
-+ [Debugging Asynchronous JavaScript with Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorial...)
++ [Debugging Asynchronous JavaScript with Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
 
 ---
 
 ### Ep87: Creating Style Guides | Writing Interface Copy | Ratchet
 
-+ [Creating Style Guides · An A List Apart Article](http://alistapart.com/article/creatin...)
++ [Creating Style Guides · An A List Apart Article](http://alistapart.com/article/creating-style-guides)
 
-+ [From Google Ventures: 5 Rules For Writing Great Interface Copy | Co.Design | business + design](http://www.fastcodesign.com/3026463/f...)
++ [From Google Ventures: 5 Rules For Writing Great Interface Copy | Co.Design | business + design](http://www.fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy)
 
 + [Ratchet](http://goratchet.com/)
 
-+ [Magic Animations CSS3](http://www.minimamente.com/example/ma...)
++ [Magic Animations CSS3](http://www.minimamente.com/magic-css3-animations-by-minimac/)
 
-+ [tiimgreen/github-cheat-sheet](http://github.com/tiimgreen/github-ch...)
++ [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
-+ [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-ever...)
++ [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 
 + [vis.js | a dynamic, browser-based visualization library](http://visjs.org/)
 
@@ -1455,9 +1455,9 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [sindresorhus/multiline](http://github.com/sindresorhus/multiline)
 
-+ [How to Use steps() in CSS Animations - Designmodo](http://designmodo.com/steps-css-anima...)
++ [How to Use steps() in CSS Animations - Designmodo](http://designmodo.com/steps-css-animations/)
 
-+ [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/w...)
++ [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/welcome/)
 
 + [Pesticide - Kill Your Css Layout Bugs](http://pesticide.io/)
 
@@ -1468,17 +1468,17 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [typebase.css: The starting point for good typography on the web](http://devinhunt.github.io/typebase.css/)
 
-+ [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-ge...)
++ [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin)
 
 + [Slidebars](http://plugins.adchsm.me/slidebars/)
 
-+ [felixge/node-style-guide](https://github.com/felixge/node-style...)
++ [felixge/node-style-guide](https://github.com/felixge/node-style-guide)
 
 + [Improve the payment experience with animations — Medium](https://medium.com/p/3d1b0a9b810e)
 
 + [The PourOver Book · PourOver](http://nytimes.github.io/pourover/)
 
-+ [CSS Vocabulary](http://pumpula.net/p/apps/css-vocabul...)
++ [CSS Vocabulary](http://apps.workflower.fi/vocabs/)
 
 + [Fluidbox (v1.3) - CodePen](http://codepen.io/terrymun/full/JKHwp)
 
@@ -1490,9 +1490,9 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Isomer -- an isometric graphics library for HTML5 canvas](http://jdan.github.io/isomer/)
 
-+ [Labelmask | Brad Frost Web](http://bradfrostweb.com/blog/post/lab...)
++ [Labelmask | Brad Frost Web](http://bradfrostweb.com/blog/post/labelmask/)
 
-+ [Seven JavaScript Quirks I Wish I'd Known About | Telerik Developer Network](http://developer.telerik.com/featured...)
++ [Seven JavaScript Quirks I Wish I'd Known About | Telerik Developer Network](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/)
 
 + [Flexplorer](http://bennettfeely.com/flexplorer/)
 
@@ -1500,19 +1500,19 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep91: Path Animation | Sidebar Transitions | Icons
 
-+ [Advanced animation path » legomushroom](http://blog.legomushroom.com/2014/03/...)
++ [Advanced animation path » legomushroom](http://blog.legomushroom.com/2014/03/defining-advanced-animation-path/)
 
 + [Velocity.js](http://julian.com/research/velocity/)
 
-+ [Sidebar Transitions](http://tympanus.net/Development/Sideb...)
++ [Sidebar Transitions](http://tympanus.net/Development/SidebarTransitions/)
 
 + [Feather: 130 Free Icons by Cole Bemis](http://colebemis.com/feather/)
 
 + [Open Iconic, a free and open icon set](https://useiconic.com/open)
 
-+ [Home — Google Web Fundamentals](https://developers.google.com/web/fun...)
++ [Home — Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
-+ [Eight Bit Color Picker](http://bilalq.github.io/eight-bit-col...)
++ [Eight Bit Color Picker](http://bilalq.github.io/eight-bit-color-picker/)
 
 + [NYTimes/ice](https://github.com/NYTimes/ice)
 
@@ -1520,21 +1520,21 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep92: Morphing Buttons | Rangeslider | Declarative Animations
 
-+ [sandropaganotti/pull-and-zoom](https://github.com/sandropaganotti/pu...)
++ [sandropaganotti/pull-and-zoom](https://github.com/sandropaganotti/pull-and-zoom)
 
-+ [Morphing Buttons Concept | Codrops](http://tympanus.net/codrops/2014/05/1...)
++ [Morphing Buttons Concept | Codrops](http://tympanus.net/codrops/2014/05/12/morphing-buttons-concept/)
 
-+ [rangeslider.js](http://andreruffert.github.io/rangesl...)
++ [rangeslider.js](http://andreruffert.github.io/rangeslider.js/)
 
 + [WTF, forms?](http://wtfforms.com/)
 
 + [Quill - An Open Source Rich Text Editor with an API](http://quilljs.com/)
 
-+ [Realistic terrain in 130 lines](ttp://www.playfuljs.com/realistic-te...)
++ [Realistic terrain in 130 lines](http://www.playfuljs.com/realistic-terrain-in-130-lines/)
 
 + [AniJS, Declarative handling library for CSS animations](http://anijs.github.io/)
 
-+ [Bezier Curves and Type Design: A Tutorial | Learn - Scannerlicker!](http://learn.scannerlicker.net/2014/0...)
++ [Bezier Curves and Type Design: A Tutorial | Learn - Scannerlicker!](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 
 ---
 
@@ -1544,13 +1544,13 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Picturefill](http://scottjehl.github.io/picturefill/)
 
-+ [StyleStats - Useful tool to collect CSS statistics](http://www.stylestats.org/?uri=http%3...)
++ [StyleStats - Useful tool to collect CSS statistics](http://www.stylestats.org/)
 
-+ [Luis Abreu: Why and How to avoid Hamburger Menus](http://lmjabreu.com/post/why-and-how-...)
++ [Luis Abreu: Why and How to avoid Hamburger Menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/)
 
 + [uncss: Find Unused CSS](http://davidwalsh.name/uncss)
 
-+ [leemunroe/grunt-email-design](https://github.com/leemunroe/grunt-em...)
++ [leemunroe/grunt-email-design](https://github.com/leemunroe/grunt-email-design)
 
 ---
 
@@ -1558,15 +1558,15 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Web Design Field Manual](http://webfieldmanual.com/)
  
-+ [Script-injected "async scripts" considered harmful - igvita.com](https://www.igvita.com/2014/05/20/scr...)
++ [Script-injected "async scripts" considered harmful - igvita.com](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
 
-+ [The Scroll Up Bar - The Usability Post](http://usabilitypost.com/2014/05/24/t...)
++ [The Scroll Up Bar - The Usability Post](http://usabilitypost.com/2014/05/24/the-scroll-up-bar/)
 
 + [Angular file upload - flow.js](http://flowjs.github.io/ng-flow/)
 
 + [Compressor.io - optimize and compress your images and photos](http://compressor.io/)
 
-+ [A Hacker's Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers...)
++ [A Hacker's Guide to Git | Wildly Inaccurate](https://wildlyinaccurate.com/a-hackers-guide-to-git)
 
 ---
 
@@ -1580,7 +1580,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/)
 
-+ [JavaScript Memory Profiling - Google Chrome](https://developer.chrome.com/devtools...)
++ [JavaScript Memory Profiling - Google Chrome](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
 
 + [Skippr. A jQuery plugin for creating tasteful slideshows.](http://iamapioneer.com/plugins/skippr/)
 
@@ -1588,63 +1588,63 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep96: jQuery Plugins | Progress Bars | HTTP API Design
 
-+ [Selectize.js](http://brianreavis.github.io/selectiz...)
++ [Selectize.js](http://brianreavis.github.io/selectize.js/)
 
 + [pullpush | jQuery and JavaScript plugins and libraries](http://pullpu.sh/)
 
-+ [NumberProgressBar](http://kalasoo.github.io/NumberProgre...)
++ [NumberProgressBar](http://kalasoo.github.io/NumberProgressBar/)
 
-+ [interagent/http-api-design](https://github.com/interagent/http-ap...)
++ [interagent/http-api-design](https://github.com/interagent/http-api-design)
 
 + [Profound Grid | A grid system for fixed and fluid layouts](http://www.profoundgrid.com/)
 
-+ [demosthenes.info -- Slash Page Load Times With CSS Font Subsetting](http://demosthenes.info/blog/878/Slas...)
++ [demosthenes.info -- Slash Page Load Times With CSS Font Subsetting](http://demosthenes.info/blog/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting)
 
 ---
 
 ### Ep97: Data-binding Techniques | CSS Techniques | Zepto.js
 
-+ [Data-binding Revolutions with Object.observe() - HTML5 Rocks](http://www.html5rocks.com/en/tutorial...)
++ [Data-binding Revolutions with Object.observe() - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es7/observe/)
 
 + [icholy/ttygif](https://github.com/icholy/ttygif)
 
-+ [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map/...)
++ [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map/)
 
-+ [Single Responsibility - Drew Barontini](http://drewbarontini.com/articles/sin...)
++ [Single Responsibility - Drew Barontini](http://drewbarontini.com/articles/single-responsibility/)
 
 + [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
 
-+ [David Walsh on Redesigning with Sass | CSS-Tricks](http://css-tricks.com/redesigning-wit...)
++ [David Walsh on Redesigning with Sass | CSS-Tricks](http://css-tricks.com/redesigning-with-sass/)
 
 ---
 
 ### Ep98: Dev.Opera — Getting to know CSS Blend Modes
 
-+ [Dev.Opera — Getting to know CSS Blend Modes](http://dev.opera.com/articles/getting...)
++ [Dev.Opera — Getting to know CSS Blend Modes](https://dev.opera.com/articles/getting-to-know-css-blend-modes/)
 
-+ [Stella.js](http://markdalgleish.com/projects/ste...)
++ [Stella.js](http://markdalgleish.com/projects/stellar.js/)
 
-+ [Adaptive Placeholders | The Circle Blog](http://blog.circleci.com/adaptive-pla...)
++ [Adaptive Placeholders | The Circle Blog](http://blog.circleci.com/adaptive-placeholders/)
 
 + [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/)
 
-+ [Inspiration for Article Intro Effects | Codrops](http://tympanus.net/codrops/2014/05/2...)
++ [Inspiration for Article Intro Effects | Codrops](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
 
-+ [Landing Proxy.app](http://blog.websecurify.com/2014/01/l...)
++ [Landing Proxy.app](http://blog.websecurify.com/2014/02/landing-proxy-app.html)
 
 ---
 
 ### Ep99: Inline Anchor Styles | Steady Scrolling | Web Speech API
 
-+ [Inline Anchor Styles](http://tympanus.net/Development/Inlin...)
++ [Inline Anchor Styles](http://tympanus.net/codrops/2014/06/04/inspiration-for-inline-anchor-styles/)
 
 + [Steady.js](ttp://lafikl.github.io/steady.js/)
 
-+ [voice-elements](http://zenorocha.github.io/voice-elem...)
++ [voice-elements](http://zenorocha.github.io/voice-elements/)
 
 + [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://jsnice.org/)
 
-+ [Sketch Tutorial_01 — Medium](https://medium.com/@KounterB/sketch-t...)
++ [Sketch Tutorial_01 — Medium](https://medium.com/@KounterB/sketch-tutorial_01-b76271a095e3)
 
 + [jquery.matchHeight.js - a more robust equal heights plugin for jquery](http://brm.io/jquery-match-height/)
 
@@ -1652,31 +1652,31 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep100: CSS will-change Property | HTML5 Forms | Vertical Align
 
-+ [Dev.Opera — Everything You Need to Know About the CSS will-change Property](http://dev.opera.com/articles/css-wil...)
++ [Dev.Opera — Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
 
-+ [HTML5 Forms: JavaScript and the Constraint Validation API](http://www.sitepoint.com/html5-forms-...)
++ [HTML5 Forms: JavaScript and the Constraint Validation API](http://www.sitepoint.com/html5-forms-javascript-constraint-validation-api/)
 
 + [Bounce.js](http://bouncejs.com/)
 
-+ [Z63 | Vertical align anything with just 3 lines of CSS | zerosixthree](http://zerosixthree.se/vertical-align...)
++ [Z63 | Vertical align anything with just 3 lines of CSS | zerosixthree](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 
 + [dc.js - Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
 
-+ [A Couple of Use Cases for Calc() | CSS-Tricks](http://css-tricks.com/a-couple-of-use...)
++ [A Couple of Use Cases for Calc() | CSS-Tricks](http://css-tricks.com/a-couple-of-use-cases-for-calc/)
 
 ---
 
 ### Ep101: CSS will-change Property | HTML5 Forms | Vertical Align
 
-+ [Share: The Icon No One Agrees On - BOLD by Pixelapse](https://bold.pixelapse.com/minming/sh...)
++ [Share: The Icon No One Agrees On - BOLD by Pixelapse](https://bold.pixelapse.com/minming/share-the-icon-no-one-agrees-on)
 
 + [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS)
 
-+ [Web Starter Kit](https://developers.google.com/web/sta...)
++ [Web Starter Kit](https://developers.google.com/web/starter-kit/index?hl=en)
 
-+ [Read JavaScript Allongé | Leanpub](https://leanpub.com/javascript-allong...)
++ [Read JavaScript Allongé | Leanpub](https://leanpub.com/javascript-allonge/read)
 
-+ [What Every Frontend Developer Should Know About Webpage Rendering — Frontend Babel](http://frontendbabel.info/articles/we...)
++ [What Every Frontend Developer Should Know About Webpage Rendering — Frontend Babel](http://frontendbabel.info/articles/webpage-rendering-101/)
 
 + [Odyssey.js](http://cartodb.github.io/odyssey.js/)
 
@@ -1684,11 +1684,11 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep102: UI Kits | Internet Explorer Development Tools | Fast.js
 
-+ [rafaelconde/ios8-ui-kit](https://github.com/rafaelconde/ios8-u...)
++ [rafaelconde/ios8-ui-kit](https://github.com/rafaelconde/ios8-ui-kit)
 
-+ [Announcing Internet Explorer Developer Channel - IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/archive/20...)
++ [Announcing Internet Explorer Developer Channel - IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/archive/2014/06/16/announcing-internet-explorer-developer-channel.aspx)
 
-+ [Ideas for Subtle Hover Effects | Codrops](http://tympanus.net/codrops/2014/06/1...)
++ [Ideas for Subtle Hover Effects | Codrops](http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/)
 
 + [codemix/fast.js](https://github.com/codemix/fast.js)
 
@@ -1708,21 +1708,21 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Find Guidelines - The fastest way to brand assets.](http://findguidelin.es/)
 
-+ [Side Comments - Medium.com style commenting](http://aroc.github.io/side-comments-d...)
++ [Side Comments - Medium.com style commenting](http://aroc.github.io/side-comments-demo/.)
 
 ---
 
 ### Ep104: Pixels | Web Components | The Hamburger Menu
 
-+ [Aerotwist - Pixels are expensive](http://aerotwist.com/blog/pixels-are-...)
++ [Aerotwist - Pixels are expensive](http://aerotwist.com/blog/pixels-are-expensive/)
 
-+ [Why Web Components Aren't Ready for Production... Yet -Telerik Developer Network](http://developer.telerik.com/featured...)
++ [Why Web Components Aren't Ready for Production... Yet -Telerik Developer Network](http://developer.telerik.com/featured/web-components-arent-ready-production-yet/)
 
-+ [The origin of the hamburger icon](https://www.evernote.com/shard/s207/s...)
++ [The origin of the hamburger icon](https://www.evernote.com/shard/s207/sh/022f2237-4b4f-4096-87f2-053acd228c2d/ede2672bc3f39a1b0232f84e01ca0a83?utm_content=buffer84840&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 + [Papa Parse - Powerful CSV parser for Javascript](http://papaparse.com/)
 
-+ [molly.is/saying](http://molly.is/saying/no-more-put-a-...)
++ [molly.is/saying](http://molly.is/saying/no-more-put-a-skirt-on-it/)
 
 ---
 
@@ -1734,9 +1734,9 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Breach - A browser for the HTML5 era](http://breach.cc/)
 
-+ [FastShell: HTML5, Sass and JavaScript boilerplate for Gulp, by @_Karamii](http://hosseinkarami.github.io/fastsh...)
++ [FastShell: HTML5, Sass and JavaScript boilerplate for Gulp, by @_Karamii](http://hosseinkarami.github.io/fastshell/)
 
-+ [The "Just In Time" Theory of User Behavior](http://blog.codinghorror.com/the-just...)
++ [The "Just In Time" Theory of User Behavior](http://blog.codinghorror.com/the-just-in-time-theory/)
 
 ---
 
@@ -1744,23 +1744,23 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Responsive Logos](http://responsivelogos.co.uk/)
 
-+ [Waves](http://publicis-indonesia.github.io/W...)
++ [Waves](http://fian.my.id/Waves/)
 
 + [Page Kit](http://pagekit.com/)
 
 + [DevDocs](http://devdocs.io/)
 
-+ [Dev.Opera — Responsive Images: Use Cases and Documented Code Snippets to Get You Started](http://dev.opera.com/articles/respons...)
++ [Dev.Opera — Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/)
 
 ---
 
 ### Ep107: Reading jQuery Source Code | HTML 5 Video Captions | Flexbox
 
-+ [18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado](http://quickleft.com/blog/18-surprise...)
++ [18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado](http://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code)
 
 + [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 
-+ [Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback — Osvaldas Valutis](http://osvaldas.info/flexbox-based-re...)
++ [Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback — Osvaldas Valutis](http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback)
 
 + [Please JS](http://www.checkman.io/please/)
 
@@ -1772,7 +1772,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Shoelace - Visual Bootstrap 3 Grid Builder](http://shoelace.io/)
 
-+ [Creating distraction-free reading experiences — azumbrunnen](http://azumbrunnen.me/blog/creating-d...)
++ [Creating distraction-free reading experiences — azumbrunnen](http://azumbrunnen.me/blog/creating-distraction-free-reading-experiences/)
 
 + [Rome](http://bevacqua.github.io/rome/)
 
@@ -1782,13 +1782,13 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep109: CSS Triggers | Fireshell | Responsive Design
 
-+ [he Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-s...)
++ [he Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
 
 + [CSS Triggers...](http://csstriggers.com/)
 
 + [FireShell: HTML5, Sass and JavaScript boilerplate for Grunt, by @toddmotto](http://getfireshell.com/)
 
-+ [How we make RWD sites load fast as heck | Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/performa...)
++ [How we make RWD sites load fast as heck | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/performance-rwd.html)
 
 + [way.js](http://gwendall.github.io/way/)
 
@@ -1796,12 +1796,12 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep110: Chrome Dev Tools | heatmap.js | Device Mockups
 
-+ [Tell Chrome Developer Tools to use a dark theme - howchoo](http://howchoo.com/g/tell-chrome-deve...)
++ [Tell Chrome Developer Tools to use a dark theme - howchoo](http://howchoo.com/g/tell-chrome-developer-tools-to-use-a-dark-theme)
 
-+ [Heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/hea...)
++ [Heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
 
-+ [HTML5 device mockups](http://github.com/pixelsign/html5-dev...)
++ [HTML5 device mockups](https://github.com/pixelsign/html5-device-mockups)
 
-+ [Comprehensive Beginner's Guide to AngularJS - AntJanus](http://antjanus.com/blog/web-developm...)
++ [Comprehensive Beginner's Guide to AngularJS - AntJanus](http://antjanus.com/blog/web-development-tutorials/front-end-development/comprehensive-beginner-guide-angularjs/)
 
-+ [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Author and responsive web developer Ben Frain](http://benfrain.com/enduring-css-writ...)
++ [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Author and responsive web developer Ben Frain](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
