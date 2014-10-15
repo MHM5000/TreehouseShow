@@ -1782,7 +1782,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep109: CSS Triggers | Fireshell | Responsive Design
 
-+ [he Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
++ [The Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
 
 + [CSS Triggers...](http://csstriggers.com/)
 
