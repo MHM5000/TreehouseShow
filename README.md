@@ -1805,3 +1805,18 @@ It's been more than a year since the first episode; You may run into broken link
 + [Comprehensive Beginner's Guide to AngularJS - AntJanus](http://antjanus.com/blog/web-development-tutorials/front-end-development/comprehensive-beginner-guide-angularjs/)
 
 + [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Author and responsive web developer Ben Frain](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
+
+---
+
+### Ep111: DPI | Responsive Charts | Media Queries
+
++ [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/home)
+
++ [Charlist - Simple reponsive](http://gionkunz.github.io/chartist-js/)
+
++ [7 Habits of Highly Effective Media Queries | Brad Frost Web](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/)
+
++ [Victor.js - 2D Vectors for JavaScript](http://victorjs.org/)
+
++ [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
+
