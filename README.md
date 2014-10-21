@@ -753,87 +753,87 @@ It's been more than a year since the first episode; You may run into broken link
 
 ### Ep62: CSS Position: fixed-sticky, Flexbox, Google Web Designer
 + [filamentgroup/fixed-sticky · GitHub](https://github.com/filamentgroup/fixed-sticky)
-	
+
 	CSS position:sticky is really in its infancy in terms of browser support. In stock browsers, it is currently only available in iOS 6. In Chrome you can enable it by navigating to chrome://flags and enabling experimental “WebKit features” or “Web Platform features” (Canary).
 + [elclanrs/jq-idealforms · GitHub](https://github.com/elclanrs/jq-idealforms)
-	
+
 	The ultimate framework for building and validating responsive HTML5 forms.
 + [Focus transition](http://n12v.com/focus-transition/)
-	
+
 	Keyboard navigation has a major downside: it’s not clear where the focus moves upon pressing the Tab key. Animation makes the transition more apparent.
 + [wilsonpage/fastdom · GitHub](https://github.com/wilsonpage/fastdom)
-	
+
 	Eliminates layout thrashing by batching DOM read/write operations
 + [Solved By Flexbox — Cleaner, hack-free CSS](http://philipwalton.github.io/solved-by-flexbox/)
-	
+
 	A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 + [Top Drawer - A smooth dropdown menu for responsive web design | Experiment #5](http://www.jordanm.co.uk/lab/topdrawer)
-	
+
 	To demonstrate smoother reveal menus in small contexts using CSS3 rather than animating with JavaScript.
 + [Google Web Designer](http://www.google.com/webdesigner/)
-	
+
 	Create engaging, interactive HTML5-based designs and motion graphics that can run on any device.
 + [Full Screen Mario](http://www.fullscreenmario.com/)
-	
+
 	Full Screen Mario is a fully HTML5 remake of the original Super Mario Brothers. You can play the original levels, play through some of literally millions of possible random maps, or create your own using the level editor. This whole project is open source and free.
 
 ---
 
 ### Ep63: Responsive Design, Rich Text Editing, Squircles
 + [Responsive Design Knowledge Hub](http://www.ugurus.com/responsive-design)
-	
+
 	A simple well designed hub to access Responsive Design resources.
 + [Sir Trevor JS | Made by Many](http://madebymany.github.io/sir-trevor-js/)
-	
+
 	An intuitive editor for web content which does not presuppose anything about how it will be rendered.
 + [UIPlayGround | CSS 3 Icons | CSS 3 Icons Generator | CSS 3 Icons Code Generator](http://www.uiplayground.in/css3-icons/)
-	
+
 	Over 200 easy to use CSS3 Icons. It will reduce the http Requests for you, too.
 + [Git/Github Resources | Brad Frost Web](http://bradfrostweb.com/blog/post/gitgithub-resources/)
-	
+
 	Great resources on how to learn working with git.
 + [Making iOS 7 squircles using CSS3](http://thecodeplayer.com/walkthrough/css3-squircles)
-	
+
 	How to make SQUIRCLES. Learn easy by TheCodePlayer.com
 + [hr.js](http://friendcode.github.io/hr.js/)
-	
+
 	Build large client-side applications in a structured way.
 + [Full Screen Mario](http://www.fullscreenmario.com/)
-	
+
 	Super Mario in Fullscreen
 + [Welcome - Polymer](http://www.polymer-project.org/)
-	
+
 	Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
 
 ---
 
 ### Ep64: Touchscreen UI events, Sprite and checkbox animation, Lo-Dash
 + [Touche.js](http://benhowdle.im/touche/)
-	
+
 	It removes the delay that happen when you touch an element on page with your touch-screen device.
 + [Motio](http://darsa.in/motio/)
-	
+
 	Small JavaScript library for sprite based animations and panning
 + [GridForms](http://kumailht.com/gridforms)
-	
+
 	A tiny Javascript/CSS framework that helps you make forms on grids with ease.
 + [Animated Checkboxes and Radio Buttons with SVG](http://tympanus.net/codrops/2013/10/15/animated-checkboxes-and-radio-buttons-with-svg/)
-	
+
 	Animation and SVG used for checkbox/radio
 + [Lo-Dash](http://lodash.com/)
-	
+
 	A utility library delivering consistency, customization, performance, & extras. You will find it pretty fascenating if you've used Undescore.js .
 + [CircleType.js](http://circletype.labwire.ca/)
-	
+
 	Circletype.js is a tiny (2.7kb) jQuery plugin that lets you set type on a circle
 + [Odometer](http://github.hubspot.com/odometer/docs/welcome/)
-	
+
 	TRANSITION NUMBERS WITH EASE
 + [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-	
+
 	A huge list of frontend development resources I collected over time. Pull requests are welcome. Website coming soon.
 + [TreehouseShow](https://github.com/MHM5000/TreehouseShow)
-	
+
 	This awesome List that **YOU** are scrolling right now! Thanks Treehouse. ;)
 
 ---
@@ -889,7 +889,7 @@ It's been more than a year since the first episode; You may run into broken link
 	A great read on Creating Non-Rectangular Layouts with CSS Shapes.
 + [stickUp - a free jQuery Plugin](http://lirancohen.github.io/stickUp/)
 
-	A simple plugin that "sticks" an element to the top of the browser window while scrolling past it, always keeping it in view. 
+	A simple plugin that "sticks" an element to the top of the browser window while scrolling past it, always keeping it in view.
 + [Pizza Pie Charts | Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
 
 	Creating responsive pie charts for any device is a piece of pie.
@@ -1225,7 +1225,7 @@ It's been more than a year since the first episode; You may run into broken link
 	When you might not need jQuery
 + [Origins of Common UI Symbols](https://readymag.com/shuffle/ui-symbols/)
 
-   Origins of symbols 
+   Origins of symbols
 
 ---
 
@@ -1380,7 +1380,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 	A new CSS framework based on bootstrap and foundation
 + [Facebook Predictions API](http://predictions.github.io)
-	
+
 	Make predictions on what a user will do next
 
 ---
@@ -1443,7 +1443,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 ---
 
-### Ep88: Gulp | Sketch 3 | Bud 
+### Ep88: Gulp | Sketch 3 | Bud
 
 + [gulp.js - the streaming build system](http://gulpjs.com/)
 
@@ -1463,7 +1463,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 ---
 
-### Ep89: Typography | Sidebars | Style Guides 
+### Ep89: Typography | Sidebars | Style Guides
 
 
 + [typebase.css: The starting point for good typography on the web](http://devinhunt.github.io/typebase.css/)
@@ -1557,7 +1557,7 @@ It's been more than a year since the first episode; You may run into broken link
 ### Ep94:Web Design Manual | Script-Injected | Flow.js
 
 + [Web Design Field Manual](http://webfieldmanual.com/)
- 
+
 + [Script-injected "async scripts" considered harmful - igvita.com](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
 
 + [The Scroll Up Bar - The Usability Post](http://usabilitypost.com/2014/05/24/the-scroll-up-bar/)
@@ -1820,3 +1820,16 @@ It's been more than a year since the first episode; You may run into broken link
 
 + [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
 
+---
+
+### Ep112: DPI | Responsive Charts | Media Queries
+
++ [Favicons, Touch Icons, Tile Icons, etc. What All Do You Need? | CSS-Tricks](http://css-tricks.com/favicon-quiz/)
+
++ [jonom/jquery-focuspoint · GitHub](https://github.com/jonom/jquery-focuspoint)
+
++ [Making SVGs Responsive with CSS | Codrops](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
+
++ [Timesheet.js - Open time tables with HTML, JavaScript and CSS …](http://semu.github.io/timesheet.js/)
+
++ [CSS Guidelines (2.0.15) – High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es/)
