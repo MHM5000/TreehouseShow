@@ -43,6 +43,9 @@ Episode List
 + [CSS3 PS: A CSS3 Photoshop Plugin](http://css3ps.com/)
 + [Sublime Text 2 Tips for Beginners](http://blog.alainmeier.com/post/27255145114/some-things-beginners-might-not-know-about-sublime-text)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep3: Rails 4 and OS X Mountain Lion
@@ -53,6 +56,9 @@ Episode List
 + [Phusion Passenger Updates](http://blog.phusion.nl/2012/07/24/roadmap-preview-1-phusion-passenger-4-0-and-phusion-passenger-enterprise/)
 + [UI-Cloud](http://ui-cloud.com/)
 + [Icon Monstr](http://iconmonstr.com/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -67,6 +73,9 @@ Episode List
 + [UI Parade](http://www.uiparade.com/)
 + [Prism](http://prismjs.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep5: JavaScript Tools
@@ -78,6 +87,9 @@ Episode List
 + [Cookie.js](https://github.com/js-coder/cookie.js)
 + [Gauge.js](http://bernii.github.com/gauge.js/)
 + [HTML5 Shim vs IE9 Emulation Mode](http://www.sitepoint.com/html5-shim-ie-emulation-mode/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -92,6 +104,9 @@ Episode List
 + [cdnjs](http://cdnjs.com/)
 + [JustGage](http://justgage.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep7: Web Development Tips
@@ -104,6 +119,9 @@ Episode List
 + [Some Web Development Tips](http://duruk.net/some-web-development-tips/)
 + [Complex navigation patterns for responsive design](http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/)
 + [Avgrund](http://lab.hakim.se/avgrund/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -118,6 +136,9 @@ Episode List
 + [SneakPeekIt](http://sneakpeekit.com/)
 + [jQuery Pictures](http://jquerypicture.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep9: HTML5 Boilerplate
@@ -131,6 +152,9 @@ Episode List
 + [Firefox Beta 16](https://hacks.mozilla.org/2012/08/new-firefox-command-line-helps-you-develop-faster/)
 + [JSbooks](http://jsbooks.revolunet.com/)
 + [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -156,6 +180,9 @@ Episode List
 + [7 html5 features you might not know](http://www.aaronlumsden.com/articles/7-html5-features-that-you-may-not-know-about/)
 + [CSS Values](http://cssvalues.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep12: Web Platform
@@ -168,6 +195,9 @@ Episode List
 + [Dom Monster](http://mir.aculo.us/dom-monster/)
 + [Compass.app](http://compass.handlino.com/)
 + [Source Code Pro](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -182,6 +212,9 @@ Episode List
 + [Framework Fight!](http://designshack.net/articles/css/framework-fight-zurb-foundation-vs-twitter-bootstrap/)
 + [Setting Up My Perfect Developer Environment on OSX 10.8 Mountain Lion (DP3 Edition)](http://vanderveer.be/blog/2012/04/21/setting-up-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion-dp3-edition/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep14: Responsive Techniques, JavaScript MVC Frameworks, and Firefox 16
@@ -194,6 +227,9 @@ Episode List
 + [dbpatterns](http://dbpatterns.com/)
 + [PFold](http://tympanus.net/codrops/2012/10/17/pfold-paper-like-unfolding-effect/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep15: Adaptive Images and Responsive SVGs
@@ -205,6 +241,9 @@ Episode List
 + [How to Customize Your Command Prompt](http://net.tutsplus.com/tutorials/tools-and-tips/how-to-customize-your-command-prompt/)
 + [Grid-A-Licious](http://suprb.com/apps/gridalicious/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep16: Simple CSS Grids
@@ -215,6 +254,9 @@ Episode List
 + [Powerful Command Line Tools For Developers](http://coding.smashingmagazine.com/2012/10/29/powerful-command-line-tools-developers/)
 + [CSS 3D Dropdown](http://soulwire.github.com/Makisu/)
 + [A Newb Guide to Git](http://journal.kaush.co/744/git-newb-guid)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -228,6 +270,9 @@ Episode List
 + [Gridlover](http://www.gridlover.net/)
 + [BonsaiJS](http://bonsaijs.org/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep18: Backbone.js, Responsive Background Images, and HTML5 APIs
@@ -239,6 +284,9 @@ Episode List
 + [Editable for Bootstrap](http://vitalets.github.com/bootstrap-editable/#)
 + [jPanelMenu](http://jpanelmenu.com/)
 + [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -252,6 +300,9 @@ Episode List
 + [Crumble - jQuery Feature Tours](http://tommoor.github.com/crumble/)
 + [microjs](http://microjs.com/#)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep20: Batch Icon Set, Bootstrap Goodies, Git Aliases, JavaScript Shopping Cart
@@ -263,6 +314,9 @@ Episode List
 + [pickadate.js](http://amsul.github.com/pickadate.js/)
 + [Heyoffline.js](http://oskarkrawczyk.github.com/heyoffline.js/)
 + [Bones](http://themble.com/bones/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -276,6 +330,9 @@ Episode List
 + [Tinytype](http://www.jordanm.co.uk/tinytype)
 + [Code smells in CSS](http://csswizardry.com/2012/11/code-smells-in-css/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep22: Explaining CSS and Landing Pages
@@ -286,6 +343,9 @@ Episode List
 + [A 50-Point Checklist For Creating The Ultimate Landing Page](http://unbounce.com/landing-pages/checklist/)
 + [alertifyjs](http://fabien-d.github.com/alertify.js/)
 + [Bootsnipp](http://bootsnipp.com/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -299,6 +359,9 @@ Episode List
 + [Focal Point](http://designshack.net/articles/css/focal-point-intelligent-cropping-of-responsive-images/)
 + [TinyNav.js](http://tinynav.viljamis.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep24: JavaScript PDFS, CSS Transitions, and Web Design Trends
@@ -309,6 +372,9 @@ Episode List
 + [jsPDF](http://jspdf.com/)
 + [Designing a responsive, retina ready site](http://paulstamatiou.com/responsive-retina-blog-design)
 + [20 Hottest Trends To Watch Out For In 2013](http://www.hongkiat.com/blog/web-design-trend-2013/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -323,6 +389,9 @@ Episode List
 + [Frank](http://somerandomdude.com/work/frank/)
 + [Sequence.js](http://www.sequencejs.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep26: jQuery Releases, Favicons and CSS Optimization
@@ -334,6 +403,9 @@ Episode List
 + [basket.js](http://addyosmani.github.com/basket.js/)
 + [Using the HTML title attribute](http://www.paciellogroup.com/blog/2013/01/using-the-html-title-attribute-updated/)
 + [mincss](http://www.peterbe.com/plog/mincss)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -347,6 +419,9 @@ Episode List
 + [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
 + [OverAPI](http://overapi.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep28: Collapsing Headers, Icon Fonts, and More
@@ -358,6 +433,9 @@ Episode List
 + [Flight](http://twitter.github.com/flight/)
 + [unsemantic](http://unsemantic.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep29: SVG Hacking
@@ -368,6 +446,9 @@ Episode List
 + [Labels in Input Fields](http://laurakalbag.com/labels-in-input-fields-arent-such-a-good-idea/)
 + [JavaScript function compatibility table](http://compatibility.shwups-cms.ch/de/home/)
 + [Sassaparilla](http://sass.fffunction.co/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -381,6 +462,9 @@ Episode List
 + [How To Design For Android Devices](http://blog.mengto.com/how-to-design-for-android-devices/)
 + [55+ Great and Useful Tools for Responsive Web Design](http://www.onextrapixel.com/2013/02/20/55-great-and-useful-tools-for-responsive-web-design/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep31: HTML Progress Element and JavaScript Sliders
@@ -391,6 +475,9 @@ Episode List
 + [jQuery Learning Center](http://learn.jquery.com/)
 + [The Web Font Combinator | A Web Typography Tool](http://font-combinator.com/)
 + [Icons DB - free custom icons](http://www.iconsdb.com/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -404,6 +491,9 @@ Episode List
 + [Genericons - a free, GPL, flexible icon font for blogs!](http://genericons.com/)
 + [devref | HTTP Header Analyzer](http://devref.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep33: Web Typography, CSS Patterns and Simple Icons
@@ -416,6 +506,9 @@ Episode List
 + [Simple Icons](http://simpleicons.org/)
 + [Mobile Emulation - Chrome Developer Tools — Google Developers](http://developers.google.com/chrome-developer-tools/docs/mobile-emulation)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep34: Accessibility, CSS Architecture, and Web Printing
@@ -426,6 +519,9 @@ Episode List
 + [Desant - Open source landing pages](http://desantapp.com/)
 + [Printing The Web | drublic](http://drublic.de/blog/printing-the-web/)
 + [Color Oracle](http://colororacle.org/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -439,6 +535,9 @@ Episode List
 + [Practical Tips from Top WordPress Pros](http://wp.smashingmagazine.com/2013/03/20/practical-tips-top-wordpress-pros/)
 + [Zurb Foundation 4](http://foundation.zurb.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep36: Sidebar Menus and Icon Stacks
@@ -450,6 +549,9 @@ Episode List
 + [Tear-able Cloth on CodePen](http://codepen.io/stuffit/pen/KrAwx)
 + [Pickadate.js](http://amsul.ca/pickadate.js/)
 + [Chardin.js](http://heelhook.github.io/chardin.js/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -463,6 +565,9 @@ Episode List
 + [CSS Masking - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/masking/adobe/)
 + [jQuery Best Practices - CodeProject](http://www.codeproject.com/Tips/573781/jQuery-Best-Practices)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep38: JavaScript Design Patterns and CSS Windows
@@ -474,6 +579,9 @@ Episode List
 + [Polychart.JS](http://www.polychartjs.com/)
 + [Cypher by djave-co](http://djave-co.github.io/jCypher/)
 + [Dashing](http://shopify.github.io/dashing/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -487,6 +595,9 @@ Episode List
 + [Single page apps in depth (a.k.a. Mixu' single page app book)](http://singlepageappbook.com/single-page.html)
 + [Responsive Multi-Level Menu | Codrops](http://tympanus.net/codrops/2013/04/19/responsive-multi-level-menu/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep40: iTunes Scrolling and Mobile Shelving
@@ -498,6 +609,9 @@ Episode List
 + [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer - Tech.Pro](http://tech.pro/tutorial/1190/package-managers-an-introductory-guide-for-the-uninitiated-front-end-developer)
 + [Niice. A search engine with taste.](http://www.niice.co/)
 + [jakiestfu/Snap.js · GitHub](http://github.com/jakiestfu/Snap.js/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -511,6 +625,9 @@ Episode List
 + [estelle/clowncar · GitHub](http://github.com/estelle/clowncar)
 + [The Flattening of Design - NYTimes.com](http://bits.blogs.nytimes.com/2013/04/23/the-flattening-of-design/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep42: Flat UI Colors, Don't do's with jQuery and Usability
@@ -522,6 +639,9 @@ Episode List
 + [Ghostlab](http://vanamco.com/ghostlab/)
 + [Handy Sass Mixins - Web Design Weekly](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/)
 + [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -535,6 +655,9 @@ Episode List
 + [Slider with Sliding Backgrounds | CSS-Tricks](http://css-tricks.com/slider-with-sliding-backgrounds/)
 + [ClippyJS - Add Clippy or his friends to any website for instant nostalgia](http://www.smore.com/clippy-js)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep44: HTML5 Features, Responsive CSS Modules and Sass
@@ -547,6 +670,9 @@ Episode List
 + [Principles of Flat Design - Designmodo](http://designmodo.com/flat-design-principles/)
 + [Starters Guide to iOS Design](http://taybenlor.com/2013/05/21/designing-for-ios.html)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep45: UX, Sitemaps and JS Tours
@@ -557,6 +683,9 @@ Episode List
 + [Tourist.js](http://easelinc.github.io/tourist/)
 + [least.js - Random & Responsive HTML 5, CSS3 Gallery with LazyLoad](http://kamilczujowski.github.io/least/)
 + [Free Responsive Testing Tool - Dimensions](http://www.dimensionsapp.com/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -570,6 +699,9 @@ Episode List
 + [Progression.js](http://git.aaronlumsden.com/progression/#demo)
 + [Ughck. Images. - daverupert.com](http://daverupert.com/2013/06/ughck-images/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep47: Dev Tool Secrets
@@ -581,6 +713,9 @@ Episode List
 + [simple statistics](http://macwright.org/simple-statistics/)
 + [magic css3 animations](http://www.minimamente.com/magic-css3-animations/)
 + [Creative Button Styles | Codrops](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -594,6 +729,9 @@ Episode List
 + [Real Shadow: Photorealistic Shadows](http://indamix.github.io/real-shadow/)
 + [GoodUI](http://goodui.org/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep49: App Store Screenshots, Regular Expressions, Programming Fonts
@@ -605,6 +743,9 @@ Episode List
 + [AngularJS: an Overview - Glenn Stovall](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 + [CSS filters, GIFs, and performance — What I Learned Building… — Medium](http://medium.com/what-i-learned-building/4364221d6d97)
 + [Slant - What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -618,6 +759,9 @@ Episode List
 + [CSS Zen Garden: The Beauty in CSS Design](http://www.csszengarden.com/)
 + [Chrome DevTools Revolutions 2013 - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep51: JavaScript diagramming, SASS, HTML5 Elements
@@ -628,6 +772,9 @@ Episode List
 + [Typer from LayerVault](http://cosmos.layervault.com/typer-js.html)
 + [Element Index | HTML5 Doctor](http://html5doctor.com/element-index/)
 + [ZeroClipboard](http://zeroclipboard.github.io/ZeroClipboard/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -641,6 +788,9 @@ Episode List
 + [Spacing The Bottom of Modules | CSS-Tricks](http://css-tricks.com/spacing-the-bottom-of-modules/)
 + [BARREL | Taking Control of Image Loading](http://www.barrelny.com/blog/taking-control-of-imageloading/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep53: The ClassList API, CSS Frameworks, Animation
@@ -652,6 +802,9 @@ Episode List
 + [Skeuocard by kenkeiter](http://kenkeiter.com/skeuocard/)
 + [Cross Site Request Forgery in JS Web Apps](http://blog.alexmaccaw.com/jswebapps-csrf)
 + [Animate.css](http://daneden.me/animate/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -666,6 +819,9 @@ Episode List
 + [FT Fastclick | FT Labs](http://labs.ft.com/articles/ft-fastclick/)
 + [Subtle Patterns | Free textures for your next web project.](http://subtlepatterns.com/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep55: Web Typography, JavaScript Progress Bars, CSS 3D
@@ -678,6 +834,9 @@ Episode List
 + [Tridiv | CSS 3D Editor](http://tridiv.com/)
 + [The iOS 7 Design Cheat Sheet - Ivo Mynttinen / User Interface Designer](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep56: Node.js, CSS Buttons, PNG Compression
@@ -689,6 +848,9 @@ Episode List
 + [Compress PNG Images Online](http://compresspng.com/)
 + [Blind - A 1X Web Browser for Retina Displays - Mac OS X](http://blindbrowser.com/)
 + [Formstone  /  Ben Plum](http://www.benplum.com/formstone/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -703,6 +865,9 @@ Episode List
 + [jpillora/xdomain](http://github.com/jpillora/xdomain)
 + [UIBox - Tag: typeahead](http://www.uibox.in/tag/typeahead)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep58: The Main Element, jQuery CLNDR, Keystrokes
@@ -716,6 +881,9 @@ Episode List
 + [ChocolateChip-UI](http://www.chocolatechip-ui.com/)
 + [Formbuilder.js by dobtco](http://dobtco.github.io/formbuilder/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep59: Form Validation, Safari Push Notifications, JavaScript Performance
@@ -727,6 +895,9 @@ Episode List
 + [dat.GUI](http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage)
 + [jsPerf: JavaScript performance playground](http://jsperf.com/)
 + [D3.js - Data-Driven Documents](http://d3js.org/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -740,6 +911,9 @@ Episode List
 + [WebGL Filter](http://evanw.github.io/webgl-filter/)
 + [Spritemapper](http://yostudios.github.io/Spritemapper/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep61: Request Autocomplete, Navicons, CSS Preprocessing
@@ -750,6 +924,9 @@ Episode List
 + [jonathanstark/FastActive · GitHub](http://github.com/jonathanstark/FastActive)
 + [Optimizing UI icons for faster recognition « Boxes and Arrows](http://boxesandarrows.com/optimizing-ui-icons-for-faster-recognition/)
 + [benweet/stackedit · GitHub](http://github.com/benweet/stackedit/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -779,6 +956,9 @@ Episode List
 
 	Full Screen Mario is a fully HTML5 remake of the original Super Mario Brothers. You can play the original levels, play through some of literally millions of possible random maps, or create your own using the level editor. This whole project is open source and free.
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep63: Responsive Design, Rich Text Editing, Squircles
@@ -806,6 +986,9 @@ Episode List
 + [Welcome - Polymer](http://www.polymer-project.org/)
 
 	Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -838,6 +1021,9 @@ Episode List
 
 	This awesome List that **YOU** are scrolling right now! Thanks Treehouse. ;)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep65: Contrast Ratio, Favicons, Offline Web Apps
@@ -863,6 +1049,9 @@ Episode List
 + [Snazzy Maps - Color Schemes for Google Maps](http://snazzymaps.com/?page=2)
 
 	Snazzy Maps is a repository of different color schemes for Google Maps aimed towards web designers and developers.
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -896,6 +1085,9 @@ Episode List
 
 	Creating responsive pie charts for any device is a piece of pie.
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep67: Responsive HTML Emails, JavaScript Techniques, WebGL
@@ -922,6 +1114,9 @@ Episode List
 
 	A good read on Typography.
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep68: JavaScript Templating, Flexbox, DevTools
@@ -947,6 +1142,9 @@ Episode List
 + [Advanced JavaScript Debugging with console.table()](http://www.mariusschulz.com/2013/11/13/advanced-javascript-debugging-with-consoletable)
 
 	Learn about a nifty little JavaScript debugging feature which is part of Chrome's developer tools.
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -977,6 +1175,9 @@ Episode List
 
 	Alignment and sizing
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep70: URL Rewriting, Responsive Emails, QR Codes
@@ -1005,6 +1206,9 @@ Episode List
 + [A Collection of Section Separators](http://tympanus.net/Development/SectionSeparators/)
 
 	A collection of separator styles for horizontally dividing sections on a website.
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1035,6 +1239,9 @@ Episode List
 
 	A jQuery plugin for extracting dominant colors from images and applying it to its parent.
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep72: Dynamic Tables, Progress Button Styles, Spinkit
@@ -1060,6 +1267,9 @@ Episode List
 + [Zoomerang.js](http://yyx990803.github.io/zoomerang/)
 
 	is a drop-in library that allows your users to zoom in on (almost) any element on your existing page. No setup, arbitrary styling.
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1090,6 +1300,9 @@ Episode List
 
 	Generate Product Screenshots in Realistic Environments!
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep74: JavaScript Tips and Tricks, Typography, HTML5 Game Development
@@ -1118,6 +1331,9 @@ Episode List
 + [Phaser - Desktop and Mobile HTML5 game framework](http://phaser.io/)
 
 	A free, fast and flexible framework for HTML5 game creation
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1148,6 +1364,9 @@ Episode List
 
 	A blog post about a web font bug in Google Chrome
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep76: Gulp, Kinetic Scrolling, Page Visibility
@@ -1177,6 +1396,9 @@ Episode List
 
 	A blog post about icon fonts
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep77: Sass Mixins, JavaScript Coding, Git Tips
@@ -1203,6 +1425,9 @@ Episode List
 
 	A pattern library
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep78: Origami, HTML 5 Game Development, Form Labels
@@ -1228,6 +1453,9 @@ Episode List
 + [Origins of Common UI Symbols](https://readymag.com/shuffle/ui-symbols/)
 
    Origins of symbols
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1258,6 +1486,9 @@ Episode List
 
 	Improves the offline experiance of your web application
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep80: Sandboxed iFrames, Progress Element, Responsive Screenshots
@@ -1286,6 +1517,9 @@ Episode List
 + [Snugug/north](https://github.com/Snugug/north)
 
 	Design and development standards to align and guide your project
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1316,6 +1550,9 @@ Episode List
 
 	CSS animations
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep82: Web Font Generators, ECMAScript 6 Features, Accessibility
@@ -1344,6 +1581,9 @@ Episode List
 + [nanobar.js](http://nanobar.micronube.com/)
 
 	Progress bar
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1374,6 +1614,9 @@ Episode List
 
 	A gamepad API
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep84: CSS Frameworks, Facebook Predictions API, Development Techniques
@@ -1384,6 +1627,9 @@ Episode List
 + [Facebook Predictions API](http://predictions.github.io)
 
 	Make predictions on what a user will do next
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1405,6 +1651,9 @@ Episode List
 
 + [Framework7 - Full Featured HTML Framework For Building iOS7 Apps](http://www.idangero.us/framework7/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep86: Really Good Emails | Credit Card Detection | Epic Editor
@@ -1425,6 +1674,9 @@ Episode List
 
 + [Debugging Asynchronous JavaScript with Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep87: Creating Style Guides | Writing Interface Copy | Ratchet
@@ -1442,6 +1694,9 @@ Episode List
 + [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 
 + [vis.js | a dynamic, browser-based visualization library](http://visjs.org/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1462,6 +1717,9 @@ Episode List
 + [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/welcome/)
 
 + [Pesticide - Kill Your Css Layout Bugs](http://pesticide.io/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1484,6 +1742,11 @@ Episode List
 
 + [Fluidbox (v1.3) - CodePen](http://codepen.io/terrymun/full/JKHwp)
 
+
+[Top](#treehouseshow)
+
+---
+
 ### Ep90: Voodoo | Responsive Tables | JavaScript Graphs
 
 + [Voodoo - A Next Generation Internet](http://www.voodoojs.com/)
@@ -1497,6 +1760,9 @@ Episode List
 + [Seven JavaScript Quirks I Wish I'd Known About | Telerik Developer Network](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/)
 
 + [Flexplorer](http://bennettfeely.com/flexplorer/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1518,6 +1784,9 @@ Episode List
 
 + [NYTimes/ice](https://github.com/NYTimes/ice)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep92: Morphing Buttons | Rangeslider | Declarative Animations
@@ -1538,6 +1807,9 @@ Episode List
 
 + [Bezier Curves and Type Design: A Tutorial | Learn - Scannerlicker!](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep93: Parallax | StyleStats | Uncss
@@ -1553,6 +1825,9 @@ Episode List
 + [uncss: Find Unused CSS](http://davidwalsh.name/uncss)
 
 + [leemunroe/grunt-email-design](https://github.com/leemunroe/grunt-email-design)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1570,6 +1845,9 @@ Episode List
 
 + [A Hacker's Guide to Git | Wildly Inaccurate](https://wildlyinaccurate.com/a-hackers-guide-to-git)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep95: App js | LoopBack | SVGO
@@ -1585,6 +1863,9 @@ Episode List
 + [JavaScript Memory Profiling - Google Chrome](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
 
 + [Skippr. A jQuery plugin for creating tasteful slideshows.](http://iamapioneer.com/plugins/skippr/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1602,6 +1883,9 @@ Episode List
 
 + [demosthenes.info -- Slash Page Load Times With CSS Font Subsetting](http://demosthenes.info/blog/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep97: Data-binding Techniques | CSS Techniques | Zepto.js
@@ -1617,6 +1901,9 @@ Episode List
 + [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
 
 + [David Walsh on Redesigning with Sass | CSS-Tricks](http://css-tricks.com/redesigning-with-sass/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1634,6 +1921,9 @@ Episode List
 
 + [Landing Proxy.app](http://blog.websecurify.com/2014/02/landing-proxy-app.html)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep99: Inline Anchor Styles | Steady Scrolling | Web Speech API
@@ -1649,6 +1939,9 @@ Episode List
 + [Sketch Tutorial_01 — Medium](https://medium.com/@KounterB/sketch-tutorial_01-b76271a095e3)
 
 + [jquery.matchHeight.js - a more robust equal heights plugin for jquery](http://brm.io/jquery-match-height/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1666,6 +1959,9 @@ Episode List
 
 + [A Couple of Use Cases for Calc() | CSS-Tricks](http://css-tricks.com/a-couple-of-use-cases-for-calc/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep101: CSS will-change Property | HTML5 Forms | Vertical Align
@@ -1681,6 +1977,9 @@ Episode List
 + [What Every Frontend Developer Should Know About Webpage Rendering — Frontend Babel](http://frontendbabel.info/articles/webpage-rendering-101/)
 
 + [Odyssey.js](http://cartodb.github.io/odyssey.js/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1698,6 +1997,9 @@ Episode List
 
 + [Epoch by Fastly](http://fastly.github.io/epoch/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep103: Human JavaScript | Interactive Graphs | Sidecomments
@@ -1711,6 +2013,9 @@ Episode List
 + [Find Guidelines - The fastest way to brand assets.](http://findguidelin.es/)
 
 + [Side Comments - Medium.com style commenting](http://aroc.github.io/side-comments-demo/.)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1726,6 +2031,9 @@ Episode List
 
 + [molly.is/saying](http://molly.is/saying/no-more-put-a-skirt-on-it/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep105: SVG Backgrounds | Breach | FastShell
@@ -1739,6 +2047,9 @@ Episode List
 + [FastShell: HTML5, Sass and JavaScript boilerplate for Gulp, by @_Karamii](http://hosseinkarami.github.io/fastshell/)
 
 + [The "Just In Time" Theory of User Behavior](http://blog.codinghorror.com/the-just-in-time-theory/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1754,6 +2065,9 @@ Episode List
 
 + [Dev.Opera — Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep107: Reading jQuery Source Code | HTML 5 Video Captions | Flexbox
@@ -1765,6 +2079,9 @@ Episode List
 + [Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback — Osvaldas Valutis](http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback)
 
 + [Please JS](http://www.checkman.io/please/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1780,6 +2097,9 @@ Episode List
 
 + [Pure CSS One Div Weather Animated Icons - CodePen](http://codepen.io/fbrz/full/iqtlk)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep109: CSS Triggers | Fireshell | Responsive Design
@@ -1793,6 +2113,9 @@ Episode List
 + [How we make RWD sites load fast as heck | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/performance-rwd.html)
 
 + [way.js](http://gwendall.github.io/way/)
+
+
+[Top](#treehouseshow)
 
 ---
 
@@ -1808,6 +2131,9 @@ Episode List
 
 + [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Author and responsive web developer Ben Frain](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep111: DPI | Responsive Charts | Media Queries
@@ -1822,6 +2148,9 @@ Episode List
 
 + [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
 
+
+[Top](#treehouseshow)
+
 ---
 
 ### Ep112: DPI | Responsive Charts | Media Queries
@@ -1835,3 +2164,6 @@ Episode List
 + [Timesheet.js - Open time tables with HTML, JavaScript and CSS …](http://semu.github.io/timesheet.js/)
 
 + [CSS Guidelines (2.0.15) – High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es/)
+
+
+[Top](#treehouseshow)
