@@ -24,7 +24,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 Episode List
 ---
-[ep1](#ep1) | [ep2](#ep2) | [ep3](#ep3) | [ep4](#ep4) | [ep5](#ep5) | [ep6](#ep6) | [ep7](#ep7) | [ep8](#ep8) |
+[ep1](# Ep1: CSS and JavaScript Tools) | [ep2](# Ep2: Retinafy Your Website) | [ep3](# Ep3: Rails 4 and OS X Mountain Lion) | [ep4](#ep4) | [ep5](#ep5) | [ep6](#ep6) | [ep7](#ep7) | [ep8](#ep8) |
 
 ### Ep1: CSS and JavaScript Tools
 + [Ceasar](http://matthewlein.com/ceaser/)
