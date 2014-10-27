@@ -22,7 +22,9 @@ One more note
 ---
 It's been more than a year since the first episode; You may run into broken links. If you do find one, then please do let me know in the issues section.
 
+Episode List
 ---
+[ep1](#ep1) | [ep2](#ep2) | [ep3](#ep3) | [ep4](#ep4) | [ep5](#ep5) | [ep6](#ep6) | [ep7](#ep7) | [ep8](#ep8) |
 
 ### Ep1: CSS and JavaScript Tools
 + [Ceasar](http://matthewlein.com/ceaser/)
