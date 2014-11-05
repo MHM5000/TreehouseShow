@@ -2170,7 +2170,7 @@ Episode List
 
 ---
 
-### Ep113: API Responses | Font Compression | Tab Styles | The Treehouse
+### Ep113: API Responses | Font Compression | Tab Styles
 
 + [DataCollection.js](http://thestorefront.github.io/DataCollection.js/)
 
@@ -2182,5 +2182,21 @@ Episode List
 
 + [Advanced objects in JavaScript](http://bjorn.tipling.com/advanced-objects-in-javascript)
 
+
+[Top](#treehouseshow)
+
+---
+
+### Ep114: Centering in CSS, Responsive Lightboxes, Dynamic Animations
+
++ [Centering in CSS: A Complete Guide | CSS-Tricks](http://css-tricks.com/centering-css-complete-guide/)
+
++ [TURNBOX.js - NOHT CO.,LTD.](http://noht.co.jp/turnbox)
+
++ [Implulse](http://impulse.luster.io/)
+
++ [Strip - A Less Intrusive Responsive Lightbox](http://www.stripjs.com/)
+
++ [drawer | blivesta · drawer](http://git.blivesta.com/drawer/)
 
 [Top](#treehouseshow)
