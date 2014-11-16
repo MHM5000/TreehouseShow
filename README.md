@@ -1,6 +1,6 @@
 TreehouseShow
 ===
-![Treehouse Show](https://raw2.github.com/MHM5000/TreehouseShow/master/treehouseshownew.jpg)
+![Treehouse Show](https://raw.githubusercontent.com/MHM5000/TreehouseShow/master/treehouseshownew.jpg)
 
 [Teamtreehouse](http://teamtreehouse.com/) and it's great teachers will help you to have a great start in dev/des.
 
