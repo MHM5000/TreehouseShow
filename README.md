@@ -1637,20 +1637,28 @@ Episode List
 
 + [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/)
 
+	How to use flexbox in the best case scenario
 + [My Current CSS and Sass Styleguide](http://www.sitepoint.com/css-sass-styleguide/)
 
+	A CSS and SASS styleguide
 + [x-gif](http://geelen.github.io/x-gif/)
 
+	A gif tag with awesome features
 + [MixItUp](https://mixitup.kunkalabs.com/)
 
+	Filter & Sort Jquery plugin
 + [Bootflat](http://bootflat.github.io/index.html)
 
+	A flat theme for bootstrap
 + [Getting started with Grunticon - The Iconfinder Blog](http://blog.iconfinder.com/get-started-with-grunticon/)
 
+	A blog post on getting started with Grunticon
 + [uberVU/grid](https://github.com/ubervu/grid)
 
+	Drag and drop library for two-dimensional, resizable and responsive lists
 + [Framework7 - Full Featured HTML Framework For Building iOS7 Apps](http://www.idangero.us/framework7/)
 
+	Full Featured HTML Framework For Building iOS Apps
 
 [Top](#treehouseshow)
 
