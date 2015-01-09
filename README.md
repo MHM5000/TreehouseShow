@@ -1668,20 +1668,28 @@ Episode List
 
 + [Really Good Emails - The Best Email Designs in the Universe (that came into my inbox)](http://reallygoodemails.com/)
 
+	The Best Email Designs in the Universe
 + [Error Handling in Nodejs - Developer Center - Joyent](http://www.joyent.com/developers/node)
 
+	Error Handling in Nodejs
 + [Refills](http://refills.bourbon.io/)
 
+	Prepackaged patterns and components
 + [How to correctly detect credit card type](http://creditcardjs.com/credit-card-type-detection)
 
+	How to correctly detect credit card type
 + [Font-To-Width](http://font-to-width.com/)
 
+	Fit text to a specific width
 + [Speaking JavaScript](http://speakingjs.com/)
 
-+ [EpicEditor - An embeddable JavaScript Markdown editor](http://epiceditor.com/)
+	Free JavaScript e-book
++ [EpicEditor](http://epiceditor.com/)
 
+	An embeddable JavaScript Markdown editor
 + [Debugging Asynchronous JavaScript with Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
 
+	Debugging Asynchronous JavaScript with Chrome DevTools
 
 [Top](#treehouseshow)
 
