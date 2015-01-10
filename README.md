@@ -1699,18 +1699,28 @@ Episode List
 
 + [Creating Style Guides · An A List Apart Article](http://alistapart.com/article/creating-style-guides)
 
+	How to make style guides
 + [From Google Ventures: 5 Rules For Writing Great Interface Copy | Co.Design | business + design](http://www.fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy)
 
+	5 rules for writing great interface copy
 + [Ratchet](http://goratchet.com/)
 
+	Front end mobile framework
++ [elementTransitions.js](http://dan-silver.github.io/ElementTransitions.js/)
+
+	A wrapper around the code provided by a [codrops article](http://tympanus.net/codrops/2013/05/07/a-collection-of-page-transitions/). Their code has been modified to allow more than one animatable element per page
 + [Magic Animations CSS3](http://www.minimamente.com/magic-css3-animations-by-minimac/)
 
+	CSS animations framework
 + [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
+	Github cheat sheet
 + [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 
+	A blog post about writing code every day
 + [vis.js | a dynamic, browser-based visualization library](http://visjs.org/)
 
+	A dynamic, browser-based visualization library
 
 [Top](#treehouseshow)
 
