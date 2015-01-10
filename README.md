@@ -1730,20 +1730,28 @@ Episode List
 
 + [gulp.js - the streaming build system](http://gulpjs.com/)
 
+	A streaming build system
 + [What is new in Sketch 3  — Medium](http://medium.com/p/4b92d8b25f3)
 
+	New features in Sketch 3
 + [azer/bud](http://github.com/azer/bud)
 
+	Another build system...
 + [qrohlf/trianglify](http://github.com/qrohlf/trianglify)
 
+	JavaScript library for making lowpoly backgrounds
 + [sindresorhus/multiline](http://github.com/sindresorhus/multiline)
 
+	Multiline strings in JavaScript
 + [How to Use steps() in CSS Animations - Designmodo](http://designmodo.com/steps-css-animations/)
 
+	How to use steps() in CSS animations
 + [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/welcome/)
 
-+ [Pesticide - Kill Your Css Layout Bugs](http://pesticide.io/)
+	An automatic page load progress bar
++ [Pesticide - Kill Your CSS Layout Bugs](http://pesticide.io/)
 
+	Faster CSS layout debugging
 
 [Top](#treehouseshow)
 
