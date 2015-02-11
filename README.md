@@ -1821,20 +1821,28 @@ Episode List
 
 + [Advanced animation path » legomushroom](http://blog.legomushroom.com/2014/03/defining-advanced-animation-path/)
 
+	Advanced animation paths with svg
 + [Velocity.js](http://julian.com/research/velocity/)
 
+	A drop in replacement for jQuery's .animate function with better performance
 + [Sidebar Transitions](http://tympanus.net/Development/SidebarTransitions/)
 
+	Transition effects for off-canvas sidebars
 + [Feather: 130 Free Icons by Cole Bemis](http://colebemis.com/feather/)
 
+	A growing library of simple icons
 + [Open Iconic, a free and open icon set](https://useiconic.com/open)
 
+	Iconic (a robust icon set) is now open source!
 + [Home — Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
+	Best practices when making websites
 + [Eight Bit Color Picker](http://bilalq.github.io/eight-bit-color-picker/)
 
+	Color picker widget with no dependencies
 + [NYTimes/ice](https://github.com/NYTimes/ice)
 
+	A plugin for editable content
 
 [Top](#treehouseshow)
 
