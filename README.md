@@ -1793,16 +1793,25 @@ Episode List
 
 + [Voodoo - A Next Generation Internet](http://www.voodoojs.com/)
 
+	Easily mix 2D and 3D content together on the same page.
 + [Responsive tables](http://gergeo.se/RWD-Table-Patterns/)
 
+	A solution for responsive tables with complex data
 + [Isomer -- an isometric graphics library for HTML5 canvas](http://jdan.github.io/isomer/)
 
+	An isometric graphics library for HTML5 canvas
++ [Dygraphs](http://dygraphs.com/)
+
+	Javascript charting library
 + [Labelmask | Brad Frost Web](http://bradfrostweb.com/blog/post/labelmask/)
 
+	Blog post about labelmask
 + [Seven JavaScript Quirks I Wish I'd Known About | Telerik Developer Network](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/)
 
+	Common quirks in JavaScript
 + [Flexplorer](http://bennettfeely.com/flexplorer/)
 
+	Explore how different flexbox properties work and interact with different elements
 
 [Top](#treehouseshow)
 
