@@ -1762,20 +1762,28 @@ Episode List
 
 + [typebase.css: The starting point for good typography on the web](http://devinhunt.github.io/typebase.css/)
 
+	A minimal and customisable typography stylesheet
 + [timuric/Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin)
 
+	A Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
 + [Slidebars](http://plugins.adchsm.me/slidebars/)
 
+	A jQuery plugin for quickly and easily implementing app style off-canvas menus and sidebars into your website
 + [felixge/node-style-guide](https://github.com/felixge/node-style-guide)
 
+	A guide for styling your node.js / JavaScript code
 + [Improve the payment experience with animations — Medium](https://medium.com/p/3d1b0a9b810e)
 
+	A blog post about improving the payment experience
 + [The PourOver Book · PourOver](http://nytimes.github.io/pourover/)
 
+	A library for simple, fast filtering and sorting of large collections
 + [CSS Vocabulary](http://apps.workflower.fi/vocabs/)
 
+	Terms for parts of CSS
 + [Fluidbox (v1.3) - CodePen](http://codepen.io/terrymun/full/JKHwp)
 
+	Simple and responsive lightbox
 
 [Top](#treehouseshow)
 
