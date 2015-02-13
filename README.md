@@ -1958,16 +1958,22 @@ Episode List
 
 + [Selectize.js](http://brianreavis.github.io/selectize.js/)
 
+	A hybrid of a textbox and <select> box
 + [pullpush | jQuery and JavaScript plugins and libraries](http://pullpu.sh/)
 
+	(BROKEN) A curated library of quality, well maintained jQuery and plain JS plugins and libraries
 + [NumberProgressBar](http://kalasoo.github.io/NumberProgressBar/)
 
+	Progress bar inspired by [daimajia](https://github.com/daimajia/NumberProgressBar)
 + [interagent/http-api-design](https://github.com/interagent/http-api-design)
 
+	HTTP API design guide extracted from work on the Heroku Platform API
 + [Profound Grid | A grid system for fixed and fluid layouts](http://www.profoundgrid.com/)
 
+	A responsive grid system for fixed and fluid layouts. Built in SCSS
 + [demosthenes.info -- Slash Page Load Times With CSS Font Subsetting](http://demosthenes.info/blog/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting)
 
+	A blog post about slashing page load times with css font subsetting
 
 [Top](#treehouseshow)
 
