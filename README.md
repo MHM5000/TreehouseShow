@@ -2058,16 +2058,22 @@ Episode List
 
 + [Dev.Opera — Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
 
+	Blog post about the will-change CSS property
 + [HTML5 Forms: JavaScript and the Constraint Validation API](http://www.sitepoint.com/html5-forms-javascript-constraint-validation-api/)
 
+	A blog post about HTML5 form validation
 + [Bounce.js](http://bouncejs.com/)
 
+	Easily create CSS animations
 + [Z63 | Vertical align anything with just 3 lines of CSS | zerosixthree](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 
+	A solution to vertical alignment
 + [dc.js - Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
 
+	A javascript charting library
 + [A Couple of Use Cases for Calc() | CSS-Tricks](http://css-tricks.com/a-couple-of-use-cases-for-calc/)
 
+	Calculation in css
 
 [Top](#treehouseshow)
 
