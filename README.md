@@ -2155,14 +2155,19 @@ Episode List
 
 + [Aerotwist - Pixels are expensive](http://aerotwist.com/blog/pixels-are-expensive/)
 
+	Article about how pixels get onto your users' screens
 + [Why Web Components Aren't Ready for Production... Yet -Telerik Developer Network](http://developer.telerik.com/featured/web-components-arent-ready-production-yet/)
 
+	Why Web Components aren't ready for production
 + [The origin of the hamburger icon](https://www.evernote.com/shard/s207/sh/022f2237-4b4f-4096-87f2-053acd228c2d/ede2672bc3f39a1b0232f84e01ca0a83?utm_content=buffer84840&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-+ [Papa Parse - Powerful CSV parser for Javascript](http://papaparse.com/)
+	A video showing where the hamburger icon came from	
++ [Papa Parse](http://papaparse.com/)
 
+	Powerful CSV parser for Javascript
 + [molly.is/saying](http://molly.is/saying/no-more-put-a-skirt-on-it/)
 
+	A blog post about the problem with avatars
 
 [Top](#treehouseshow)
 
