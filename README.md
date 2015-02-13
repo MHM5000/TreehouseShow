@@ -1933,16 +1933,22 @@ Episode List
 
 + [App.js | Mobile webapps made easy](http://code.kik.com/app/2/index.html)
 
+	A lightweight JavaScript UI library for creating mobile webapps that behave like native apps
 + [svg/svgo-gui](https://github.com/svg/svgo-gui)
 
+	A node webkit based GUI for SVGO
 + [LoopBack](http://loopback.io/)
 
+	API server powered by Node JS
 + [Single Element CSS Spinners](http://projects.lukehaas.me/css-loaders/)
 
+	Single Element CSS Spinners
 + [JavaScript Memory Profiling - Google Chrome](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
 
+	A blog post about JavaScript memory profiling
 + [Skippr. A jQuery plugin for creating tasteful slideshows.](http://iamapioneer.com/plugins/skippr/)
 
+	A lightweight fast slideshow plugin for jQuery
 
 [Top](#treehouseshow)
 
