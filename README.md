@@ -2033,16 +2033,22 @@ Episode List
 
 + [Inline Anchor Styles](http://tympanus.net/codrops/2014/06/04/inspiration-for-inline-anchor-styles/)
 
+	Styles and effects for links
 + [Steady.js](ttp://lafikl.github.io/steady.js/)
 
+	Performance scrolling with media queries
 + [voice-elements](http://zenorocha.github.io/voice-elements/)
 
+	Web components for text to speech, and speech to text
 + [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://jsnice.org/)
 
+	Un-minify JavaScript
 + [Sketch Tutorial_01 — Medium](https://medium.com/@KounterB/sketch-tutorial_01-b76271a095e3)
 
+	How to use Sketch
 + [jquery.matchHeight.js - a more robust equal heights plugin for jquery](http://brm.io/jquery-match-height/)
 
+	Makes selected elements equal in height
 
 [Top](#treehouseshow)
 
