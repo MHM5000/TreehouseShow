@@ -2008,16 +2008,22 @@ Episode List
 
 + [Dev.Opera — Getting to know CSS Blend Modes](https://dev.opera.com/articles/getting-to-know-css-blend-modes/)
 
+	Blend modes (like in Photoshop) in CSS
 + [Stella.js](http://markdalgleish.com/projects/stellar.js/)
 
+	A jQuery plugin for parallax scrolling
 + [Adaptive Placeholders | The Circle Blog](http://blog.circleci.com/adaptive-placeholders/)
 
+	Placeholders that adapt into labels
 + [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/)
 
+	A lightweight JavaScript widget that hides the header until you scroll up again
 + [Inspiration for Article Intro Effects | Codrops](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
 
+	Blog post header transitions
 + [Landing Proxy.app](http://blog.websecurify.com/2014/02/landing-proxy-app.html)
 
+	A proxy for verifying and watching HTTP requests
 
 [Top](#treehouseshow)
 
