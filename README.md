@@ -2221,12 +2221,19 @@ Episode List
 
 + [18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado](http://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code)
 
+	18 surprising facts about jQuery
 + [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 
+	Browser support tables for different things
++ [Adding captions and subtitles to HTML5 video](https://hacks.mozilla.org/2014/07/adding-captions-and-subtitles-to-html5-video/)
+
+	How to add captions and subtitles to HTML5 video
 + [Flexbox Based Responsive Equal Height Blocks With JavaScript Fallback — Osvaldas Valutis](http://osvaldas.info/flexbox-based-responsive-equal-height-blocks-with-javascript-fallback)
 
+	How to use CSS's flexbox to set equal height
 + [Please JS](http://www.checkman.io/please/)
 
+	Javascript to randomly generate colours
 
 [Top](#treehouseshow)
 
