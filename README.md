@@ -1852,20 +1852,28 @@ Episode List
 
 + [sandropaganotti/pull-and-zoom](https://github.com/sandropaganotti/pull-and-zoom)
 
+	A library that zooms the header while a user pulls the body of a mobile page
 + [Morphing Buttons Concept | Codrops](http://tympanus.net/codrops/2014/05/12/morphing-buttons-concept/)
 
+	Inspiration for revealing content by morphing buttons
 + [rangeslider.js](http://andreruffert.github.io/rangeslider.js/)
 
+	A simple jQuery polyfill for the range slider for the HTML5 range slider element
 + [WTF, forms?](http://wtfforms.com/)
 
+	Friendlier HTML form controls with a little CSS magic,
 + [Quill - An Open Source Rich Text Editor with an API](http://quilljs.com/)
 
+	A rich text editor built for the modern web
 + [Realistic terrain in 130 lines](http://www.playfuljs.com/realistic-terrain-in-130-lines/)
 
+	Realistic terrain in 130 lines
 + [AniJS, Declarative handling library for CSS animations](http://anijs.github.io/)
 
+	A Library to Raise your Web Design without Coding
 + [Bezier Curves and Type Design: A Tutorial | Learn - Scannerlicker!](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 
+		A tutorial on how bezier curves work
 
 [Top](#treehouseshow)
 
