@@ -1979,20 +1979,26 @@ Episode List
 
 ---
 
-### Ep97: Data-binding Techniques | CSS Techniques | Zepto.js
+### Ep97: Data-binding Techniques | CSS Techniques | Zepto.js 
 
 + [Data-binding Revolutions with Object.observe() - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es7/observe/)
 
+	A blog post about a new (as of May 20th, 2014) part of JavaScript that lets you watch objects for changes
 + [icholy/ttygif](https://github.com/icholy/ttygif)
 
+	Convert terminal recordings to animated gifs
 + [Let's Make a Bubble Map](http://bost.ocks.org/mike/bubble-map/)
 
+	How to make a bubble map with D3.js and TopoJSON
 + [Single Responsibility - Drew Barontini](http://drewbarontini.com/articles/single-responsibility/)
 
+	The principles of OOP in CSS
 + [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
 
+	A small, jQuery-compatible jQuery replacement
 + [David Walsh on Redesigning with Sass | CSS-Tricks](http://css-tricks.com/redesigning-with-sass/)
 
+	A blog post about redesigning with SASS
 
 [Top](#treehouseshow)
 
