@@ -2083,16 +2083,22 @@ Episode List
 
 + [Share: The Icon No One Agrees On - BOLD by Pixelapse](https://bold.pixelapse.com/minming/share-the-icon-no-one-agrees-on)
 
+	Blog post about all the different share icons
 + [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS)
 
+	A JavaScript library for directly uploading files to Amazon S3 from your webpage
 + [Web Starter Kit](https://developers.google.com/web/starter-kit/index?hl=en)
 
+	Boilerplate & Tooling for Multi-Device development
 + [Read JavaScript Allongé | Leanpub](https://leanpub.com/javascript-allonge/read)
 
+	A book about JavaScript
 + [What Every Frontend Developer Should Know About Webpage Rendering — Frontend Babel](http://frontendbabel.info/articles/webpage-rendering-101/)
 
+	A blog post about webpage rendering
 + [Odyssey.js](http://cartodb.github.io/odyssey.js/)
 
+	A simple way for journalists, designers, and creators to weave interactive stories
 
 [Top](#treehouseshow)
 
