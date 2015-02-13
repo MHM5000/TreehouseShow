@@ -2177,14 +2177,19 @@ Episode List
 
 + [PatternBolt](http://buseca.github.io/patternbolt/)
 
+	A selection of SVG pattern backgrouns packed in a single CSS or SCSS file
 + [DomFlags - devtools extension to create keyboard shortcuts to DOM elements](http://domflags.com/)
 
+	Keyboard shortcuts to DOM elements
 + [Breach - A browser for the HTML5 era](http://breach.cc/)
 
-+ [FastShell: HTML5, Sass and JavaScript boilerplate for Gulp, by @_Karamii](http://hosseinkarami.github.io/fastshell/)
+	A modular, hackable, and open source browser
++ [FastShell: HTML5, Sass and JavaScript boilerplate for Gulp](http://hosseinkarami.github.io/fastshell/)
 
+	Fast front-end boilerplate and workflows
 + [The "Just In Time" Theory of User Behavior](http://blog.codinghorror.com/the-just-in-time-theory/)
 
+	Why you should present information as the user needs it rather than just giving a manual
 
 [Top](#treehouseshow)
 
