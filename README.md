@@ -2108,16 +2108,22 @@ Episode List
 
 + [rafaelconde/ios8-ui-kit](https://github.com/rafaelconde/ios8-ui-kit)
 
-+ [Announcing Internet Explorer Developer Channel - IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/archive/2014/06/16/announcing-internet-explorer-developer-channel.aspx)
+	And extended and updated to iOS 8 UI Kit for Sketch
++ [Announcing Internet Explorer Developer Channel - IEBlog](http://blogs.msdn.com/b/ie/archive/2014/06/16/announcing-internet-explorer-developer-channel.aspx)
 
+	Developer version of IE, similar to Google Chrome Canary and Firefox nightly
 + [Ideas for Subtle Hover Effects | Codrops](http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/)
 
+	Inspiration for subtle hover effects
 + [codemix/fast.js](https://github.com/codemix/fast.js)
 
+	Small JavaScript library that replaces some of JavaScript's built in functions with faster versions
 + [Headstart](http://www.headstart.io/)
 
+	An easy to use automated front end setup
 + [Epoch by Fastly](http://fastly.github.io/epoch/)
 
+	A real-time charting library for building visualizations
 
 [Top](#treehouseshow)
 
