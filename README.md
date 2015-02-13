@@ -2243,14 +2243,19 @@ Episode List
 
 + [Butterick’s Practical Typography](http://practicaltypography.com/)
 
+	A guide to practical typography
 + [Shoelace - Visual Bootstrap 3 Grid Builder](http://shoelace.io/)
 
+	Visual bootstrap builder
 + [Creating distraction-free reading experiences — azumbrunnen](http://azumbrunnen.me/blog/creating-distraction-free-reading-experiences/)
 
+	How to make distraction-free reading experiences
 + [Rome](http://bevacqua.github.io/rome/)
 
+	Dependency free, opt-in UI, customisable date (and time) picker
 + [Pure CSS One Div Weather Animated Icons - CodePen](http://codepen.io/fbrz/full/iqtlk)
 
+	Weather icon animations made using CSS and one div per icon
 
 [Top](#treehouseshow)
 
