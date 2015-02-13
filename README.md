@@ -1908,16 +1908,22 @@ Episode List
 
 + [Web Design Field Manual](http://webfieldmanual.com/)
 
+	Web design resources
 + [Script-injected "async scripts" considered harmful - igvita.com](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
 
+	Script-injected "async scripts" considered harmful
 + [The Scroll Up Bar - The Usability Post](http://usabilitypost.com/2014/05/24/the-scroll-up-bar/)
 
+	A blog post talking about the scroll up bar design pattern
 + [Angular file upload - flow.js](http://flowjs.github.io/ng-flow/)
 
+	JavaScript library that allows you to have multiple simultaneous, stable and resumable uploads via the HTML5 file API
 + [Compressor.io - optimize and compress your images and photos](http://compressor.io/)
 
+	Compress and optimize images with up to 90% file size reduction
 + [A Hacker's Guide to Git | Wildly Inaccurate](https://wildlyinaccurate.com/a-hackers-guide-to-git)
 
+	A thorough git tutorial
 
 [Top](#treehouseshow)
 
