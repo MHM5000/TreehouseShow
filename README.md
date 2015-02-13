@@ -2199,14 +2199,19 @@ Episode List
 
 + [Responsive Logos](http://responsivelogos.co.uk/)
 
+	Responsive design applied to logos
 + [Waves](http://fian.my.id/Waves/)
 
+	Add material design inspired click and hover effects to buttons
 + [Page Kit](http://pagekit.com/)
 
+	A modern CMS to create and share
 + [DevDocs](http://devdocs.io/)
 
+	Quickly find documentation
 + [Dev.Opera — Responsive Images: Use Cases and Documented Code Snippets to Get You Started](https://dev.opera.com/articles/responsive-images/)
 
+	A blog post about the picture element
 
 [Top](#treehouseshow)
 
