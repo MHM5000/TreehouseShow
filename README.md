@@ -2133,14 +2133,19 @@ Episode List
 
 + [Introduction | Human JavaScript](http://read.humanjavascript.com/)
 
+	An ebook about writting good JavaScript that can be read by humans
 + [The Simpsons in CSS](http://pattle.github.io/simpsons-in-css/)
 
+	The Simpsons characters made with HTML and CSS
 + [Rickshaw: A JavaScript toolkit for creating interactive time-series graphs](http://code.shutterstock.com/rickshaw/)
 
+	A library for creating interactive time series graphs
 + [Find Guidelines - The fastest way to brand assets.](http://findguidelin.es/)
 
+	Quickly find brand guidelines
 + [Side Comments - Medium.com style commenting](http://aroc.github.io/side-comments-demo/.)
 
+	JavaScript to give your site Medium.com style side comments
 
 [Top](#treehouseshow)
 
