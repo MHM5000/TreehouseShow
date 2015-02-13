@@ -1883,16 +1883,22 @@ Episode List
 
 + [Parallax Done Right — Medium](https://medium.com/@dhg/82ced812e61c)
 
+	Tips for implementing parallax scrolling
 + [Picturefill](http://scottjehl.github.io/picturefill/)
 
+	A JavaScript polyfill from the responsive images community group
 + [StyleStats - Useful tool to collect CSS statistics](http://www.stylestats.org/)
 
+	Statistics about stylesheets
 + [Luis Abreu: Why and How to avoid Hamburger Menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/)
 
+	The issues with hamburger menus and the alternatives
 + [uncss: Find Unused CSS](http://davidwalsh.name/uncss)
 
+	Checks if you have any CSS that you're not using
 + [leemunroe/grunt-email-design](https://github.com/leemunroe/grunt-email-design)
 
+	A Grunt workflow for designing and testing HTML email templates with SCSS
 
 [Top](#treehouseshow)
 
