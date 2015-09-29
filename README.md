@@ -2288,14 +2288,19 @@ Episode List
 
 + [Tell Chrome Developer Tools to use a dark theme - howchoo](http://howchoo.com/g/tell-chrome-developer-tools-to-use-a-dark-theme)
 
+	Dark theme for Google Chrome's developer tools
 + [Heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
 
+	lightweight, easy to use JavaScript library to help you visualize your three dimensional data
 + [HTML5 device mockups](https://github.com/pixelsign/html5-device-mockups)
 
+	HTML5 mockups of popular devices
 + [Comprehensive Beginner's Guide to AngularJS - AntJanus](http://antjanus.com/blog/web-development-tutorials/front-end-development/comprehensive-beginner-guide-angularjs/)
 
+	Beginner's guide to AngularJS
 + [Enduring CSS: writing style sheets for rapidly changing, long-lived projects - Author and responsive web developer Ben Frain](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
 
+	How to structure CSS that's going to be used on a large scale
 
 [Top](#treehouseshow)
 
