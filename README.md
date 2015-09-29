@@ -2332,14 +2332,19 @@ Episode List
 
 + [Favicons, Touch Icons, Tile Icons, etc. What All Do You Need? | CSS-Tricks](http://css-tricks.com/favicon-quiz/)
 
+	Quiz about favicons, touch icons, tile icons, etc.
 + [jonom/jquery-focuspoint · GitHub](https://github.com/jonom/jquery-focuspoint)
 
+	Dynamically crop images to fill available space without cutting out the image's subject for 'responsive cropping'
 + [Making SVGs Responsive with CSS | Codrops](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
 
+	Article explaining how to use CSS to make SVGs responsive
 + [Timesheet.js - Open time tables with HTML, JavaScript and CSS …](http://semu.github.io/timesheet.js/)
 
-+ [CSS Guidelines (2.0.15) – High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es/)
+	Develop time sheets with HTML5 and CSS3
++ [CSS Guidelines](http://cssguidelin.es/)
 
+	High-level advice and guidelines for writing sane, manageable, scalable CSS
 
 [Top](#treehouseshow)
 
