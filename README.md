@@ -2354,14 +2354,19 @@ Episode List
 
 + [DataCollection.js](http://thestorefront.github.io/DataCollection.js/)
 
+	"Manipulate data from API responses with ease"
 + [Dev.Opera — Native Responsive Images](https://dev.opera.com/articles/native-responsive-images/)
 
+	Article about responsive images
 + [Speed Up Your Bootstrap and Font-Awesome Sites Using Font Compression | Zoompf Web Performance](http://zoompf.com/blog/2014/08/bootstrap-fonts)
 
+	Using apache to compress fonts
 + [Tab Styles Inspiration | Codrops](http://tympanus.net/codrops/2014/09/02/tab-styles-inspiration/)
 
+	"A couple of modern and subtle tab styles and effects for your inspiration"
 + [Advanced objects in JavaScript](http://bjorn.tipling.com/advanced-objects-in-javascript)
 
+	A thorough blog post explaining how to create objects in javascript
 
 [Top](#treehouseshow)
 
