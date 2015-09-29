@@ -2265,14 +2265,20 @@ Episode List
 
 + [The Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
 
+	
+	Article from html5doctor.com about the web manifest specification
 + [CSS Triggers...](http://csstriggers.com/)
 
-+ [FireShell: HTML5, Sass and JavaScript boilerplate for Grunt, by @toddmotto](http://getfireshell.com/)
+	A site which tells you whether a CSS filter will cause a layout, paint, or composite change to help you improve page performance
++ [FireShell](http://getfireshell.com/)
 
+	Fiercely quick front-end boilerplate and workflows, HTML5, Grunt, Sass.
 + [How we make RWD sites load fast as heck | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/performance-rwd.html)
 
+	An article outlining "observations and approaches to delivering sites for speed and broader access"
 + [way.js](http://gwendall.github.io/way/)
 
+	a simple, lightweight, persistent, framework-agnostic javascript library that allows you to bind DOM elements to an in-memory datastore
 
 [Top](#treehouseshow)
 
