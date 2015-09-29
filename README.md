@@ -2308,16 +2308,21 @@ Episode List
 
 ### Ep111: DPI | Responsive Charts | Media Queries
 
-+ [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi/home)
++ [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi)
 
+	Introduction to DPI and PPI
 + [Charlist - Simple reponsive](http://gionkunz.github.io/chartist-js/)
 
+	Responsive JavaScript charts
 + [7 Habits of Highly Effective Media Queries | Brad Frost Web](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/)
 
+	Considerations for writing high-quality media queries
 + [Victor.js - 2D Vectors for JavaScript](http://victorjs.org/)
 
+	JavaScript 2D vector maths library for Node.js and the browser
 + [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
 
+	Article demonstrating "how to use CSS transforms, perspective and some scaling trickery to create a pure CSS parallax scrolling website"
 
 [Top](#treehouseshow)
 
