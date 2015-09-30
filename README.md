@@ -1597,7 +1597,7 @@ Episode List
 	Tumblr blog on empty states
 + [Webshim](http://afarkas.github.io/webshim/demos/index.html#)
 
-	Use HTML5 accross browsers
+	Use HTML5 across browsers
 + [Wirefy](http://getwirefy.com/)
 
 	A simple frontend framework for prototyping
