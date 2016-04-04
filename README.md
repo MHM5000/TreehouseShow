@@ -1958,7 +1958,7 @@ Episode List
 
 + [Selectize.js](http://brianreavis.github.io/selectize.js/)
 
-	A hybrid of a textbox and <select> box
+	A hybrid of a textbox and select box
 + [pullpush | jQuery and JavaScript plugins and libraries](http://pullpu.sh/)
 
 	(BROKEN) A curated library of quality, well maintained jQuery and plain JS plugins and libraries
