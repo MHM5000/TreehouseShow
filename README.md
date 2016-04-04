@@ -2376,12 +2376,18 @@ Episode List
 
 + [Centering in CSS: A Complete Guide | CSS-Tricks](http://css-tricks.com/centering-css-complete-guide/)
 
+	A guide from Chris Coyier with the aim of making centering in CSS less painful
 + [TURNBOX.js - NOHT CO.,LTD.](http://noht.co.jp/turnbox)
 
+	A jQuery plugin for rotating cuboid animations
 + [Implulse](http://impulse.luster.io/)
 
+	(BROKEN)
 + [Strip - A Less Intrusive Responsive Lightbox](http://www.stripjs.com/)
 
+	A lightbox that only partially covers the page
 + [drawer | blivesta · drawer](http://git.blivesta.com/drawer/)
+
+	Flexible drawer menu using jQuery, iScroll and CSS.
 
 [Top](#treehouseshow)
