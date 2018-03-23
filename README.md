@@ -2391,3 +2391,183 @@ Episode List
 	Flexible drawer menu using jQuery, iScroll and CSS.
 
 [Top](#treehouseshow)
+
+---
+
+### Ep115: Touch Events, Font Downloads, Native Webapps
+
++ [HotStudio/touchy](https://github.com/HotStudio/touchy)
+
+	A Jquery plugin for handling touch events in mobile devices
++ [Minimising font downloads - JakeArchibald.com](http://jakearchibald.com/2014/minimising-font-downloads/)
+
+	A blog post about how to minimize font downloads
++ [touchSwipe](http://labs.rampinteractive.co.uk/touchSwipe/demos/)
+
+	Another Jquery plugin for touch devices (mainly used for swiping)
++ [iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps | Breaking the Mobile Web](http://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
+
+	A very long blog post about iOS 8 and iPhone 6
++ [Web Components punch list | The Paciello Group – Your Accessibility Partner](http://www.paciellogroup.com/blog/2014/09/web-components-punch-list/)
+
+	A blog post about web components
+
+[Top](#treehouseshow)
+
+---
+
+### Ep116: CSS Shapes, Responsive Images, Angular JS
+
++ [Getting Started with CSS Shapes: Wrapping content around custom paths - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/shapes/getting-started/)
+
+	A blog post about css shapes
++ [SweetAlert](https://sweetalert.js.org/)
+
+	A Javascript project designed to be a replacement for the javascript build-in alert-function
++ [Animating Images With CSS Keyframes | Pencil Scoop | Web Design & Development](http://www.pencilscoop.com/2014/04/animating-images-with-css-keyframes/)
+
+	A blog post about animating images with css keyframes
++ [AngularJS Tutorial: a comprehensive 10,000 word guide](http://www.airpair.com/angularjs)
+
+	A AngularJS tutorial
++ [aFarkas/respimage](https://github.com/aFarkas/respimage)
+
+	A responsive images polyfill
+
+[Top](#treehouseshow)
+
+---
+
+### Ep117: OS X Apps, Fixed Headers, Arrays
+
++ [Building OS X Apps with JavaScript by Tyler Gaw](http://tylergaw.com/articles/building-osx-apps-with-js)
+
+	A blog post about buildings osx apps with javascript
++ [csstyle Clean, Simple Styling for the Web](https://github.com/geddski/csstyle)
+
+	A modern approach for crafting beautifully maintainable stylesheets
++ [zzmp/juliusjs](https://github.com/zzmp/juliusjs)
+
+	A speech recognition library for the web
++ [Midnight.js - Switch fixed headers on the fly](http://aerolab.github.io/midnight.js/)
+
+	A Javascript project that allows you to switch fixed headers on the fly
++ [5 Array Methods That You Should Be Using Now | colintoh.com](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
+
+	A blog post about array methods
+
+[Top](#treehouseshow)
+
+---
+
+### Ep118: Page Transitions, Designing for Thumbs, Concise
+
++ [Concise / Welcome](http://concisecss.com/)
+
+	A front-end framework
++ [How To Add Page Transitions with CSS and smoothState.js | CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/)
+
+	A blog post about about adding page transitions with css and smoothstate.js
++ [How to design for thumbs in the Era of Huge Screens - Scott Hurff](http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens)
+
+	A blog post about how design for thumbs in mobile devices with big screens
++ [Converse.js](https://conversejs.org/)
+
+	A Javascript plugin that allows to add xmpp chat client in a website
++ [Pushy - Off-Canvas Navigation Menu](http://www.christopheryee.ca/pushy/)
+
+	A responsive off-canvas navigation menu using css transforms and transitions
+
+[Top](#treehouseshow)
+
+---
+
+### Ep119: SVG Animations, Charts, Color Palettes
+
++ [Coolors - The super fast color palettes generator!](http://coolors.co/dacdbd-f2b8a0-ef97a3-df5c7e-d4486f)
+
+	A website that generates different color schemes
++ [vivus.js - svg animation](http://maxwellito.github.io/vivus/)
+
+	A Javascript plugin for animating svg
++ [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+
+	A blog post about responsive web design
++ [MetricsGraphics.js - a library based on D3.js, optimized for visualizing and laying out time-series data](http://metricsgraphicsjs.org/)
+
+	A library based on d3.js for creating charts 
+	
++ [Type Genius](http://www.typegenius.com/)
+
+	A website that helps you find a perfect font combo
+
+[Top](#treehouseshow)
+
+---
+
+### Ep120: Web Performance, Material UI, SQL Charts
+
++ [Perf.Rocks](http://www.perf.rocks/)
+
+	A website that helps you find resourses about web performance
++ [Material UI - Material Design React Components](http://material-ui.com/#/)
+
+	A tiny css framework and a set of react components that implement google's material design
++ [gka/chroma.js](https://github.com/gka/chroma.js)
+
+	A Javascript library for color manipulations
++ [CSS Dig](http://cssdig.com/)
+
+	A chrome extension for analysing css files in the browser
+	
++ [FnordMetric | Framework for building beautiful real-time dashboards](https://github.com/get-wrecked/fnordmetric)
+
+	A project that allows you to create charts from sql 
+
+[Top](#treehouseshow)
+
+---
+
+### Ep121: Multi-Touch Gestures, UI Logic, SVG Animation
+
++ [interact.js - JavaScript drag and drop, resizing and gestures with inertia and snapping](http://interactjs.io/)
+
+	A Javascript library that supports drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers
++ [Let the Browser Handle Your UI Logic for You | Parse Blog](http://blog.parse.com/2014/11/10/let-the-browser-handle-your-ui-logic-for-you/)
+
+	
++ [Purplecoat.js | Simple Labeled Overlays](http://ellekasai.github.io/purplecoat.js/)
+
+	A Javacript plugin that lets you create overlays on elemeents 
++ [ConnorAtherton/walkway](https://github.com/ConnorAtherton/walkway)
+
+	An svg animation library
+	
++ [native_javascript_data_binding](http://www.sellarafaeli.com/blog/native_javascript_data_binding)
+
+	A blog post about native javascript data binding 
+
+[Top](#treehouseshow)
+
+---
+
+### Ep122: Lazy Image Loading, Underlining Text, Scrolling
+
++ [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+
+	A css and javascript library for high performance lazy loader for images
++ [ScrollIt.js](http://www.bytemuse.com/scrollIt.js/)
+
+	A javascript plugin for scrolling pages
++ [Smarter Link Underlines For Every Website - Eager Blog](https://eager.io/blog/smarter-link-underlines/)
+
+	A blog post about a css technique for adding link underlines
++ [How To Scroll](http://bost.ocks.org/mike/scroll/)
+
+	A blog post with collection of tips on how to scroll
+	
++ [Furtive CSS](http://furtive.co/)
+
+	A css micro framework
+
+[Top](#treehouseshow)
