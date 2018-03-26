@@ -16,7 +16,7 @@ The Treehouse Show is full of helpful resources. For example, if you're looking 
 
 How to Contribute
 ---
-If you feel like being awesome, please do [Contribute](https://github.com/MHM5000/TreehouseShow /wiki/Contribution "Contribute"). If you have any idea for this repo, just do it!
+If you feel like being awesome, please do [Contribute](https://github.com/MHM5000/TreehouseShow/wiki/Contribution "Contribute"). If you have any idea for this repo, just do it!
 
 One more note
 ---
