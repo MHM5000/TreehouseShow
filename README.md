@@ -6,7 +6,7 @@ TreehouseShow
 
 Other than that, you can have a "weekly dose of internet, where they talk about web design, web development and more" ( :-D ), and a lot more in Bonus Content.(I Personally find [Exercise Your Creative](http://teamtreehouse.com/library/exercise-your-creative) quite fascinating)
 
-There is [Youtube Channel](http://youtube.com/user/gotreehouse), [iTunes feed](https://itunes.apple.com/us/podcast/the-treehouse-show-hd/id623064192) or [Bonus Content](http://teamtreehouse.com/library/the-treehouse-show) to watch these videos. Don't forget to check them out.
+There is [Youtube Channel](http://youtube.com/user/gotreehouse), [iTunes feed](https://itunes.apple.com/us/podcast/the-treehouse-show-hd/id623064192) or [Bonus Content](http://teamtreehouse.com/library/the-treehouse-show) to watch these videos. Don't forget to check them out.  
 
 The two hosts of the show are Jason Seifer([@jseifer](http://twitter.com/jseifer)) and Nick Pettit([@nickrp](http://twitter.com/nickrp)). Jim Hoskins([@jimrhoskins](http://twitter.com/jimrhoskins)) appears as well.
 
@@ -2797,5 +2797,180 @@ Episode List
 	A jquery plugin for scrolling speed and easing
 + [Design Last - Smashing Magazine](http://www.smashingmagazine.com/2015/02/20/design-last/)
 
+
+[Top](#treehouseshow)
+
+---
+
+### Ep133: Inspiration, JQuery Knobs, Design Principles
+
++ [Call to Idea - Get inspired](http://calltoidea.com)
+
++ [JQuery Knob demo](http://anthonyterrien.com/knob/)
+
+ A jquery plugin for touch, mouse, wheel and keyboard events or Knobs
++ [Design Principles](http://learningdesignprinciples.com/)
+
+ A website about design principles
++ [openexchangerates/accounting.js](https://github.com/openexchangerates/accounting.js)
+
+ A javascript library for number, money and currency formating
++ [Dropdown Menus with More Forgiving Mouse Movement Paths | CSS-Tricks](http://css-tricks.com/dropdown-menus-with-more-forgiving-mouse-movement-paths/)
+
+ A blog post about dropdown menus
+
+[Top](#treehouseshow)
+
+---
+
+### Ep134: Reactive Programming, Accessible Colors, Javascript Errors
+
++ [The introduction to Reative Programing you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
+ A post about reactive programming
++ [Color Safe - accessible web color combinations](http://colorsafe.co/)
+
+ A tool for choosing colors based on the WCAG guidelines
++ [Track Javascript, AngularJS and JQuery errors with Google Analytics](http://blog.gospodarets.com/track_javascript_angularjs_and_jquery_errors_with_google_analytics/)
+
+ (BROKEN)
++ [colorable](http://jxnblk.com/colorable/demos/text/)
+
+ A tool that helps you measure the contrast ratio of your background to text
++ [Dynamically adding text tracks to HTML5 video | Ian Devlin](http://www.iandevlin.com/blog/2015/02/javascript/dynamically-adding-text-tracks-to-html5-video)
+
+A blog post about on adding dynamic text tracks to html5 videos
+
+[Top](#treehouseshow)
+
+---
+
+### Ep135: BEM, jQuery Plugins, Web Fonts
+
++ [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
+
+	A article about BEM
++ [selectivity](https://arendjr.github.io/selectivity/)
+
+	A modular and light-weight selection library for jquery and zeptojs
++ [Prism Effect Slider with Canvas | Codrops](http://tympanus.net/codrops/2015/03/31/prism-effect-slider-canvas/)
+
+	A blog post about how to create a prism effect slider with canvas
++ [X-editable :: In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery](http://vitalets.github.io/x-editable/)
+
+	A jquery plugin for creating editable elements on a web page
++ [Google Web Fonts Typographic Project](http://femmebot.github.io/google-type/)
+
+A collection of hand-picked font from google fonts
+
+[Top](#treehouseshow)
+
+---
+
+### Ep136: Date Pickers, CSS Refactoring, HTML Audio
+
++ [Bootstrap Date Paginator - Date Paginator based on Bootstrap Paginator](http://jondmiles.com/bootstrap-datepaginator/)
+
+	(BROKEN)
++ [Starting a Refactor with CSS Dig | CSS-Tricks](https://css-tricks.com/starting-a-refactor-with-css-dig/)
+
+	A article about css dig chrome extention
++ [Kamran Ahmed](http://kdemos.github.io/jquery-toast-plugin)
+
+	A jquery plugin for messaging users
++ [PixelsCommander/HTML-GL](https://github.com/PixelsCommander/HTML-GL)
+
+	A Graphics Library
++ [audio.js](http://kolber.github.io/audiojs/)
+
+A javascript library that allows HTML5’s <audio> tag to be used anywhere.
+
+[Top](#treehouseshow)
+
+---
+
+### Ep137: Space.js, Materialize, Living Style Guides
+
++ [Space.js – HTML-driven narrative 3D-scrolling](http://www.slashie.org/space.js/)
+
+	A HTML-driven narrative 3D-scrolling
++ [What nobody tells you about "will-change"](http://cssmojo.com/the-dark-side-of-the-will-change-property/)
+
+	A article about "will-change" property on css
++ [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
+
+	A flexbox cheatsheet
++ [Documentation - Materialize](http://materializecss.com/)
+
+	A responsive front-end framework based google's material design
++ [Living Style Guide Tools In-depth Overview — Medium](https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05)
+
+A blog post about living style guide
+
+[Top](#treehouseshow)
+
+---
+
+### Ep138: Semantic UI, Polyfills, HTML 5 Patterns
+
++ [Semantic UI](http://semantic-ui.com/)
+
+	A css framework
++ [github/fetch · GitHub](https://github.com/github/fetch)
+
+	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
++ [How to Create (Animated) Text Fills | Codrops](http://tympanus.net/codrops/2015/02/16/create-animated-text-fills/)
+
+	(BROKEN)
++ [http://html5pattern.com/](http://html5pattern.com/)
+
+	A javascript library for number, money and currency formatting
++ [Basscss](http://www.basscss.com/)
+
+A blog post about dropdown menus
+
+[Top](#treehouseshow)
+
+---
+
+### Ep139: jQuery Boilerplate, Sass, Maps
+
++ [jQuery Boilerplate](http://jqueryboilerplate.com/)
+
+	A very long post about introdution to reactive programming
++ [SassMe | A Tool for Visualizing SASS Color Functions](http://sassme.arc90.com/)
+
+	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
++ [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
+
+	(BROKEN)
++ [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
+
+	A javascript library for number, money and currency formatting
++ [jQuery Mapael - Ease the build of pretty data visualizations on dynamic vector maps](http://www.vincentbroute.fr/mapael/)
+
+A blog post about dropdown menus
+
+[Top](#treehouseshow)
+
+---
+
+### Ep140: Photo Gallery Plugins, Admin UI, Font Sizing
+
++ [PhotoSwipe: Responsive JavaScript Image Gallery](http://photoswipe.com/)
+
+	A very long post about introdution to reactive programming
++ [Flakes • An Admin UI & Template Framework](http://getflakes.com/)
+
+	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
++ [Keeping it simple: coding a carousel | Christian Heilmann](http://christianheilmann.com/2015/04/08/keeping-it-simple-coding-a-carousel/)
+
+	(BROKEN)
++ [CSS Font Sizing - bitsofco.de](http://bitsofco.de/2015/css-font-sizing/)
+
+	A javascript library for number, money and currency formatting
++ [Medium.js](http://jakiestfu.github.io/Medium.js/docs/)
+
+A blog post about dropdown menus
 
 [Top](#treehouseshow)
