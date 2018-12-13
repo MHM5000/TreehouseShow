@@ -29,8 +29,7 @@ Episode List
 [126](#ep126-font-families-hamburger-menus-flux) | [127](#ep127-time-pickers-decimals-text-areas) |
 [128](#ep128-icons-cheat-sheets-font-pairing) | [129](#ep129-field-validation-css-reference-progress-bars) |
 [130](#ep130-flexbox-javascript-charts-syntax-highlighting) | [131](#ep131-origami-react-responsive-hero-images) |
-[132](#ep132-polygon-art-colors-scrolling) | [133](#ep133-inspiration-jquery-knobs-design-principles) | [134](#ep134-reactive-programming-accessible-colors-javascript-errors) | [135](#ep135-bem-jquery-plugins-web-fonts) | [136](#ep136-date-pickers-css-refactoring-html-audio) | [137](#ep137-space-js, materialize-living-style-guides) | [138](#ep138-semantic-ui-polyfills-html-5-patterns) | [139](#ep139-jquery-boilerplate-sass-maps) | [140](#ep140-photo-gallery-plugins-admin-ui-font-sizing)| [133](#ep133-inspiration-jquery-knobs-design-principles) | [134](#ep134-reactive-programming-accessible-colors-javascript-errors) | [135](#ep135-bem-jquery-plugins-web-fonts) | [136](#ep136-date-pickers-css-refactoring-html-audio) | [137](#ep137-space-js, materialize-living-style-guides) | [138](#ep138-semantic-ui-polyfills-html-5-patterns) | [139](#ep139-jquery-boilerplate-sass-maps) | [140](#ep140-photo-gallery-plugins-admin-ui-font-sizing)
-
+[132](#ep132-polygon-art-colors-scrolling) | [133](#ep133-inspiration-jquery-knobs-design-principles) | [134](#ep134-reactive-programming-accessible-colors-javascript-errors) | [135](#ep135-bem-jquery-plugins-web-fonts) | [136](#ep136-date-pickers-css-refactoring-html-audio) | [137](#ep137-space-js, materialize-living-style-guides) | [138](#ep138-semantic-ui-polyfills-html-5-patterns) | [139](#ep139-jquery-boilerplate-sass-maps) | [140](#ep140-photo-gallery-plugins-admin-ui-font-sizing)
 
 ### Ep1: CSS and JavaScript Tools
 + [Ceasar](http://matthewlein.com/ceaser/)
