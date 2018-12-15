@@ -29,7 +29,7 @@ Episode List
 [126](#ep126-font-families-hamburger-menus-flux) | [127](#ep127-time-pickers-decimals-text-areas) |
 [128](#ep128-icons-cheat-sheets-font-pairing) | [129](#ep129-field-validation-css-reference-progress-bars) |
 [130](#ep130-flexbox-javascript-charts-syntax-highlighting) | [131](#ep131-origami-react-responsive-hero-images) |
-[132](#ep132-polygon-art-colors-scrolling) | [133](#ep133-inspiration-jquery-knobs-design-principles) | [134](#ep134-reactive-programming-accessible-colors-javascript-errors) | [135](#ep135-bem-jquery-plugins-web-fonts) | [136](#ep136-date-pickers-css-refactoring-html-audio) | [137](#ep137-space-js-materialize-living-style-guides) | [138](#ep138-semantic-ui-polyfills-html-5-patterns) | [139](#ep139-jquery-boilerplate-sass-maps) | [140](#ep140-photo-gallery-plugins-admin-ui-font-sizing)
+[132](#ep132-polygon-art-colors-scrolling) | [133](#ep133-inspiration-jquery-knobs-design-principles) | [134](#ep134-reactive-programming-accessible-colors-javascript-errors) | [135](#ep135-bem-jquery-plugins-web-fonts) | [136](#ep136-date-pickers-css-refactoring-html-audio) | [137](#ep137-space-js-materialize-living-style-guides) | [138](#ep138-semantic-ui-polyfills-html-5-patterns) | [139](#ep139-jquery-boilerplate-sass-maps) | [140](#ep140-photo-gallery-plugins-admin-ui-font-sizing) | [141](#ep141-tinysort-push-notifications-responsive-tables) | [142](#ep142-vendor-prefixes-media-queries-javaScript) | [143](#ep143-data-binding-nesting-image-zooms) | [144](#ep144-webp-static-maps-watermarks)  | [145](#ep145-justice-carousels-centering-in-css) | [146](#ep146-dropdowns-scrolling-motion-blur) | [147](#ep147-web-features-form-design-color-pickers) | [148](#ep148-web-design-trends-sharing-buttons-flexbox-techniques) | [149](#ep149-performance-tools-material-design-sliders) | [150](#ep150-css-shapes-javasript-font-combinations)
 
 ### Ep1: CSS and JavaScript Tools
 + [Ceasar](http://matthewlein.com/ceaser/)
@@ -2972,5 +2972,219 @@ A blog post about dropdown menus
 + [Medium.js](http://jakiestfu.github.io/Medium.js/docs/)
 
 A blog post about dropdown menus
+
+[Top](#treehouseshow)
+
+---
+
+## Ep141: TinySort, Push Notifications, Responsive Tables
+
++ [TinySort](http://tinysort.sjeiti.com/)
+
+  Is a small script that sorts HTMLElements
++ [Visual Guide to CSS3 Flexbox: Flexbox Playground |](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
+
++ [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
+
+  A tutorial of push notifications
++ [Responsive Tables in Pure CSS - LivingSocial's Technology Blog](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/)
+
+  A blog post about responsive Tables
+
+ [Top](#treehouseshow)
+
+ ---
+
+## Ep142: Vendor Prefixes, Media Queries, JavaScript
+
++ [Free Mailchimp API Tutorial](http://teamtreehouse.com/library/mailchimp-api)
+
++ [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
+
+  Parce Css and add vendor prefixes to rules by Can I Use
++ [Clusterize.js](http://nexts.github.io/Clusterize.js/)
+
+  Tiny plugin to display large data sets easily
++ [Making our Media Query Mixins More Flexible](http://sassbreak.com/flexible-media-query-mixins/)
+
+  A blog post about media query mixins
++ [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+  A javascript tutorial
++ [Medium Style Confirm | Bitwiser.in](http://bitwiser.in/medium-style-confirm/)
+
+  A medium.com style confirm dialog
+
+ [Top](#treehouseshow)
+
+---
+
+## Ep143: Data Binding, Nesting, Image Zooms
+
++ [lowvision.support](http://lowvision.support/)
+
+  Is a website for testing accessibility
++ [jQuerymy](http://jquerymy.com/)
+
+  A lightweight jQuery plugin for complex two-way data binding in real time.
++ [Nesting Components](http://simurai.com/blog/2015/05/11/nesting-components/)
+
+  (BROKEN)
++ [fat/zoom.js](https://github.com/fat/zoom.js)
+
+  Medium's Image Zoom for jQuery
++ [Flickity](http://flickity.metafizzy.co/)
+
+  Touch, responsive, flickable carousels
+
+ [Top](#treehouseshow)
+
+ ---
+
+## Ep144: WebP, Static Maps, Watermarks
+
++ [Tiff - a visual typeface diff tool.](http://tiff.herokuapp.com/)
+
+  A type diff tool that visually contrasts the differences between two fonts.
++ [Static Map Maker | a static map API helper](http://staticmapmaker.com/)
+
++ [Makerbook - The best free resources for creatives.](http://makerbook.net/)
+
++ [watermark.js - watermarks in the browser](http://brianium.github.io/watermarkjs/)
+
+  A javascript library for adding watermarks to image.
++ [WebPonize - webponize.github.io](https://webponize.github.io/)
+
+  (BROKEN)
+
+[Top](#treehouseshow)
+
+---
+
+## Ep145: Justice, Carousels, Centering in CSS
+
++ [okor/justice](https://github.com/okor/justice)
+
+  Embeddable script for displaying web page performance metrics.
++ [How to make a carousel using only HTML and CSS (no JavaScript required!)](http://dancort.es/web-design/2015/05/17/how-to-make-carousel-only-html-css-no-javascript.html#target-item-1)
+
+  A article about making carousel using only html and css
++ [jsblocks - Better JavaScript MV-ish Framework](http://jsblocks.com/)
+
+  From simple user interfaces to complex single-page applications using faster, server-side rendered and easy to learn framework
++ [How to Center in CSS](http://howtocenterincss.com/)
+
+  A tool that helps center things in css.
++ [ECMAScript 6 compatibility table](ECMAScript 6 compatibility table)
+
+
+[Top](#treehouseshow)
+
+---
+
+## Ep146: Dropdowns, Scrolling, Motion Blur
+
++ [CSS Mega Dropdown | CodyHouse](http://codyhouse.co/gem/mega-dropdown/)
+
+  A responsive and easy to customise mega-dropdown component.
++ [ReadRemaining.js - How long you'll need to read any text.](http://aerolab.github.io/readremaining.js/)
+
+  Tell your readers how long they'll need to get through all of your gibberish, with this clever jQuery plugin.
++ [Motion Blur Effect with SVG | Codrops](http://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/)
+
+  A tutorial on how to create a motion blur effect on HTML elements using JavaScript and an SVG blur filter.
++ [ScrollWatch](https://edull24.github.io/ScrollWatch/)
+
+  Easily add lazy loading, infinite scrolling, or any other dynamic interaction based on scroll position.
++ [How to vertically center a clipped image with CSS — Jon Rohan](http://jonrohan.codes/fieldnotes/vertically-center-clipped-image/)
+
+  A blog post about how to vertically center a clipped image with css
+
+[Top](#treehouseshow)
+
+---
+## Ep147: Web Features, Form Design, Color Pickers
+
++ [sgentle/caniuse-cmd · GitHub](https://github.com/sgentle/caniuse-cmd)
+
+  Caniuse command line tool
++ [The 10 Commandments of Good Form Design on the Web – Mono](http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/)
+
+  A article about the 10 commandments of good form design on the web
++ [Tiny Colorpicker: A lightweight cross browser color picker.](http://baijs.com/tinycolorpicker/)
+
+  Tiny Colorpicker is a crossbrowser lib that creates a color picker (form) input
++ [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
+
+  Test how easily a visitor can use your page on a mobile device
++ [lukehoban/es6features](https://github.com/lukehoban/es6features)
+
+  Overview of ECMAScript 6 features
+
+[Top](#threehouseshow)
+
+---
+
+## Ep148: Web Design Trends, Sharing Buttons, Flexbox Techniques
+
++ [7 future web design trends](http://delighten.co.uk/7-future-web-design-trends/)
+
+  (BROKEN)
++ [Simple Sharing Buttons Generator by @fourtonfish](http://simplesharingbuttons.com/)
+
+  Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+, and other social networks -- it's all completely free
++ [Useful Flexbox Technique: Alignment Shifting Wrapping | CSS-Tricks](https://css-tricks.com/useful-flexbox-technique-alignment-shifting-wrapping/)
+
+  A blog post about useful flexbox technique called alignment shifting wrapping
++ [When it comes to delivering the best possible user experience, how fast is fast enough? | SOASTA](http://www.soasta.com/blog/website-monitoring-fast-enough-user-experience/)
+
+  A blog post about delivering the best possible user experience  
++ [Card Expansion Effect with SVG clipPath | Codrops](http://tympanus.net/codrops/2015/06/18/card-expansion-effect-svg-clippath/)
+
+  A morphing card expansion effect enhanced by a low poly background animation, using SVG clipPath and Trianglify.
+
+[Top](#threehouseshow)
+
+---
+
+## Ep149: Performance Tools, Material Design, Sliders
+
++ [Performance Tools | CSS-Tricks](https://css-tricks.com/performance-tools/)
+
+  A blog post about performance tools
++ [The Making Of "In Pieces"](http://www.smashingmagazine.com/2015/06/02/the-making-of-in-pieces/)
+
+  A article about designing an interactive exhibition with css clip paths
++ [Material Design Lite](http://www.getmdl.io/index.html)
+
+  A front end framework based on google material design
++ [Blueprint: Zoom Slider | Codrops](http://tympanus.net/codrops/2015/07/06/zoom-slider/)
+
+  A simple content slider with depth-like zoom functionality for a predefined area in each slide.
++ [Summernote - Super Simple WYSIWYG editor on Bootstrap](http://summernote.org/#/)
+
+  A wysiwyg editor on Bootstrap
+
+[Top](#threehouseshow)
+
+---
+
+## Ep150: CSS Shapes, JavaScript, Font Combinations
+
++ [Working with Shapes in Web Design | CSS-Tricks](https://css-tricks.com/working-with-shapes-in-web-design/)
+
+  A blog post about working with shapes in web design
++ [purifycss/purifycss · GitHub](https://github.com/purifycss/purifycss)
+
+  A javasript plugin that removes unused CSS
++ [JS: The Right Way](http://jstherightway.org/)
+
+  A javascript guide
++ [airbnb/javascript](https://github.com/airbnb/javascript)
+
+  A javaScript Style Guide
++ [Great Font Combinations You Need to Try - Designmodo](http://designmodo.com/great-font-combinations/)
+
+ (BROKEN)
 
 [Top](#treehouseshow)
