@@ -2977,7 +2977,7 @@ A blog post about dropdown menus
 + [TinySort](http://tinysort.sjeiti.com/)
 
   Is a small script that sorts HTMLElements
-+ [Visual Guide to CSS3 Flexbox: Flexbox Playground |](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
++ [Visual Guide to CSS3 Flexbox: Flexbox Playground](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
 
 + [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
 
