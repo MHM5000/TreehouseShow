@@ -3171,7 +3171,7 @@ A blog post about dropdown menus
 
 ## Ep150: CSS Shapes, JavaScript, Font Combinations
 
-+ [Working with Shapes in Web Design | CSS-Tricks](https://css-tricks.com/working-with-shapes-in-web-design/)
++ [Working with Shapes in Web Design \| CSS-Tricks](https://css-tricks.com/working-with-shapes-in-web-design/)
 
   A blog post about working with shapes in web design
 + [purifycss/purifycss · GitHub](https://github.com/purifycss/purifycss)
