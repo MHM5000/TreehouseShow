@@ -3121,7 +3121,7 @@ A blog post about dropdown menus
 
   Overview of ECMAScript 6 features
 
-[Top](#threehouseshow)
+[Top](#treehouseshow)
 
 ---
 
@@ -3143,7 +3143,7 @@ A blog post about dropdown menus
 
   A morphing card expansion effect enhanced by a low poly background animation, using SVG clipPath and Trianglify.
 
-[Top](#threehouseshow)
+[Top](#treehouseshow)
 
 ---
 
@@ -3165,7 +3165,7 @@ A blog post about dropdown menus
 
   A wysiwyg editor on Bootstrap
 
-[Top](#threehouseshow)
+[Top](#treehouseshow)
 
 ---
 
