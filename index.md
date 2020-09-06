@@ -6,7 +6,7 @@ TreehouseShow
 
 Other than that, you can have a "weekly dose of internet, where they talk about web design, web development and more" ( :-D ), and a lot more in Bonus Content.(I Personally find [Exercise Your Creative](http://teamtreehouse.com/library/exercise-your-creative) quite fascinating)
 
-There is [Youtube Channel](http://youtube.com/user/gotreehouse), [iTunes feed](https://itunes.apple.com/us/podcast/the-treehouse-show-hd/id623064192) or [Bonus Content](http://teamtreehouse.com/library/the-treehouse-show) to watch these videos. Don't forget to check them out.
+There is [Youtube Channel](http://youtube.com/user/gotreehouse), [iTunes feed](https://itunes.apple.com/us/podcast/the-treehouse-show-hd/id623064192) or [Bonus Content](http://teamtreehouse.com/library/the-treehouse-show) to watch these videos. Don't forget to check them out.  
 
 The two hosts of the show are Jason Seifer([@jseifer](http://twitter.com/jseifer)) and Nick Pettit([@nickrp](http://twitter.com/nickrp)). Jim Hoskins([@jimrhoskins](http://twitter.com/jimrhoskins)) appears as well.
 
@@ -16,7 +16,7 @@ The Treehouse Show is full of helpful resources. For example, if you're looking 
 
 How to Contribute
 ---
-If you feel like being awesome, please do [Contribute](https://github.com/MHM5000/TreehouseShow /wiki/Contribution "Contribute"). If you have any idea for this repo, just do it!
+If you feel like being awesome, please do [Contribute](https://github.com/MHM5000/TreehouseShow/wiki/Contribution "Contribute"). If you have any idea for this repo, just do it!
 
 One more note
 ---
@@ -24,7 +24,12 @@ It's been more than a year since the first episode; You may run into broken link
 
 Episode List
 ---
-[01](#ep1-css-and-javascript-tools) | [02](#ep2-retinafy-your-website) | [03](#ep3-rails-4-and-os-x-mountain-lion) | [04](#ep4-lamp-on-mountain-lion) | [05](#ep5-javascript-tools) | [06](#ep6-twitter-bootstrap-and-javascript-for-cats) | [07](#ep7-web-development-tips) | [08](#ep8-writing-markdown) | [9](#ep9-html5-boilerplate) | [10](#ep10-jquery-fundamentals) | [11](#ep11-momentjs-and-html5) | [12](#ep12-web-platform) | [13](#ep13-lljs-navicons-and-framework-fights) | [14](#ep14-responsive-techniques-javascript-mvc-frameworks-and-firefox-16) | [15](#ep15-adaptive-images-and-responsive-svgs) | [16](#ep16-simple-css-grids) | [17](#ep17-bootstrap-relogo-and-alfred) | [18](#ep18-backbonejs-responsive-background-images-and-html5-apis) | [19](#ep19-memory-management-wireframing-and-javascript-frameworks) | [20](#ep20-batch-icon-set-bootstrap-goodies-git-aliases-javascript-shopping-cart) | [21](#ep21-html5-mobile-apps) | [22](#ep22-explaining-css-and-landing-pages) | [23](#ep23-writing-error-messages-navigation-and-documentation) | [24](#ep24-javascript-pdfs-css-transitions-and-web-design-trends) | [25](#ep25-web-developer-checklists) | [26](#ep26-jquery-releases-favicons-and-css-optimization) | [27](#ep27-triangles-sublime-text-plugins-and-html5-geolocation) | [28](#ep28-collapsing-headers-icon-fonts-and-more) | [29](#ep29-svg-hacking) | [30](#ep30-css-and-frameworks-w-guest-ryan-carson) | [31](#ep31-html-progress-element-and-javascript-sliders) | [32](#ep32-svgs-dropdowns-and-html5-form-elements) | [33](#ep33-web-typography-css-patterns-and-simple-icons) | [34](#ep34-accessibility-css-architecture-and-web-printing) | [35](#ep35-javascript-tours-and-pull-quotes) | [36](#ep36-sidebar-menus-and-icon-stacks) | [37](#ep37-sublime-text-2-and-login-forms) | [38](#ep38-javascript-design-patterns-and-css-windows) | [39](#ep39-html-video-and-the-web-as-a-gaming-platform) | [40](#ep40-itunes-scrolling-and-mobile-shelving) | [41](#ep41-reflections-mobile-typography-and-responsive-images) | [42](#ep42-flat-ui-colors-dont-dos-with-jquery-and-usability) | [43](#ep43-svg-and-icon-fonts-typography-and-css-sliders) | [44](#ep44-html5-features-responsive-css-modules-and-sass) | [45](#ep45-ux-sitemaps-and-js-tours) | [46](#ep46-responsive-images-and-html5-form-inputs) | [47](#ep47-dev-tool-secrets) | [48](#ep48-tablet-friendly-design-good-ui-gifjs) | [49](#ep49-app-store-screenshots-regular-expressions-programming-fonts) | [50](#ep50-oauth-canvas-dev-tools) | [51](#ep51-javascript-diagramming-sass-html5-elements) | [52](#ep52-reactive-programming-css-spacing-image-loading) | [53](#ep53-the-classlist-api-css-frameworks-animation) | [54](#ep54-jquery-plugins-autoprefixer-css-sprites) | [55](#ep55-web-typography-javascript-progress-bars-css-3d) | [56](#ep56-nodejs-css-buttons-png-compression) | [57](#ep57-css3-multiple-backgrounds-emberjs-favicons) | [58](#ep58-the-main-element-jquery-clndr-keystrokes) | [59](#ep59-form-validation-safari-push-notifications-javascript-performance) | [60](#ep60-css-animations-css-sprites-form-building) | [61](#ep61-request-autocomplete-navicons-css-preprocessing) | [62](#ep62-css-position-fixed-sticky-flexbox-google-web-designer) | [63](#ep63-responsive-design-rich-text-editing-squircles) | [64](#ep64-touchscreen-ui-events-sprite-and-checkbox-animation-lo-dash) | [65](#ep65-contrast-ratio-favicons-offline-web-apps) | [66](#ep66-javascript-formatting-pie-charts-svg-animation) | [67](#ep67-responsive-html-emails-javascript-techniques-webgl) | [68](#ep68-javascript-templating-flexbox-devtools) | [69](#ep69-javascript-footnotes-geographic-autocompletion-sortable-lists) | [70](#ep70-url-rewriting-responsive-emails-qr-codes) | [71](#ep71-animated-gifs-for-documentation-chrome-devtools-for-mobile-grunt) | [72](#ep72-dynamic-tables-progress-button-styles-spinkit) | [73](#ep73-sprite-generation-native-html5-apps-color-schemes) | [74](#ep74-javascript-tips-and-tricks-typography-html5-game-development) | [75](#ep75-flexible-navigation-javascript-good-parts-css-animation-tricks) | [76](#ep76-gulp-kinetic-scrolling-page-visibility) | [77](#ep77-sass-mixins-javascript-coding-git-tips) | [78](#ep78-origami-html-5-game-development-form-labels) | [79](#ep79-front-end-development-guidelines-sublime-text-sass-and-compass) | [80](#ep80-sandboxed-iframes-progress-element-responsive-screenshots) | [81](#ep81-outdated-ux-patterns-learn-angular-js-lazy-ads) | [82](#ep82-web-font-generators-ecmascript-6-features-accessibility) | [83](#ep83-web-icons-webshims-jquery-coding-standards) | [84](#ep84-css-frameworks-facebook-predictions-api-development-techniques) | [85](#ep85-flexbox--css-and-sass-style-guides--html-frameworks) | [86](#ep86-really-good-emails--credit-card-detection--epic-editor) | [87](#ep87-creating-style-guides--writing-interface-copy--ratchet) | [88](#ep88-gulp--sketch-3--bud) | [89](#ep89-typography--sidebars--style-guides) | [90](#ep90-voodoo--responsive-tables--javascript-graphs) | [91](#ep91-path-animation--sidebar-transitions--icons) | [92](#ep92-morphing-buttons--rangeslider--declarative-animations) | [93](#ep93-parallax--stylestats--uncss) | [94](#ep94web-design-manual--script-injected--flowjs) | [95](#ep95-app-js--loopback--svgo) | [96](#ep96-jquery-plugins--progress-bars--http-api-design) | [97](#ep97-data-binding-techniques--css-techniques--zeptojs) | [98](#ep98-devopera--getting-to-know-css-blend-modes) | [99](#ep99-inline-anchor-styles--steady-scrolling--web-speech-api) | [100](#ep100-css-will-change-property--html5-forms--vertical-align) | [101](#ep101-css-will-change-property--html5-forms--vertical-align) | [102](#ep102-ui-kits--internet-explorer-development-tools--fastjs) | [103](#ep103-human-javascript--interactive-graphs--sidecomments) | [104](#ep104-pixels--web-components--the-hamburger-menu) | [105](#ep105-svg-backgrounds--breach--fastshell) | [106](#ep106-responsive-logos--waves--pagekit) | [107](#ep107-reading-jquery-source-code--html-5-video-captions--flexbox) | [108](#ep108-practical-typography--date-pickers--form-builders) | [109](#ep109-css-triggers--fireshell--responsive-design) | [110](#ep110-chrome-dev-tools--heatmapjs--device-mockups) | [111](#ep111-dpi--responsive-charts--media-queries) | [112](#ep112-dpi--responsive-charts--media-queries) | [113](#ep113-api-responses--font-compression--tab-styles--the-treehouse) | [114](#ep114-centering-in-css-responsive-lightboxes-dynamic-animations)
+[01](#ep1-css-and-javascript-tools) | [02](#ep2-retinafy-your-website) | [03](#ep3-rails-4-and-os-x-mountain-lion) | [04](#ep4-lamp-on-mountain-lion) | [05](#ep5-javascript-tools) | [06](#ep6-twitter-bootstrap-and-javascript-for-cats) | [07](#ep7-web-development-tips) | [08](#ep8-writing-markdown) | [9](#ep9-html5-boilerplate) | [10](#ep10-jquery-fundamentals) | [11](#ep11-momentjs-and-html5) | [12](#ep12-web-platform) | [13](#ep13-lljs-navicons-and-framework-fights) | [14](#ep14-responsive-techniques-javascript-mvc-frameworks-and-firefox-16) | [15](#ep15-adaptive-images-and-responsive-svgs) | [16](#ep16-simple-css-grids) | [17](#ep17-bootstrap-relogo-and-alfred) | [18](#ep18-backbonejs-responsive-background-images-and-html5-apis) | [19](#ep19-memory-management-wireframing-and-javascript-frameworks) | [20](#ep20-batch-icon-set-bootstrap-goodies-git-aliases-javascript-shopping-cart) | [21](#ep21-html5-mobile-apps) | [22](#ep22-explaining-css-and-landing-pages) | [23](#ep23-writing-error-messages-navigation-and-documentation) | [24](#ep24-javascript-pdfs-css-transitions-and-web-design-trends) | [25](#ep25-web-developer-checklists) | [26](#ep26-jquery-releases-favicons-and-css-optimization) | [27](#ep27-triangles-sublime-text-plugins-and-html5-geolocation) | [28](#ep28-collapsing-headers-icon-fonts-and-more) | [29](#ep29-svg-hacking) | [30](#ep30-css-and-frameworks-w-guest-ryan-carson) | [31](#ep31-html-progress-element-and-javascript-sliders) | [32](#ep32-svgs-dropdowns-and-html5-form-elements) | [33](#ep33-web-typography-css-patterns-and-simple-icons) | [34](#ep34-accessibility-css-architecture-and-web-printing) | [35](#ep35-javascript-tours-and-pull-quotes) | [36](#ep36-sidebar-menus-and-icon-stacks) | [37](#ep37-sublime-text-2-and-login-forms) | [38](#ep38-javascript-design-patterns-and-css-windows) | [39](#ep39-html-video-and-the-web-as-a-gaming-platform) | [40](#ep40-itunes-scrolling-and-mobile-shelving) | [41](#ep41-reflections-mobile-typography-and-responsive-images) | [42](#ep42-flat-ui-colors-dont-dos-with-jquery-and-usability) | [43](#ep43-svg-and-icon-fonts-typography-and-css-sliders) | [44](#ep44-html5-features-responsive-css-modules-and-sass) | [45](#ep45-ux-sitemaps-and-js-tours) | [46](#ep46-responsive-images-and-html5-form-inputs) | [47](#ep47-dev-tool-secrets) | [48](#ep48-tablet-friendly-design-good-ui-gifjs) | [49](#ep49-app-store-screenshots-regular-expressions-programming-fonts) | [50](#ep50-oauth-canvas-dev-tools) | [51](#ep51-javascript-diagramming-sass-html5-elements) | [52](#ep52-reactive-programming-css-spacing-image-loading) | [53](#ep53-the-classlist-api-css-frameworks-animation) | [54](#ep54-jquery-plugins-autoprefixer-css-sprites) | [55](#ep55-web-typography-javascript-progress-bars-css-3d) | [56](#ep56-nodejs-css-buttons-png-compression) | [57](#ep57-css3-multiple-backgrounds-emberjs-favicons) | [58](#ep58-the-main-element-jquery-clndr-keystrokes) | [59](#ep59-form-validation-safari-push-notifications-javascript-performance) | [60](#ep60-css-animations-css-sprites-form-building) | [61](#ep61-request-autocomplete-navicons-css-preprocessing) | [62](#ep62-css-position-fixed-sticky-flexbox-google-web-designer) | [63](#ep63-responsive-design-rich-text-editing-squircles) | [64](#ep64-touchscreen-ui-events-sprite-and-checkbox-animation-lo-dash) | [65](#ep65-contrast-ratio-favicons-offline-web-apps) | [66](#ep66-javascript-formatting-pie-charts-svg-animation) | [67](#ep67-responsive-html-emails-javascript-techniques-webgl) | [68](#ep68-javascript-templating-flexbox-devtools) | [69](#ep69-javascript-footnotes-geographic-autocompletion-sortable-lists) | [70](#ep70-url-rewriting-responsive-emails-qr-codes) | [71](#ep71-animated-gifs-for-documentation-chrome-devtools-for-mobile-grunt) | [72](#ep72-dynamic-tables-progress-button-styles-spinkit) | [73](#ep73-sprite-generation-native-html5-apps-color-schemes) | [74](#ep74-javascript-tips-and-tricks-typography-html5-game-development) | [75](#ep75-flexible-navigation-javascript-good-parts-css-animation-tricks) | [76](#ep76-gulp-kinetic-scrolling-page-visibility) | [77](#ep77-sass-mixins-javascript-coding-git-tips) | [78](#ep78-origami-html-5-game-development-form-labels) | [79](#ep79-front-end-development-guidelines-sublime-text-sass-and-compass) | [80](#ep80-sandboxed-iframes-progress-element-responsive-screenshots) | [81](#ep81-outdated-ux-patterns-learn-angular-js-lazy-ads) | [82](#ep82-web-font-generators-ecmascript-6-features-accessibility) | [83](#ep83-web-icons-webshims-jquery-coding-standards) | [84](#ep84-css-frameworks-facebook-predictions-api-development-techniques) | [85](#ep85-flexbox--css-and-sass-style-guides--html-frameworks) | [86](#ep86-really-good-emails--credit-card-detection--epic-editor) | [87](#ep87-creating-style-guides--writing-interface-copy--ratchet) | [88](#ep88-gulp--sketch-3--bud) | [89](#ep89-typography--sidebars--style-guides) | [90](#ep90-voodoo--responsive-tables--javascript-graphs) | [91](#ep91-path-animation--sidebar-transitions--icons) | [92](#ep92-morphing-buttons--rangeslider--declarative-animations) | [93](#ep93-parallax--stylestats--uncss) | [94](#ep94web-design-manual--script-injected--flowjs) | [95](#ep95-app-js--loopback--svgo) | [96](#ep96-jquery-plugins--progress-bars--http-api-design) | [97](#ep97-data-binding-techniques--css-techniques--zeptojs) | [98](#ep98-devopera--getting-to-know-css-blend-modes) | [99](#ep99-inline-anchor-styles--steady-scrolling--web-speech-api) | [100](#ep100-css-will-change-property--html5-forms--vertical-align) | [101](#ep101-css-will-change-property--html5-forms--vertical-align) | [102](#ep102-ui-kits--internet-explorer-development-tools--fastjs) | [103](#ep103-human-javascript--interactive-graphs--sidecomments) | [104](#ep104-pixels--web-components--the-hamburger-menu) | [105](#ep105-svg-backgrounds--breach--fastshell) | [106](#ep106-responsive-logos--waves--pagekit) | [107](#ep107-reading-jquery-source-code--html-5-video-captions--flexbox) | [108](#ep108-practical-typography--date-pickers--form-builders) | [109](#ep109-css-triggers--fireshell--responsive-design) | [110](#ep110-chrome-dev-tools--heatmapjs--device-mockups) | [111](#ep111-dpi--responsive-charts--media-queries) | [112](#ep112-dpi--responsive-charts--media-queries) | [113](#ep113-api-responses--font-compression--tab-styles--the-treehouse) | [114](#ep114-centering-in-css-responsive-lightboxes-dynamic-animations) | [115](#ep115-touch-events-font-downloads-native-webapps) | [116](#ep116-css-shapes-responsive-images-angularjs) | [117](#ep117-os-x-apps-fixed-headers-arrays) | [118](#ep118-page-transitions-designing-for-thumbs-concise) | [119](#ep119-svg-animations-charts-color-palettes) | [120](#ep120-web-performance-material-ui-sql-charts) | [121](#ep121-multi-touch-gestures-ui-logic-svg-animation) | [122](#ep122-lazy-image-loading-underlining-text-scrolling) | [123](#ep123-accessibility-drag-and-drop-interaction-emojis) |
+[124](#ep124-javscript-frameworks-icons-text-on-images) | [125](#ep125-skeleton-angularjs-the-fold) |
+[126](#ep126-font-families-hamburger-menus-flux) | [127](#ep127-time-pickers-decimals-text-areas) |
+[128](#ep128-icons-cheat-sheets-font-pairing) | [129](#ep129-field-validation-css-reference-progress-bars) |
+[130](#ep130-flexbox-javascript-charts-syntax-highlighting) | [131](#ep131-origami-react-responsive-hero-images) |
+[132](#ep132-polygon-art-colors-scrolling) | [133](#ep133-inspiration-jquery-knobs-design-principles) | [134](#ep134-reactive-programming-accessible-colors-javascript-errors) | [135](#ep135-bem-jquery-plugins-web-fonts) | [136](#ep136-date-pickers-css-refactoring-html-audio) | [137](#ep137-space-js-materialize-living-style-guides) | [138](#ep138-semantic-ui-polyfills-html-5-patterns) | [139](#ep139-jquery-boilerplate-sass-maps) | [140](#ep140-photo-gallery-plugins-admin-ui-font-sizing) | [141](#ep141-tinysort-push-notifications-responsive-tables) | [142](#ep142-vendor-prefixes-media-queries-javaScript) | [143](#ep143-data-binding-nesting-image-zooms) | [144](#ep144-webp-static-maps-watermarks)  | [145](#ep145-justice-carousels-centering-in-css) | [146](#ep146-dropdowns-scrolling-motion-blur) | [147](#ep147-web-features-form-design-color-pickers) | [148](#ep148-web-design-trends-sharing-buttons-flexbox-techniques) | [149](#ep149-performance-tools-material-design-sliders) | [150](#ep150-css-shapes-javasript-font-combinations)
 
 ### Ep1: CSS and JavaScript Tools
 + [Ceasar](http://matthewlein.com/ceaser/)
@@ -1979,7 +1984,7 @@ Episode List
 
 ---
 
-### Ep97: Data-binding Techniques | CSS Techniques | Zepto.js 
+### Ep97: Data-binding Techniques | CSS Techniques | Zepto.js
 
 + [Data-binding Revolutions with Object.observe() - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es7/observe/)
 
@@ -2161,7 +2166,7 @@ Episode List
 	Why Web Components aren't ready for production
 + [The origin of the hamburger icon](https://www.evernote.com/shard/s207/sh/022f2237-4b4f-4096-87f2-053acd228c2d/ede2672bc3f39a1b0232f84e01ca0a83?utm_content=buffer84840&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-	A video showing where the hamburger icon came from	
+	A video showing where the hamburger icon came from
 + [Papa Parse](http://papaparse.com/)
 
 	Powerful CSV parser for Javascript
@@ -2265,7 +2270,7 @@ Episode List
 
 + [The Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
 
-	
+
 	Article from html5doctor.com about the web manifest specification
 + [CSS Triggers...](http://csstriggers.com/)
 
@@ -2389,5 +2394,797 @@ Episode List
 + [drawer | blivesta · drawer](http://git.blivesta.com/drawer/)
 
 	Flexible drawer menu using jQuery, iScroll and CSS.
+
+[Top](#treehouseshow)
+
+---
+
+### Ep115: Touch Events, Font Downloads, Native Webapps
+
++ [HotStudio/touchy](https://github.com/HotStudio/touchy)
+
+	A Jquery plugin for handling touch events in mobile devices
++ [Minimising font downloads - JakeArchibald.com](http://jakearchibald.com/2014/minimising-font-downloads/)
+
+	A blog post about how to minimize font downloads
++ [touchSwipe](http://labs.rampinteractive.co.uk/touchSwipe/demos/)
+
+	Another Jquery plugin for touch devices (mainly used for swiping)
++ [iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps | Breaking the Mobile Web](http://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
+
+	A very long blog post about iOS 8 and iPhone 6
++ [Web Components punch list | The Paciello Group – Your Accessibility Partner](http://www.paciellogroup.com/blog/2014/09/web-components-punch-list/)
+
+	A blog post about web components
+
+[Top](#treehouseshow)
+
+---
+
+### Ep116: CSS Shapes, Responsive Images, Angular JS
+
++ [Getting Started with CSS Shapes: Wrapping content around custom paths - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/shapes/getting-started/)
+
+	A blog post about css shapes
++ [SweetAlert](https://sweetalert.js.org/)
+
+	A Javascript project designed to be a replacement for the javascript build-in alert-function
++ [Animating Images With CSS Keyframes | Pencil Scoop | Web Design & Development](http://www.pencilscoop.com/2014/04/animating-images-with-css-keyframes/)
+
+	A blog post about animating images with css keyframes
++ [AngularJS Tutorial: a comprehensive 10,000 word guide](http://www.airpair.com/angularjs)
+
+	A AngularJS tutorial
++ [aFarkas/respimage](https://github.com/aFarkas/respimage)
+
+	A responsive images polyfill
+
+[Top](#treehouseshow)
+
+---
+
+### Ep117: OS X Apps, Fixed Headers, Arrays
+
++ [Building OS X Apps with JavaScript by Tyler Gaw](http://tylergaw.com/articles/building-osx-apps-with-js)
+
+	A blog post about buildings osx apps with javascript
++ [csstyle Clean, Simple Styling for the Web](https://github.com/geddski/csstyle)
+
+	A modern approach for crafting beautifully maintainable stylesheets
++ [zzmp/juliusjs](https://github.com/zzmp/juliusjs)
+
+	A speech recognition library for the web
++ [Midnight.js - Switch fixed headers on the fly](http://aerolab.github.io/midnight.js/)
+
+	A Javascript project that allows you to switch fixed headers on the fly
++ [5 Array Methods That You Should Be Using Now | colintoh.com](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
+
+	A blog post about array methods
+
+[Top](#treehouseshow)
+
+---
+
+### Ep118: Page Transitions, Designing for Thumbs, Concise
+
++ [Concise / Welcome](http://concisecss.com/)
+
+	A front-end framework
++ [How To Add Page Transitions with CSS and smoothState.js | CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/)
+
+	A blog post about about adding page transitions with css and smoothstate.js
++ [How to design for thumbs in the Era of Huge Screens - Scott Hurff](http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens)
+
+	A blog post about how design for thumbs in mobile devices with big screens
++ [Converse.js](https://conversejs.org/)
+
+	A Javascript plugin that allows to add xmpp chat client in a website
++ [Pushy - Off-Canvas Navigation Menu](http://www.christopheryee.ca/pushy/)
+
+	A responsive off-canvas navigation menu using css transforms and transitions
+
+[Top](#treehouseshow)
+
+---
+
+### Ep119: SVG Animations, Charts, Color Palettes
+
++ [Coolors - The super fast color palettes generator!](http://coolors.co/dacdbd-f2b8a0-ef97a3-df5c7e-d4486f)
+
+	A website that generates different color schemes
++ [vivus.js - svg animation](http://maxwellito.github.io/vivus/)
+
+	A Javascript plugin for animating svg
++ [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+
+	A blog post about responsive web design
++ [MetricsGraphics.js - a library based on D3.js, optimized for visualizing and laying out time-series data](http://metricsgraphicsjs.org/)
+
+	A library based on d3.js for creating charts
+
++ [Type Genius](http://www.typegenius.com/)
+
+	A website that helps you find a perfect font combo
+
+[Top](#treehouseshow)
+
+---
+
+### Ep120: Web Performance, Material UI, SQL Charts
+
++ [Perf.Rocks](http://www.perf.rocks/)
+
+	A website that helps you find resourses about web performance
++ [Material UI - Material Design React Components](http://material-ui.com/#/)
+
+	A tiny css framework and a set of react components that implement google's material design
++ [gka/chroma.js](https://github.com/gka/chroma.js)
+
+	A Javascript library for color manipulations
++ [CSS Dig](http://cssdig.com/)
+
+	A chrome extension for analysing css files in the browser
+
++ [FnordMetric | Framework for building beautiful real-time dashboards](https://github.com/get-wrecked/fnordmetric)
+
+	A project that allows you to create charts from sql
+
+[Top](#treehouseshow)
+
+---
+
+### Ep121: Multi-Touch Gestures, UI Logic, SVG Animation
+
++ [interact.js - JavaScript drag and drop, resizing and gestures with inertia and snapping](http://interactjs.io/)
+
+	A Javascript library that supports drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers
++ [Let the Browser Handle Your UI Logic for You | Parse Blog](http://blog.parse.com/2014/11/10/let-the-browser-handle-your-ui-logic-for-you/)
+
+
++ [Purplecoat.js | Simple Labeled Overlays](http://ellekasai.github.io/purplecoat.js/)
+
+	A Javacript plugin that lets you create overlays on elemeents
++ [ConnorAtherton/walkway](https://github.com/ConnorAtherton/walkway)
+
+	An svg animation library
+
++ [native_javascript_data_binding](http://www.sellarafaeli.com/blog/native_javascript_data_binding)
+
+	A blog post about native javascript data binding
+
+[Top](#treehouseshow)
+
+---
+
+### Ep122: Lazy Image Loading, Underlining Text, Scrolling
+
++ [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+
+	A css and javascript library for high performance lazy loader for images
++ [ScrollIt.js](http://www.bytemuse.com/scrollIt.js/)
+
+	A javascript plugin for scrolling pages
++ [Smarter Link Underlines For Every Website - Eager Blog](https://eager.io/blog/smarter-link-underlines/)
+
+	A blog post about a css technique for adding link underlines
++ [How To Scroll](http://bost.ocks.org/mike/scroll/)
+
+	A blog post with collection of tips on how to scroll
+
++ [Furtive CSS](http://furtive.co/)
+
+	A css micro framework
+
+[Top](#treehouseshow)
+
+---
+
+### Ep123: Accessibility, Drag and Drop Interaction, Emojis
+
++ [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
+
+	A blog post about aria examples
++ [Drag and Drop Interaction Ideas | Codrops](http://tympanus.net/codrops/2014/11/11/drag-and-drop-interaction-ideas/)
+
+	A blog about drag and drop interaction ideas
++ [Twitter Emoji (Twemoji)](http://twitter.github.io/twemoji/)
+
+	A open source emoji library made by twitter
++ [Everybody Scrolls.](http://hugeinc.com/ideas/perspective/everybody-scrolls)
+
+	A blog post about usability best pratices of scrolling
+
++ [HTML5 accessibility - work in progress November 2014](http://www.html5accessibility.com/)
+
+	A blog post about accessibility of all the new html5 attributes across browsers
+
+[Top](#treehouseshow)
+
+---
+
+### Ep124: JavaScript Frameworks, Icons, Text on Images
+
++ [Evil Icons](http://evil-icons.io/)
+
+	A svg icon pack
++ [Researching the Performance costs of JavaScript MVC Frameworks | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/mv-initial-load-times.html)
+
+	A article about performance of popular javascript frameworks
++ [http://css-tricks.com/design-considerations-text-images/](http://css-tricks.com/design-considerations-text-images/)
+
+	A blog post about design considerations when using text on top of images
++ [The offline cookbook - JakeArchibald.com](http://jakearchibald.com/2014/offline-cookbook/)
+
+	A blog post about appcache
++ [Responsive Type With Only CSS — Medium](https://medium.com/@ryanallen_com/responsive-type-with-only-css-82b846370cc9)
+
+	A article about responsive type
+
+[Top](#treehouseshow)
+
+---
+
+### Ep125: Skeleton, AngularJS, The Fold
+
++ [Skeleton: Responsive CSS Boilerplate](http://getskeleton.com/)
+
+	A css framework
++ [JonathanZWhite/AngularJS-Resources](https://github.com/JonathanZWhite/AngularJS-Resources)
+
+	A collection of angularks resources
++ [There is no fold.](http://thereisnofold.tumblr.com/)
+
+	A series of "twits" about the fold
++ [Lazy-loading Google Maps — Osvaldas Valutis](http://osvaldas.info/lazy-loading-google-maps)
+
+	A blog post about lazy-loading google maps
++ [Free Icons - Best Icon Packs for Commercial Web Use](http://ash.guru/free-web-icons/)
+
+	A blog post about best free icon packs for commercial web use
+
+[Top](#treehouseshow)
+
+---
+
+### Ep126: Font Families, Hamburger Menus, Flux
+
++ [fontfamily.io](http://fontfamily.io/)
+
+	A website about compatibility tables for default local fonts
++ [all this](http://bjorn.tipling.com/all-this)
+
+	(BROKEN)
++ [Testing The Hamburger Icon for More Revenue](http://conversionxl.com/testing-hamburger-icon-revenue/)
+
+	A article about testing the hamburger icon for more revenue
++ [What is the Flux Application Architecture? — Brigade Engineering — Medium](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e)
+
+	A article that explains the flux application architecture
++ [UX Project Checklist](http://uxchecklist.github.io/)
+
+[Top](#treehouseshow)
+
+---
+
+### Ep127: Time Pickers, Decimals, Text Areas
+
++ [ClockPicker](http://weareoutman.github.io/clockpicker/)
+
+	A time picker for bootstrap or jquery
++ [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js)
+
+	A arbitrary-precision decimal type for javascript
++ [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
+
+	A jquery plugin for entering and validating international telephone numbers
++ [Squire](http://neilj.github.io/Squire/)
+
+	A html5 rich text editor
++ [State of Web Type](http://stateofwebtype.com/beta/?utm_source=html5weekly&utm_medium=email)
+
+	(BROKEN)
++ [Poor Man's Styleguide | A frontend styleguide for the pragmatic](http://www.poormansstyleguide.com/)
+
+	A frontend styleguide for the pragmatic
+
+[Top](#treehouseshow)
+
+---
+
+### Ep128: Icons, Cheat Sheets, Font Pairing
+
++ [icono](http://saeedalipoor.github.io/icono/)
+
+	A css icon set
++ [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+
+	A github cheat sheet
++ [The challenge for web designers in 2015 (or how to cheat at the future)](http://blog.memespring.co.uk/2015/01/17/the-challenge-for-web-designers-in-2015/)
+
++ [Essential JavaScript Links](Essential JavaScript Links)
+
+	A collection of essential javascript links
++ [Font Pair - Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.](http://fontpair.co/)
+
+	A website that helps you pair google fonts for possible beautiful combinations
+
+[Top](#treehouseshow)
+
+---
+
+### Ep129: Field Validation, CSS Reference, Progress Bars
+
++ [Introducing FieldVal - Multipurpose JavaScript Validation Library](http://www.minoblog.io/fieldval/)
+
+	Broken
++ [Matter.js - a 2D rigid body JavaScript physics engine](http://brm.io/matter-js/#demo)
+
+	A 2D javascript physics engine
++ [Mprogress.js](http://lightningtgc.github.io/MProgress.js/)
+
+	A javascript pluging that creates progress linear bar from google material design
++ [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/)
+
+	A css reference
++ [vissense/vissense](https://github.com/vissense/vissense)
+
+	A utility library for observing visibility changes of dom elements
++ [The Gooey Effect | CSS-Tricks](http://css-tricks.com/gooey-effect/)
+
+	A blog post about making gooey effect using css and svg filters
+
+[Top](#treehouseshow)
+
+---
+
+### Ep130: Flexbox, Javascript Charts, Syntax Highlighting
+
++ [Experiment: Using Flexbox Today - Chris Wright](http://chriswrightdesign.com/experiments/using-flexbox-today/)
+
+	A article about using flexbox
++ [Taucharts — Javascript charts with a focus on design and flexibility.](http://www.taucharts.com/)
+
+	A javascript charts library
++ [CSS Ruler • Explore CSS lengths.](http://katydecorah.com/css-ruler/)
+
+	A chart for css ruler
++ [highlight.js](https://highlightjs.org/)
+
+	A javascript plugin for syntax fighlighting
++ [shade](http://jxnblk.com/shade/?mc_cid=35a1324048&mc_eid=c7eb941b44)
+
+	A mathematicaly derived gradient explorer
+
+[Top](#treehouseshow)
+
+---
+
+### Ep131: Origami, React, Responsive Hero Images
+
++ [Introducing Origami Live and Origami 2.0 — Medium](https://medium.com/@bwalkin/introducing-origami-live-and-origami-2-0-a68116294e65)
+
+	A blog post about Origami 2.0
++ [React Tips and Best Practices - ÆFLASH](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
+
+	A article about react tips and best pratices
++ [Responsive Hero Images Cloud Four Blog](http://blog.cloudfour.com/responsive-hero-images/)
+
+	A blog post about responsive hero images
++ [Selz/plyr](Selz/plyr)
+
+	A html5 media player with custom controls and webvtt captions
++ [Fonts In Use – Type at work in the real world.](http://fontsinuse.com/)
+
+	A website that shows you what fonts are being used in a website
+
+[Top](#treehouseshow)
+
+---
+
+### Ep132: Polygon Art, Colors, Scrolling
+
++ [Animated Polygon Art | Gray Ghost Visuals Press](http://blog.grayghostvisuals.com/js/animated-polygon-art/)
+
+	A blog post about animated polygon art
++ [jQuery Unveil - A very lightweight plugin to lazy load images](http://luis-almeida.github.io/unveil/)
+
+	A jquer plugin to lazy load images
++ [It’s Only Color](https://robots.thoughtbot.com/Its-only-color)
+
+	A blog post about color theory
++ [ByNathan/jQuery.scrollSpeed](https://github.com/ByNathan/jQuery.scrollSpeed)
+
+	A jquery plugin for scrolling speed and easing
++ [Design Last - Smashing Magazine](http://www.smashingmagazine.com/2015/02/20/design-last/)
+
+
+[Top](#treehouseshow)
+
+---
+
+### Ep133: Inspiration, JQuery Knobs, Design Principles
+
++ [Call to Idea - Get inspired](http://calltoidea.com)
+
++ [JQuery Knob demo](http://anthonyterrien.com/knob/)
+
+ A jquery plugin for touch, mouse, wheel and keyboard events or Knobs
++ [Design Principles](http://learningdesignprinciples.com/)
+
+ A website about design principles
++ [openexchangerates/accounting.js](https://github.com/openexchangerates/accounting.js)
+
+ A javascript library for number, money and currency formating
++ [Dropdown Menus with More Forgiving Mouse Movement Paths | CSS-Tricks](http://css-tricks.com/dropdown-menus-with-more-forgiving-mouse-movement-paths/)
+
+ A blog post about dropdown menus
+
+[Top](#treehouseshow)
+
+---
+
+### Ep134: Reactive Programming, Accessible Colors, Javascript Errors
+
++ [The introduction to Reative Programing you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
+ A post about reactive programming
++ [Color Safe - accessible web color combinations](http://colorsafe.co/)
+
+ A tool for choosing colors based on the WCAG guidelines
++ [Track Javascript, AngularJS and JQuery errors with Google Analytics](http://blog.gospodarets.com/track_javascript_angularjs_and_jquery_errors_with_google_analytics/)
+
+ (BROKEN)
++ [colorable](http://jxnblk.com/colorable/demos/text/)
+
+ A tool that helps you measure the contrast ratio of your background to text
++ [Dynamically adding text tracks to HTML5 video | Ian Devlin](http://www.iandevlin.com/blog/2015/02/javascript/dynamically-adding-text-tracks-to-html5-video)
+
+A blog post about on adding dynamic text tracks to html5 videos
+
+[Top](#treehouseshow)
+
+---
+
+### Ep135: BEM, jQuery Plugins, Web Fonts
+
++ [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
+
+	A article about BEM
++ [selectivity](https://arendjr.github.io/selectivity/)
+
+	A modular and light-weight selection library for jquery and zeptojs
++ [Prism Effect Slider with Canvas | Codrops](http://tympanus.net/codrops/2015/03/31/prism-effect-slider-canvas/)
+
+	A blog post about how to create a prism effect slider with canvas
++ [X-editable :: In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery](http://vitalets.github.io/x-editable/)
+
+	A jquery plugin for creating editable elements on a web page
++ [Google Web Fonts Typographic Project](http://femmebot.github.io/google-type/)
+
+A collection of hand-picked font from google fonts
+
+[Top](#treehouseshow)
+
+---
+
+### Ep136: Date Pickers, CSS Refactoring, HTML Audio
+
++ [Bootstrap Date Paginator - Date Paginator based on Bootstrap Paginator](http://jondmiles.com/bootstrap-datepaginator/)
+
+	(BROKEN)
++ [Starting a Refactor with CSS Dig | CSS-Tricks](https://css-tricks.com/starting-a-refactor-with-css-dig/)
+
+	A article about css dig chrome extention
++ [Kamran Ahmed](http://kdemos.github.io/jquery-toast-plugin)
+
+	A jquery plugin for messaging users
++ [PixelsCommander/HTML-GL](https://github.com/PixelsCommander/HTML-GL)
+
+	A Graphics Library
++ [audio.js](http://kolber.github.io/audiojs/)
+
+A javascript library that allows HTML5’s <audio> tag to be used anywhere.
+
+[Top](#treehouseshow)
+
+---
+
+### Ep137: Space.js, Materialize, Living Style Guides
+
++ [Space.js – HTML-driven narrative 3D-scrolling](http://www.slashie.org/space.js/)
+
+	A HTML-driven narrative 3D-scrolling
++ [What nobody tells you about "will-change"](http://cssmojo.com/the-dark-side-of-the-will-change-property/)
+
+	A article about "will-change" property on css
++ [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
+
+	A flexbox cheatsheet
++ [Documentation - Materialize](http://materializecss.com/)
+
+	A responsive front-end framework based google's material design
++ [Living Style Guide Tools In-depth Overview — Medium](https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05)
+
+A blog post about living style guide
+
+[Top](#treehouseshow)
+
+---
+
+### Ep138: Semantic UI, Polyfills, HTML 5 Patterns
+
++ [Semantic UI](http://semantic-ui.com/)
+
+	A css framework
++ [github/fetch · GitHub](https://github.com/github/fetch)
+
+	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
++ [How to Create (Animated) Text Fills | Codrops](http://tympanus.net/codrops/2015/02/16/create-animated-text-fills/)
+
+	(BROKEN)
++ [http://html5pattern.com/](http://html5pattern.com/)
+
+	A javascript library for number, money and currency formatting
++ [Basscss](http://www.basscss.com/)
+
+A blog post about dropdown menus
+
+[Top](#treehouseshow)
+
+---
+
+### Ep139: jQuery Boilerplate, Sass, Maps
+
++ [jQuery Boilerplate](http://jqueryboilerplate.com/)
+
+	A very long post about introdution to reactive programming
++ [SassMe | A Tool for Visualizing SASS Color Functions](http://sassme.arc90.com/)
+
+	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
++ [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
+
+	(BROKEN)
++ [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
+
+	A javascript library for number, money and currency formatting
++ [jQuery Mapael - Ease the build of pretty data visualizations on dynamic vector maps](http://www.vincentbroute.fr/mapael/)
+
+A blog post about dropdown menus
+
+[Top](#treehouseshow)
+
+---
+
+### Ep140: Photo Gallery Plugins, Admin UI, Font Sizing
+
++ [PhotoSwipe: Responsive JavaScript Image Gallery](http://photoswipe.com/)
+
+	A very long post about introdution to reactive programming
++ [Flakes • An Admin UI & Template Framework](http://getflakes.com/)
+
+	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
++ [Keeping it simple: coding a carousel | Christian Heilmann](http://christianheilmann.com/2015/04/08/keeping-it-simple-coding-a-carousel/)
+
+	(BROKEN)
++ [CSS Font Sizing - bitsofco.de](http://bitsofco.de/2015/css-font-sizing/)
+
+	A javascript library for number, money and currency formatting
++ [Medium.js](http://jakiestfu.github.io/Medium.js/docs/)
+
+A blog post about dropdown menus
+
+[Top](#treehouseshow)
+
+---
+
+## Ep141: TinySort, Push Notifications, Responsive Tables
+
++ [TinySort](http://tinysort.sjeiti.com/)
+
+  Is a small script that sorts HTMLElements
++ [Visual Guide to CSS3 Flexbox: Flexbox Playground |](https://scotch.io/demos/visual-guide-to-css3-flexbox-flexbox-playground)
+
++ [Push Notifications on the Open Web](http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web)
+
+  A tutorial of push notifications
++ [Responsive Tables in Pure CSS - LivingSocial's Technology Blog](https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/)
+
+  A blog post about responsive Tables
+
+ [Top](#treehouseshow)
+
+ ---
+
+## Ep142: Vendor Prefixes, Media Queries, JavaScript
+
++ [Free Mailchimp API Tutorial](http://teamtreehouse.com/library/mailchimp-api)
+
++ [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
+
+  Parce Css and add vendor prefixes to rules by Can I Use
++ [Clusterize.js](http://nexts.github.io/Clusterize.js/)
+
+  Tiny plugin to display large data sets easily
++ [Making our Media Query Mixins More Flexible](http://sassbreak.com/flexible-media-query-mixins/)
+
+  A blog post about media query mixins
++ [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+  A javascript tutorial
++ [Medium Style Confirm | Bitwiser.in](http://bitwiser.in/medium-style-confirm/)
+
+  A medium.com style confirm dialog
+
+ [Top](#treehouseshow)
+
+---
+
+## Ep143: Data Binding, Nesting, Image Zooms
+
++ [lowvision.support](http://lowvision.support/)
+
+  Is a website for testing accessibility
++ [jQuerymy](http://jquerymy.com/)
+
+  A lightweight jQuery plugin for complex two-way data binding in real time.
++ [Nesting Components](http://simurai.com/blog/2015/05/11/nesting-components/)
+
+  (BROKEN)
++ [fat/zoom.js](https://github.com/fat/zoom.js)
+
+  Medium's Image Zoom for jQuery
++ [Flickity](http://flickity.metafizzy.co/)
+
+  Touch, responsive, flickable carousels
+
+ [Top](#treehouseshow)
+
+ ---
+
+## Ep144: WebP, Static Maps, Watermarks
+
++ [Tiff - a visual typeface diff tool.](http://tiff.herokuapp.com/)
+
+  A type diff tool that visually contrasts the differences between two fonts.
++ [Static Map Maker | a static map API helper](http://staticmapmaker.com/)
+
++ [Makerbook - The best free resources for creatives.](http://makerbook.net/)
+
++ [watermark.js - watermarks in the browser](http://brianium.github.io/watermarkjs/)
+
+  A javascript library for adding watermarks to image.
++ [WebPonize - webponize.github.io](https://webponize.github.io/)
+
+  (BROKEN)
+
+[Top](#treehouseshow)
+
+---
+
+## Ep145: Justice, Carousels, Centering in CSS
+
++ [okor/justice](https://github.com/okor/justice)
+
+  Embeddable script for displaying web page performance metrics.
++ [How to make a carousel using only HTML and CSS (no JavaScript required!)](http://dancort.es/web-design/2015/05/17/how-to-make-carousel-only-html-css-no-javascript.html#target-item-1)
+
+  A article about making carousel using only html and css
++ [jsblocks - Better JavaScript MV-ish Framework](http://jsblocks.com/)
+
+  From simple user interfaces to complex single-page applications using faster, server-side rendered and easy to learn framework
++ [How to Center in CSS](http://howtocenterincss.com/)
+
+  A tool that helps center things in css.
++ [ECMAScript 6 compatibility table](ECMAScript 6 compatibility table)
+
+
+[Top](#treehouseshow)
+
+---
+
+## Ep146: Dropdowns, Scrolling, Motion Blur
+
++ [CSS Mega Dropdown | CodyHouse](http://codyhouse.co/gem/mega-dropdown/)
+
+  A responsive and easy to customise mega-dropdown component.
++ [ReadRemaining.js - How long you'll need to read any text.](http://aerolab.github.io/readremaining.js/)
+
+  Tell your readers how long they'll need to get through all of your gibberish, with this clever jQuery plugin.
++ [Motion Blur Effect with SVG | Codrops](http://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/)
+
+  A tutorial on how to create a motion blur effect on HTML elements using JavaScript and an SVG blur filter.
++ [ScrollWatch](https://edull24.github.io/ScrollWatch/)
+
+  Easily add lazy loading, infinite scrolling, or any other dynamic interaction based on scroll position.
++ [How to vertically center a clipped image with CSS — Jon Rohan](http://jonrohan.codes/fieldnotes/vertically-center-clipped-image/)
+
+  A blog post about how to vertically center a clipped image with css
+
+[Top](#treehouseshow)
+
+---
+## Ep147: Web Features, Form Design, Color Pickers
+
++ [sgentle/caniuse-cmd · GitHub](https://github.com/sgentle/caniuse-cmd)
+
+  Caniuse command line tool
++ [The 10 Commandments of Good Form Design on the Web – Mono](http://mono.company/journal/design-practice/the-10-commandments-of-good-form-design-on-the-web/)
+
+  A article about the 10 commandments of good form design on the web
++ [Tiny Colorpicker: A lightweight cross browser color picker.](http://baijs.com/tinycolorpicker/)
+
+  Tiny Colorpicker is a crossbrowser lib that creates a color picker (form) input
++ [Mobile-Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
+
+  Test how easily a visitor can use your page on a mobile device
++ [lukehoban/es6features](https://github.com/lukehoban/es6features)
+
+  Overview of ECMAScript 6 features
+
+[Top](#treehouseshow)
+
+---
+
+## Ep148: Web Design Trends, Sharing Buttons, Flexbox Techniques
+
++ [7 future web design trends](http://delighten.co.uk/7-future-web-design-trends/)
+
+  (BROKEN)
++ [Simple Sharing Buttons Generator by @fourtonfish](http://simplesharingbuttons.com/)
+
+  Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+, and other social networks -- it's all completely free
++ [Useful Flexbox Technique: Alignment Shifting Wrapping | CSS-Tricks](https://css-tricks.com/useful-flexbox-technique-alignment-shifting-wrapping/)
+
+  A blog post about useful flexbox technique called alignment shifting wrapping
++ [When it comes to delivering the best possible user experience, how fast is fast enough? | SOASTA](http://www.soasta.com/blog/website-monitoring-fast-enough-user-experience/)
+
+  A blog post about delivering the best possible user experience  
++ [Card Expansion Effect with SVG clipPath | Codrops](http://tympanus.net/codrops/2015/06/18/card-expansion-effect-svg-clippath/)
+
+  A morphing card expansion effect enhanced by a low poly background animation, using SVG clipPath and Trianglify.
+
+[Top](#treehouseshow)
+
+---
+
+## Ep149: Performance Tools, Material Design, Sliders
+
++ [Performance Tools | CSS-Tricks](https://css-tricks.com/performance-tools/)
+
+  A blog post about performance tools
++ [The Making Of "In Pieces"](http://www.smashingmagazine.com/2015/06/02/the-making-of-in-pieces/)
+
+  A article about designing an interactive exhibition with css clip paths
++ [Material Design Lite](http://www.getmdl.io/index.html)
+
+  A front end framework based on google material design
++ [Blueprint: Zoom Slider | Codrops](http://tympanus.net/codrops/2015/07/06/zoom-slider/)
+
+  A simple content slider with depth-like zoom functionality for a predefined area in each slide.
++ [Summernote - Super Simple WYSIWYG editor on Bootstrap](http://summernote.org/#/)
+
+  A wysiwyg editor on Bootstrap
+
+[Top](#treehouseshow)
+
+---
+
+## Ep150: CSS Shapes, JavaScript, Font Combinations
+
++ [Working with Shapes in Web Design | CSS-Tricks](https://css-tricks.com/working-with-shapes-in-web-design/)
+
+  A blog post about working with shapes in web design
++ [purifycss/purifycss · GitHub](https://github.com/purifycss/purifycss)
+
+  A javasript plugin that removes unused CSS
++ [JS: The Right Way](http://jstherightway.org/)
+
+  A javascript guide
++ [airbnb/javascript](https://github.com/airbnb/javascript)
+
+  A javaScript Style Guide
++ [Great Font Combinations You Need to Try - Designmodo](http://designmodo.com/great-font-combinations/)
+
+ (BROKEN)
 
 [Top](#treehouseshow)
