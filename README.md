@@ -24,12 +24,7 @@ It's been more than a year since the first episode; You may run into broken link
 
 Episode List
 ---
-[01](#ep1-css-and-javascript-tools) | [02](#ep2-retinafy-your-website) | [03](#ep3-rails-4-and-os-x-mountain-lion) | [04](#ep4-lamp-on-mountain-lion) | [05](#ep5-javascript-tools) | [06](#ep6-twitter-bootstrap-and-javascript-for-cats) | [07](#ep7-web-development-tips) | [08](#ep8-writing-markdown) | [9](#ep9-html5-boilerplate) | [10](#ep10-jquery-fundamentals) | [11](#ep11-momentjs-and-html5) | [12](#ep12-web-platform) | [13](#ep13-lljs-navicons-and-framework-fights) | [14](#ep14-responsive-techniques-javascript-mvc-frameworks-and-firefox-16) | [15](#ep15-adaptive-images-and-responsive-svgs) | [16](#ep16-simple-css-grids) | [17](#ep17-bootstrap-relogo-and-alfred) | [18](#ep18-backbonejs-responsive-background-images-and-html5-apis) | [19](#ep19-memory-management-wireframing-and-javascript-frameworks) | [20](#ep20-batch-icon-set-bootstrap-goodies-git-aliases-javascript-shopping-cart) | [21](#ep21-html5-mobile-apps) | [22](#ep22-explaining-css-and-landing-pages) | [23](#ep23-writing-error-messages-navigation-and-documentation) | [24](#ep24-javascript-pdfs-css-transitions-and-web-design-trends) | [25](#ep25-web-developer-checklists) | [26](#ep26-jquery-releases-favicons-and-css-optimization) | [27](#ep27-triangles-sublime-text-plugins-and-html5-geolocation) | [28](#ep28-collapsing-headers-icon-fonts-and-more) | [29](#ep29-svg-hacking) | [30](#ep30-css-and-frameworks-w-guest-ryan-carson) | [31](#ep31-html-progress-element-and-javascript-sliders) | [32](#ep32-svgs-dropdowns-and-html5-form-elements) | [33](#ep33-web-typography-css-patterns-and-simple-icons) | [34](#ep34-accessibility-css-architecture-and-web-printing) | [35](#ep35-javascript-tours-and-pull-quotes) | [36](#ep36-sidebar-menus-and-icon-stacks) | [37](#ep37-sublime-text-2-and-login-forms) | [38](#ep38-javascript-design-patterns-and-css-windows) | [39](#ep39-html-video-and-the-web-as-a-gaming-platform) | [40](#ep40-itunes-scrolling-and-mobile-shelving) | [41](#ep41-reflections-mobile-typography-and-responsive-images) | [42](#ep42-flat-ui-colors-dont-dos-with-jquery-and-usability) | [43](#ep43-svg-and-icon-fonts-typography-and-css-sliders) | [44](#ep44-html5-features-responsive-css-modules-and-sass) | [45](#ep45-ux-sitemaps-and-js-tours) | [46](#ep46-responsive-images-and-html5-form-inputs) | [47](#ep47-dev-tool-secrets) | [48](#ep48-tablet-friendly-design-good-ui-gifjs) | [49](#ep49-app-store-screenshots-regular-expressions-programming-fonts) | [50](#ep50-oauth-canvas-dev-tools) | [51](#ep51-javascript-diagramming-sass-html5-elements) | [52](#ep52-reactive-programming-css-spacing-image-loading) | [53](#ep53-the-classlist-api-css-frameworks-animation) | [54](#ep54-jquery-plugins-autoprefixer-css-sprites) | [55](#ep55-web-typography-javascript-progress-bars-css-3d) | [56](#ep56-nodejs-css-buttons-png-compression) | [57](#ep57-css3-multiple-backgrounds-emberjs-favicons) | [58](#ep58-the-main-element-jquery-clndr-keystrokes) | [59](#ep59-form-validation-safari-push-notifications-javascript-performance) | [60](#ep60-css-animations-css-sprites-form-building) | [61](#ep61-request-autocomplete-navicons-css-preprocessing) | [62](#ep62-css-position-fixed-sticky-flexbox-google-web-designer) | [63](#ep63-responsive-design-rich-text-editing-squircles) | [64](#ep64-touchscreen-ui-events-sprite-and-checkbox-animation-lo-dash) | [65](#ep65-contrast-ratio-favicons-offline-web-apps) | [66](#ep66-javascript-formatting-pie-charts-svg-animation) | [67](#ep67-responsive-html-emails-javascript-techniques-webgl) | [68](#ep68-javascript-templating-flexbox-devtools) | [69](#ep69-javascript-footnotes-geographic-autocompletion-sortable-lists) | [70](#ep70-url-rewriting-responsive-emails-qr-codes) | [71](#ep71-animated-gifs-for-documentation-chrome-devtools-for-mobile-grunt) | [72](#ep72-dynamic-tables-progress-button-styles-spinkit) | [73](#ep73-sprite-generation-native-html5-apps-color-schemes) | [74](#ep74-javascript-tips-and-tricks-typography-html5-game-development) | [75](#ep75-flexible-navigation-javascript-good-parts-css-animation-tricks) | [76](#ep76-gulp-kinetic-scrolling-page-visibility) | [77](#ep77-sass-mixins-javascript-coding-git-tips) | [78](#ep78-origami-html-5-game-development-form-labels) | [79](#ep79-front-end-development-guidelines-sublime-text-sass-and-compass) | [80](#ep80-sandboxed-iframes-progress-element-responsive-screenshots) | [81](#ep81-outdated-ux-patterns-learn-angular-js-lazy-ads) | [82](#ep82-web-font-generators-ecmascript-6-features-accessibility) | [83](#ep83-web-icons-webshims-jquery-coding-standards) | [84](#ep84-css-frameworks-facebook-predictions-api-development-techniques) | [85](#ep85-flexbox--css-and-sass-style-guides--html-frameworks) | [86](#ep86-really-good-emails--credit-card-detection--epic-editor) | [87](#ep87-creating-style-guides--writing-interface-copy--ratchet) | [88](#ep88-gulp--sketch-3--bud) | [89](#ep89-typography--sidebars--style-guides) | [90](#ep90-voodoo--responsive-tables--javascript-graphs) | [91](#ep91-path-animation--sidebar-transitions--icons) | [92](#ep92-morphing-buttons--rangeslider--declarative-animations) | [93](#ep93-parallax--stylestats--uncss) | [94](#ep94web-design-manual--script-injected--flowjs) | [95](#ep95-app-js--loopback--svgo) | [96](#ep96-jquery-plugins--progress-bars--http-api-design) | [97](#ep97-data-binding-techniques--css-techniques--zeptojs) | [98](#ep98-devopera--getting-to-know-css-blend-modes) | [99](#ep99-inline-anchor-styles--steady-scrolling--web-speech-api) | [100](#ep100-css-will-change-property--html5-forms--vertical-align) | [101](#ep101-css-will-change-property--html5-forms--vertical-align) | [102](#ep102-ui-kits--internet-explorer-development-tools--fastjs) | [103](#ep103-human-javascript--interactive-graphs--sidecomments) | [104](#ep104-pixels--web-components--the-hamburger-menu) | [105](#ep105-svg-backgrounds--breach--fastshell) | [106](#ep106-responsive-logos--waves--pagekit) | [107](#ep107-reading-jquery-source-code--html-5-video-captions--flexbox) | [108](#ep108-practical-typography--date-pickers--form-builders) | [109](#ep109-css-triggers--fireshell--responsive-design) | [110](#ep110-chrome-dev-tools--heatmapjs--device-mockups) | [111](#ep111-dpi--responsive-charts--media-queries) | [112](#ep112-dpi--responsive-charts--media-queries) | [113](#ep113-api-responses--font-compression--tab-styles--the-treehouse) | [114](#ep114-centering-in-css-responsive-lightboxes-dynamic-animations) | [115](#ep115-touch-events-font-downloads-native-webapps) | [116](#ep116-css-shapes-responsive-images-angularjs) | [117](#ep117-os-x-apps-fixed-headers-arrays) | [118](#ep118-page-transitions-designing-for-thumbs-concise) | [119](#ep119-svg-animations-charts-color-palettes) | [120](#ep120-web-performance-material-ui-sql-charts) | [121](#ep121-multi-touch-gestures-ui-logic-svg-animation) | [122](#ep122-lazy-image-loading-underlining-text-scrolling) | [123](#ep123-accessibility-drag-and-drop-interaction-emojis) |
-[124](#ep124-javscript-frameworks-icons-text-on-images) | [125](#ep125-skeleton-angularjs-the-fold) |
-[126](#ep126-font-families-hamburger-menus-flux) | [127](#ep127-time-pickers-decimals-text-areas) |
-[128](#ep128-icons-cheat-sheets-font-pairing) | [129](#ep129-field-validation-css-reference-progress-bars) |
-[130](#ep130-flexbox-javascript-charts-syntax-highlighting) | [131](#ep131-origami-react-responsive-hero-images) |
-[132](#ep132-polygon-art-colors-scrolling) | [133](#ep133-inspiration-jquery-knobs-design-principles) | [134](#ep134-reactive-programming-accessible-colors-javascript-errors) | [135](#ep135-bem-jquery-plugins-web-fonts) | [136](#ep136-date-pickers-css-refactoring-html-audio) | [137](#ep137-space-js-materialize-living-style-guides) | [138](#ep138-semantic-ui-polyfills-html-5-patterns) | [139](#ep139-jquery-boilerplate-sass-maps) | [140](#ep140-photo-gallery-plugins-admin-ui-font-sizing) | [141](#ep141-tinysort-push-notifications-responsive-tables) | [142](#ep142-vendor-prefixes-media-queries-javaScript) | [143](#ep143-data-binding-nesting-image-zooms) | [144](#ep144-webp-static-maps-watermarks)  | [145](#ep145-justice-carousels-centering-in-css) | [146](#ep146-dropdowns-scrolling-motion-blur) | [147](#ep147-web-features-form-design-color-pickers) | [148](#ep148-web-design-trends-sharing-buttons-flexbox-techniques) | [149](#ep149-performance-tools-material-design-sliders) | [150](#ep150-css-shapes-javasript-font-combinations)
+[01](#ep1-css-and-javascript-tools) | [02](#ep2-retinafy-your-website) | [03](#ep3-rails-4-and-os-x-mountain-lion) | [04](#ep4-lamp-on-mountain-lion) | [05](#ep5-javascript-tools) | [06](#ep6-twitter-bootstrap-and-javascript-for-cats) | [07](#ep7-web-development-tips) | [08](#ep8-writing-markdown) | [9](#ep9-html5-boilerplate) | [10](#ep10-jquery-fundamentals) | [11](#ep11-momentjs-and-html5) | [12](#ep12-web-platform) | [13](#ep13-lljs-navicons-and-framework-fights) | [14](#ep14-responsive-techniques-javascript-mvc-frameworks-and-firefox-16) | [15](#ep15-adaptive-images-and-responsive-svgs) | [16](#ep16-simple-css-grids) | [17](#ep17-bootstrap-relogo-and-alfred) | [18](#ep18-backbonejs-responsive-background-images-and-html5-apis) | [19](#ep19-memory-management-wireframing-and-javascript-frameworks) | [20](#ep20-batch-icon-set-bootstrap-goodies-git-aliases-javascript-shopping-cart) | [21](#ep21-html5-mobile-apps) | [22](#ep22-explaining-css-and-landing-pages) | [23](#ep23-writing-error-messages-navigation-and-documentation) | [24](#ep24-javascript-pdfs-css-transitions-and-web-design-trends) | [25](#ep25-web-developer-checklists) | [26](#ep26-jquery-releases-favicons-and-css-optimization) | [27](#ep27-triangles-sublime-text-plugins-and-html5-geolocation) | [28](#ep28-collapsing-headers-icon-fonts-and-more) | [29](#ep29-svg-hacking) | [30](#ep30-css-and-frameworks-w-guest-ryan-carson) | [31](#ep31-html-progress-element-and-javascript-sliders) | [32](#ep32-svgs-dropdowns-and-html5-form-elements) | [33](#ep33-web-typography-css-patterns-and-simple-icons) | [34](#ep34-accessibility-css-architecture-and-web-printing) | [35](#ep35-javascript-tours-and-pull-quotes) | [36](#ep36-sidebar-menus-and-icon-stacks) | [37](#ep37-sublime-text-2-and-login-forms) | [38](#ep38-javascript-design-patterns-and-css-windows) | [39](#ep39-html-video-and-the-web-as-a-gaming-platform) | [40](#ep40-itunes-scrolling-and-mobile-shelving) | [41](#ep41-reflections-mobile-typography-and-responsive-images) | [42](#ep42-flat-ui-colors-dont-dos-with-jquery-and-usability) | [43](#ep43-svg-and-icon-fonts-typography-and-css-sliders) | [44](#ep44-html5-features-responsive-css-modules-and-sass) | [45](#ep45-ux-sitemaps-and-js-tours) | [46](#ep46-responsive-images-and-html5-form-inputs) | [47](#ep47-dev-tool-secrets) | [48](#ep48-tablet-friendly-design-good-ui-gifjs) | [49](#ep49-app-store-screenshots-regular-expressions-programming-fonts) | [50](#ep50-oauth-canvas-dev-tools) | [51](#ep51-javascript-diagramming-sass-html5-elements) | [52](#ep52-reactive-programming-css-spacing-image-loading) | [53](#ep53-the-classlist-api-css-frameworks-animation) | [54](#ep54-jquery-plugins-autoprefixer-css-sprites) | [55](#ep55-web-typography-javascript-progress-bars-css-3d) | [56](#ep56-nodejs-css-buttons-png-compression) | [57](#ep57-css3-multiple-backgrounds-emberjs-favicons) | [58](#ep58-the-main-element-jquery-clndr-keystrokes) | [59](#ep59-form-validation-safari-push-notifications-javascript-performance) | [60](#ep60-css-animations-css-sprites-form-building) | [61](#ep61-request-autocomplete-navicons-css-preprocessing) | [62](#ep62-css-position-fixed-sticky-flexbox-google-web-designer) | [63](#ep63-responsive-design-rich-text-editing-squircles) | [64](#ep64-touchscreen-ui-events-sprite-and-checkbox-animation-lo-dash) | [65](#ep65-contrast-ratio-favicons-offline-web-apps) | [66](#ep66-javascript-formatting-pie-charts-svg-animation) | [67](#ep67-responsive-html-emails-javascript-techniques-webgl) | [68](#ep68-javascript-templating-flexbox-devtools) | [69](#ep69-javascript-footnotes-geographic-autocompletion-sortable-lists) | [70](#ep70-url-rewriting-responsive-emails-qr-codes) | [71](#ep71-animated-gifs-for-documentation-chrome-devtools-for-mobile-grunt) | [72](#ep72-dynamic-tables-progress-button-styles-spinkit) | [73](#ep73-sprite-generation-native-html5-apps-color-schemes) | [74](#ep74-javascript-tips-and-tricks-typography-html5-game-development) | [75](#ep75-flexible-navigation-javascript-good-parts-css-animation-tricks) | [76](#ep76-gulp-kinetic-scrolling-page-visibility) | [77](#ep77-sass-mixins-javascript-coding-git-tips) | [78](#ep78-origami-html-5-game-development-form-labels) | [79](#ep79-front-end-development-guidelines-sublime-text-sass-and-compass) | [80](#ep80-sandboxed-iframes-progress-element-responsive-screenshots) | [81](#ep81-outdated-ux-patterns-learn-angular-js-lazy-ads) | [82](#ep82-web-font-generators-ecmascript-6-features-accessibility) | [83](#ep83-web-icons-webshims-jquery-coding-standards) | [84](#ep84-css-frameworks-facebook-predictions-api-development-techniques) | [85](#ep85-flexbox--css-and-sass-style-guides--html-frameworks) | [86](#ep86-really-good-emails--credit-card-detection--epic-editor) | [87](#ep87-creating-style-guides--writing-interface-copy--ratchet) | [88](#ep88-gulp--sketch-3--bud) | [89](#ep89-typography--sidebars--style-guides) | [90](#ep90-voodoo--responsive-tables--javascript-graphs) | [91](#ep91-path-animation--sidebar-transitions--icons) | [92](#ep92-morphing-buttons--rangeslider--declarative-animations) | [93](#ep93-parallax--stylestats--uncss) | [94](#ep94web-design-manual--script-injected--flowjs) | [95](#ep95-app-js--loopback--svgo) | [96](#ep96-jquery-plugins--progress-bars--http-api-design) | [97](#ep97-data-binding-techniques--css-techniques--zeptojs) | [98](#ep98-devopera--getting-to-know-css-blend-modes) | [99](#ep99-inline-anchor-styles--steady-scrolling--web-speech-api) | [100](#ep100-css-will-change-property--html5-forms--vertical-align) | [101](#ep101-css-will-change-property--html5-forms--vertical-align) | [102](#ep102-ui-kits--internet-explorer-development-tools--fastjs) | [103](#ep103-human-javascript--interactive-graphs--sidecomments) | [104](#ep104-pixels--web-components--the-hamburger-menu) | [105](#ep105-svg-backgrounds--breach--fastshell) | [106](#ep106-responsive-logos--waves--pagekit) | [107](#ep107-reading-jquery-source-code--html-5-video-captions--flexbox) | [108](#ep108-practical-typography--date-pickers--form-builders) | [109](#ep109-css-triggers--fireshell--responsive-design) | [110](#ep110-chrome-dev-tools--heatmapjs--device-mockups) | [111](#ep111-dpi--responsive-charts--media-queries) | [112](#ep112-dpi--responsive-charts--media-queries) | [113](#ep113-api-responses--font-compression--tab-styles--the-treehouse) | [114](#ep114-centering-in-css-responsive-lightboxes-dynamic-animations) | [115](#ep115-touch-events-font-downloads-native-webapps) | [116](#ep116-css-shapes-responsive-images-angularjs) | [117](#ep117-os-x-apps-fixed-headers-arrays) | [118](#ep118-page-transitions-designing-for-thumbs-concise) | [119](#ep119-svg-animations-charts-color-palettes) | [120](#ep120-web-performance-material-ui-sql-charts) | [121](#ep121-multi-touch-gestures-ui-logic-svg-animation) | [122](#ep122-lazy-image-loading-underlining-text-scrolling) | [123](#ep123-accessibility-drag-and-drop-interaction-emojis) | [124](#ep124-javscript-frameworks-icons-text-on-images) | [125](#ep125-skeleton-angularjs-the-fold) | [126](#ep126-font-families-hamburger-menus-flux) | [127](#ep127-time-pickers-decimals-text-areas) | [128](#ep128-icons-cheat-sheets-font-pairing) | [129](#ep129-field-validation-css-reference-progress-bars) | [130](#ep130-flexbox-javascript-charts-syntax-highlighting) | [131](#ep131-origami-react-responsive-hero-images) | [132](#ep132-polygon-art-colors-scrolling) | [133](#ep133-inspiration-jquery-knobs-design-principles) | [134](#ep134-reactive-programming-accessible-colors-javascript-errors) | [135](#ep135-bem-jquery-plugins-web-fonts) | [136](#ep136-date-pickers-css-refactoring-html-audio) | [137](#ep137-space-js-materialize-living-style-guides) | [138](#ep138-semantic-ui-polyfills-html-5-patterns) | [139](#ep139-jquery-boilerplate-sass-maps) | [140](#ep140-photo-gallery-plugins-admin-ui-font-sizing) | [141](#ep141-tinysort-push-notifications-responsive-tables) | [142](#ep142-vendor-prefixes-media-queries-javaScript) | [143](#ep143-data-binding-nesting-image-zooms) | [144](#ep144-webp-static-maps-watermarks)  | [145](#ep145-justice-carousels-centering-in-css) | [146](#ep146-dropdowns-scrolling-motion-blur) | [147](#ep147-web-features-form-design-color-pickers) | [148](#ep148-web-design-trends-sharing-buttons-flexbox-techniques) | [149](#ep149-performance-tools-material-design-sliders) | [150](#ep150-css-shapes-javasript-font-combinations)
 
 ### Ep1: CSS and JavaScript Tools
 + [Ceasar](http://matthewlein.com/ceaser/)
@@ -462,7 +457,7 @@ Episode List
 + [Using the main element](http://www.brucelawson.co.uk/2013/the-main-element/)
 + [Groundwork CSS ? A Responsive HTML5, CSS & Javascript Framework](http://groundwork.sidereel.com/?url=home)
 + [Character Entity Reference Chart](http://dev.w3.org/html5/html-author/charref)
-+ [There Is No Breakpoint | Sparkbox](http://seesparkbox.com/foundry/there_is_no_breakpoint)
++ [There Is No Breakpoint - Sparkbox](http://seesparkbox.com/foundry/there_is_no_breakpoint)
 + [typeahead.js](http://twitter.github.com/typeahead.js/)
 + [How To Design For Android Devices](http://blog.mengto.com/how-to-design-for-android-devices/)
 + [55+ Great and Useful Tools for Responsive Web Design](http://www.onextrapixel.com/2013/02/20/55-great-and-useful-tools-for-responsive-web-design/)
@@ -473,12 +468,12 @@ Episode List
 ---
 
 ### Ep31: HTML Progress Element and JavaScript Sliders
-+ [The progress element | HTML5 Doctor](http://html5doctor.com/the-progress-element/)
++ [The progress element - HTML5 Doctor](http://html5doctor.com/the-progress-element/)
 + [Interactive Guide to Blog Typography](http://kaikkonendesign.fi/typography/section/1)
 + [Threesixty-slider by creativeaura](http://creativeaura.github.com/threesixty-slider/)
-+ [Step-By-Step Landing Page Copywriting | Nathan Barry](http://nathanbarry.com/step-by-step-landing-page-copywriting/)
++ [Step-By-Step Landing Page Copywriting - Nathan Barry](http://nathanbarry.com/step-by-step-landing-page-copywriting/)
 + [jQuery Learning Center](http://learn.jquery.com/)
-+ [The Web Font Combinator | A Web Typography Tool](http://font-combinator.com/)
++ [The Web Font Combinator - A Web Typography Tool](http://font-combinator.com/)
 + [Icons DB - free custom icons](http://www.iconsdb.com/)
 
 
@@ -492,9 +487,9 @@ Episode List
 + [Breaking down Amazon’s mega dropdown - Ben Kamens](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
 + [How to lose weight (in the browser)](http://browserdiet.com/)
 + [Preboot](http://getpreboot.com/)
-+ [HTML5 forms input types | HTML5 Doctor](http://html5doctor.com/html5-forms-input-types/)
++ [HTML5 forms input types - HTML5 Doctor](http://html5doctor.com/html5-forms-input-types/)
 + [Genericons - a free, GPL, flexible icon font for blogs!](http://genericons.com/)
-+ [devref | HTTP Header Analyzer](http://devref.com/)
++ [devref - HTTP Header Analyzer](http://devref.com/)
 
 
 [Top](#treehouseshow)
@@ -519,10 +514,10 @@ Episode List
 ### Ep34: Accessibility, CSS Architecture, and Web Printing
 + [Pixi.js the 2D webGL and canvas renderer released on github — goodboy©](http://www.goodboydigital.com/pixi-js-is-out/)
 + [Sublimewebinspector](http://sokolovstas.github.com/SublimeWebInspector/)
-+ [Intro.js | A better way for new feature introduction and step-by-step users guide](http://usablica.github.com/intro.js/)
++ [Intro.js - A better way for new feature introduction and step-by-step users guide](http://usablica.github.com/intro.js/)
 + [CSS Architectures: New Best Practices](http://www.sitepoint.com/css-architectures-new-best-practices/)
 + [Desant - Open source landing pages](http://desantapp.com/)
-+ [Printing The Web | drublic](http://drublic.de/blog/printing-the-web/)
++ [Printing The Web - drublic](http://drublic.de/blog/printing-the-web/)
 + [Color Oracle](http://colororacle.org/)
 
 
@@ -534,7 +529,7 @@ Episode List
 + [Trip.js](http://eragonj.github.com/Trip.js/)
 + [Pull Quotes with HTML5 and CSS — miekd](http://miekd.com/articles/pull-quotes-with-html5-and-css/)
 + [jQuery Pin](http://webpop.github.com/jquery.pin/)
-+ [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
++ [Using SVG - CSS-Tricks](http://css-tricks.com/using-svg/)
 + [DevTools Extensions For Web App Developers](http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/)
 + [Almost Flat UI](http://websymphony.net/almost-flat-ui/)
 + [Practical Tips from Top WordPress Pros](http://wp.smashingmagazine.com/2013/03/20/practical-tips-top-wordpress-pros/)
@@ -561,10 +556,10 @@ Episode List
 ---
 
 ### Ep37: Sublime Text 2 and Login Forms
-+ [Login and Registration Form with HTML5 and CSS3 | Codrops](http://tympanus.net/codrops/2012/03/27/login-and-registration-form-with-html5-and-css3/)
++ [Login and Registration Form with HTML5 and CSS3 - Codrops](http://tympanus.net/codrops/2012/03/27/login-and-registration-form-with-html5-and-css3/)
 + [xyCSS.com : xy.css](http://xycss.com/xy/)
 + [CSS @supports](http://davidwalsh.name/css-supports)
-+ [Setting up Sublime Text 2 | Alex MacCaw](http://blog.alexmaccaw.com/sublime-text)
++ [Setting up Sublime Text 2 - Alex MacCaw](http://blog.alexmaccaw.com/sublime-text)
 + [Metrize Icons • 300 Icons for Designers & Developers](http://www.alessioatzeni.com/metrize-icons/)
 + [MagicSuggest](http://nicolasbize.github.io/magicsuggest/)
 + [CSS Masking - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/masking/adobe/)
@@ -591,14 +586,14 @@ Episode List
 ---
 
 ### Ep39: HTML Video and the Web as a Gaming Platform
-+ [Cross browser compatible HTML5 videos | CatsWhoCode.com](http://www.catswhocode.com/blog/cross-browser-compatible-html5-videos)
-+ [Mozilla is Unlocking the Power of the Web as a Platform for Gaming | The Mozilla Blog](http://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/)
-+ [jQuery 2.0 Released | Official jQuery Blog](http://blog.jquery.com/2013/04/18/jquery-2-0-released/)
++ [Cross browser compatible HTML5 videos - CatsWhoCode.com](http://www.catswhocode.com/blog/cross-browser-compatible-html5-videos)
++ [Mozilla is Unlocking the Power of the Web as a Platform for Gaming - The Mozilla Blog](http://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/)
++ [jQuery 2.0 Released - Official jQuery Blog](http://blog.jquery.com/2013/04/18/jquery-2-0-released/)
 + [jQuery Builder](http://projects.jga.me/jquery-builder/)
 + [shame.css – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts](http://csswizardry.com/2013/04/shame-css/)
 + [User Inter Faces](http://uifaces.com/)
 + [Single page apps in depth (a.k.a. Mixu' single page app book)](http://singlepageappbook.com/single-page.html)
-+ [Responsive Multi-Level Menu | Codrops](http://tympanus.net/codrops/2013/04/19/responsive-multi-level-menu/)
++ [Responsive Multi-Level Menu - Codrops](http://tympanus.net/codrops/2013/04/19/responsive-multi-level-menu/)
 
 
 [Top](#treehouseshow)
@@ -624,8 +619,8 @@ Episode List
 + [BetterToggle jQuery Plugin](http://jquer.in/betterToggle-jquery-plugin/)
 + [Creating Realistic Reflections On Animated Glossy Elements](http://www.ryancollins.me/?p=404)
 + [Drawscript - convert Illustrator shapes into code](http://drawscri.pt/)
-+ [Fullscreen Layout with Page Transitions | Codrops](http://tympanus.net/codrops/2013/04/23/fullscreen-layout-with-page-transitions/)
-+ [How To Customize Your CSS Buttons With Pictogram Icons | DesignWoop](http://designwoop.com/2013/04/how-to-customize-your-css-buttons-with-pictogram-icons/)
++ [Fullscreen Layout with Page Transitions - Codrops](http://tympanus.net/codrops/2013/04/23/fullscreen-layout-with-page-transitions/)
++ [How To Customize Your CSS Buttons With Pictogram Icons - DesignWoop](http://designwoop.com/2013/04/how-to-customize-your-css-buttons-with-pictogram-icons/)
 + [Typography in Mobile Design: Important Aspects and Examples - Designmodo](http://designmodo.com/mobile-design-typography/)
 + [estelle/clowncar · GitHub](http://github.com/estelle/clowncar)
 + [The Flattening of Design - NYTimes.com](http://bits.blogs.nytimes.com/2013/04/23/the-flattening-of-design/)
@@ -637,10 +632,10 @@ Episode List
 
 ### Ep42: Flat UI Colors, Don't do's with jQuery and Usability
 + [Flat UI Colors](http://flatuicolors.com/)
-+ [5 Things You Should Stop Doing With jQuery | Flippin' Awesome](http://flippinawesome.org/2013/05/06/5-things-you-should-stop-doing-with-jquery/)
++ [5 Things You Should Stop Doing With jQuery - Flippin' Awesome](http://flippinawesome.org/2013/05/06/5-things-you-should-stop-doing-with-jquery/)
 + [ScriptCraft/docs/YoungPersonsGuideToProgrammingMinecraft.md at master · walterhiggins/ScriptCraft . GitHub](http://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md)
 + [Framer - Prototyping Tool](http://www.framerjs.com/)
-+ [Usability checklist | Userium | Catch common usability problems before user testing.](http://userium.com/)
++ [Usability checklist - Userium - Catch common usability problems before user testing.](http://userium.com/)
 + [Ghostlab](http://vanamco.com/ghostlab/)
 + [Handy Sass Mixins - Web Design Weekly](http://web-design-weekly.com/2013/05/12/handy-sass-mixins/)
 + [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
@@ -657,7 +652,7 @@ Episode List
 + [Avoiding Unnecessary Paints - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
 + [Typeplate » A typographic starter kit encouraging great type on the Web](http://typeplate.com/)
 + [JavaScript Regular Expression Enlightenment - Tech.Pro](http://tech.pro/tutorial/1214/javascript-regular-expression-enlightenment)
-+ [Slider with Sliding Backgrounds | CSS-Tricks](http://css-tricks.com/slider-with-sliding-backgrounds/)
++ [Slider with Sliding Backgrounds - CSS-Tricks](http://css-tricks.com/slider-with-sliding-backgrounds/)
 + [ClippyJS - Add Clippy or his friends to any website for instant nostalgia](http://www.smore.com/clippy-js)
 
 
@@ -669,8 +664,8 @@ Episode List
 + [Movies in Color](http://moviesincolor.com/)
 + [5 HTML5 Features you need to know – Adnane Belmadiaf's Blog](http://daker.me/2013/05/5-html5-features-you-need-to-know.html)
 + [Pure](http://purecss.io/)
-+ [Popcorn.js | The HTML5 Media Framework](http://popcornjs.org/)
-+ [Sass Style Guide | CSS-Tricks](http://css-tricks.com/sass-style-guide/)
++ [Popcorn.js - The HTML5 Media Framework](http://popcornjs.org/)
++ [Sass Style Guide - CSS-Tricks](http://css-tricks.com/sass-style-guide/)
 + [Screensiz.es](http://screensiz.es/)
 + [Principles of Flat Design - Designmodo](http://designmodo.com/flat-design-principles/)
 + [Starters Guide to iOS Design](http://taybenlor.com/2013/05/21/designing-for-ios.html)
@@ -695,7 +690,7 @@ Episode List
 ---
 
 ### Ep46: Responsive Images and HTML5 Form Inputs
-+ [Midway.js | Automatically center responsive elements! | A project by Shipp Co.](http://shipp.co/midway/)
++ [Midway.js - Automatically center responsive elements! - A project by Shipp Co.](http://shipp.co/midway/)
 + [Say Goodbye to Painful Image Loads on Small Devices. Say Hello to Interchange. by ZURB](http://zurb.com/article/1211/say-goodbye-to-painful-image-loads-on-sma)
 + [A Guide to the New HTML5 Form Input Types](http://sixrevisions.com/html5/new-html5-form-input-types/)
 + [Prinzhorn/skrollr](http://github.com/Prinzhorn/skrollr)
@@ -711,13 +706,13 @@ Episode List
 
 ### Ep47: Dev Tool Secrets
 + [Secrets of the Browser Developer Tools - Secrets](http://devtoolsecrets.com/)
-+ [iOS7 GUI PSD | Teehan+Lax](http://www.teehanlax.com/tools/ios7/)
++ [iOS7 GUI PSD - Teehan+Lax](http://www.teehanlax.com/tools/ios7/)
 + [JSDB.io - The Database of JavaScript Libraries](http://www.jsdb.io/?sort=trending)
 + [Ladda](http://lab.hakim.se/ladda/)
 + [philipwalton/html-inspector](http://github.com/philipwalton/html-inspector)
 + [simple statistics](http://macwright.org/simple-statistics/)
 + [magic css3 animations](http://www.minimamente.com/magic-css3-animations/)
-+ [Creative Button Styles | Codrops](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
++ [Creative Button Styles - Codrops](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
 
 
 [Top](#treehouseshow)
@@ -725,7 +720,7 @@ Episode List
 ---
 
 ### Ep48: Tablet friendly design, good ui, gif.js
-+ [A Couple of Best Practices for Tablet-Friendly Design | CSS-Tricks](http://css-tricks.com/a-couple-of-best-practices-for-tablet-friendly-design/)
++ [A Couple of Best Practices for Tablet-Friendly Design - CSS-Tricks](http://css-tricks.com/a-couple-of-best-practices-for-tablet-friendly-design/)
 + [gif.js](http://jnordberg.github.io/gif.js/)
 + [PortKit: UX Metaphor Equivalents for iOS & Android](http://kintek.com.au/blog/portkit-ux-metaphor-equivalents-for-ios-and-android/)
 + [Lunatech Blog: What every web developer must know about URL encoding](http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding)
@@ -770,12 +765,12 @@ Episode List
 ---
 
 ### Ep51: JavaScript diagramming, SASS, HTML5 Elements
-+ [Macaw | The code-savvy web design tool.](http://macaw.co/)
++ [Macaw - The code-savvy web design tool.](http://macaw.co/)
 + [JointJS - JavaScript diagramming library.](http://jointjs.com/)
 + [Test Responsive Web Design With Our Free Tool - Dimensions App](http://www.dimensionsapp.com/)
-+ [SassMeister | The Sass Playground!](http://sassmeister.com/)
++ [SassMeister - The Sass Playground!](http://sassmeister.com/)
 + [Typer from LayerVault](http://cosmos.layervault.com/typer-js.html)
-+ [Element Index | HTML5 Doctor](http://html5doctor.com/element-index/)
++ [Element Index - HTML5 Doctor](http://html5doctor.com/element-index/)
 + [ZeroClipboard](http://zeroclipboard.github.io/ZeroClipboard/)
 
 
@@ -790,8 +785,8 @@ Episode List
 + [tracing-framework by Google](http://google.github.io/tracing-framework/index.html)
 + [paulirish/browser-logos](http://github.com/paulirish/browser-logos)
 + [Your app makes me fat — Serious Pony](http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat)
-+ [Spacing The Bottom of Modules | CSS-Tricks](http://css-tricks.com/spacing-the-bottom-of-modules/)
-+ [BARREL | Taking Control of Image Loading](http://www.barrelny.com/blog/taking-control-of-imageloading/)
++ [Spacing The Bottom of Modules - CSS-Tricks](http://css-tricks.com/spacing-the-bottom-of-modules/)
++ [BARREL - Taking Control of Image Loading](http://www.barrelny.com/blog/taking-control-of-imageloading/)
 
 
 [Top](#treehouseshow)
@@ -799,7 +794,7 @@ Episode List
 ---
 
 ### Ep53: The ClassList API, CSS Frameworks, Animation
-+ [The classList API | HTML5 Doctor](http://html5doctor.com/the-classlist-api/)
++ [The classList API - HTML5 Doctor](http://html5doctor.com/the-classlist-api/)
 + [Animated Books with CSS 3D Transforms - Demo 1](http://tympanus.net/Development/AnimatedBooks/)
 + [Animated GIFs the Hard Way](http://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html)
 + [Topcoat](http://topcoat.io/topcoat/)
@@ -819,10 +814,10 @@ Episode List
 + [Autoprefixer](https://github.com/ai/autoprefixer)
 + [Glue — glue 0.3 documentation](http://glue.readthedocs.org/en/latest/)
 + [Cardinal — Build more with less.](http://cardinalcss.com/)
-+ [Google Nexus Website Menu | Codrops](http://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/)
++ [Google Nexus Website Menu - Codrops](http://tympanus.net/codrops/2013/07/30/google-nexus-website-menu/)
 + [Salvattore — A jQuery Masonry alternative with CSS-driven configuration.](http://salvattore.com/)
-+ [FT Fastclick | FT Labs](http://labs.ft.com/articles/ft-fastclick/)
-+ [Subtle Patterns | Free textures for your next web project.](http://subtlepatterns.com/)
++ [FT Fastclick - FT Labs](http://labs.ft.com/articles/ft-fastclick/)
++ [Subtle Patterns - Free textures for your next web project.](http://subtlepatterns.com/)
 
 
 [Top](#treehouseshow)
@@ -834,9 +829,9 @@ Episode List
 + [AdminJS: The Backend-Agnostic Administration Framework](http://adminjs.com/)
 + [Responsive Images with Apropos](http://corner.squareup.com/2013/08/responsive-images-with-apropos.html)
 + [NProgress: slim progress bars in JavaScript](http://ricostacruz.com/nprogress/)
-+ [1pxdeep | A flat Bootstrap 3 theme that changes color](http://rriepe.github.io/1pxdeep/)
-+ [Thinkful | Javascript Best Practices Part 1](http://www.thinkful.com/learn/javascript-best-practices-1/)
-+ [Tridiv | CSS 3D Editor](http://tridiv.com/)
++ [1pxdeep - A flat Bootstrap 3 theme that changes color](http://rriepe.github.io/1pxdeep/)
++ [Thinkful - Javascript Best Practices Part 1](http://www.thinkful.com/learn/javascript-best-practices-1/)
++ [Tridiv - CSS 3D Editor](http://tridiv.com/)
 + [The iOS 7 Design Cheat Sheet - Ivo Mynttinen / User Interface Designer](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)
 
 
@@ -862,7 +857,7 @@ Episode List
 ### Ep57: CSS3 Multiple Backgrounds, Ember.js, Favicons
 + [Decoupling Your HTML, CSS, and JavaScript — Philip Walton](http://philipwalton.com/articles/decoupling-html-css-and-javascript/)
 + [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
-+ [Introducing CSS3 Multiple Backgrounds | Developer Drive](http://www.developerdrive.com/2013/08/introducing-css3-multiple-backgrounds/)
++ [Introducing CSS3 Multiple Backgrounds - Developer Drive](http://www.developerdrive.com/2013/08/introducing-css3-multiple-backgrounds/)
 + [Ember.js - Ember 1.0 Released](http://emberjs.com/blog/2013/08/31/ember-1-0-released.html)
 + [audreyr/favicon-cheat-sheet](http://github.com/audreyr/favicon-cheat-sheet)
 + [favico.js - Make a use of your favicon](http://lab.ejci.net/favico.js/)
@@ -876,13 +871,13 @@ Episode List
 ---
 
 ### Ep58: The Main Element, jQuery CLNDR, Keystrokes
-+ [The main element | HTML5 Doctor](http://html5doctor.com/the-main-element/)
++ [The main element - HTML5 Doctor](http://html5doctor.com/the-main-element/)
 + [HandJS - Home](http://handjs.codeplex.com/)
 + [Height equals width with pure CSS](http://www.mademyday.de/css-height-equals-width-with-pure-css.html)
 + [Git Tips For Beginners Interested In Open Source](http://markjberger.com/blog/git-tips-for-beginners-interested-in-open-source)
 + [CLNDR.js](http://kylestetz.github.io/CLNDR/)
 + [Mousetrap - Keyboard shortcuts in Javascript](http://craig.is/killing/mice)
-+ [Why cards are the future of the web | Inside Intercom](http://insideintercom.io/why-cards-are-the-future-of-the-web/)
++ [Why cards are the future of the web - Inside Intercom](http://insideintercom.io/why-cards-are-the-future-of-the-web/)
 + [ChocolateChip-UI](http://www.chocolatechip-ui.com/)
 + [Formbuilder.js by dobtco](http://dobtco.github.io/formbuilder/)
 
@@ -893,7 +888,7 @@ Episode List
 
 ### Ep59: Form Validation, Safari Push Notifications, JavaScript Performance
 + [Formance.js by Omar Shammas](http://omarshammas.github.io/formancejs)
-+ [Photon | CSS 3D Lighting Engine](http://photon.attasi.com/)
++ [Photon - CSS 3D Lighting Engine](http://photon.attasi.com/)
 + [json.human.js - Json Formatting for Human Beings](http://marianoguerra.github.io/json.human.js/)
 + [Pattern Lab](http://pattern-lab.info/)
 + [Safari Push Notifications - Apple Developer](http://developer.apple.com/notifications/safari-push-notifications/)
@@ -951,7 +946,7 @@ Episode List
 + [Solved By Flexbox — Cleaner, hack-free CSS](http://philipwalton.github.io/solved-by-flexbox/)
 
 	A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
-+ [Top Drawer - A smooth dropdown menu for responsive web design | Experiment #5](http://www.jordanm.co.uk/lab/topdrawer)
++ [Top Drawer - A smooth dropdown menu for responsive web design - Experiment #5](http://www.jordanm.co.uk/lab/topdrawer)
 
 	To demonstrate smoother reveal menus in small contexts using CSS3 rather than animating with JavaScript.
 + [Google Web Designer](http://www.google.com/webdesigner/)
@@ -970,13 +965,13 @@ Episode List
 + [Responsive Design Knowledge Hub](http://www.ugurus.com/responsive-design)
 
 	A simple well designed hub to access Responsive Design resources.
-+ [Sir Trevor JS | Made by Many](http://madebymany.github.io/sir-trevor-js/)
++ [Sir Trevor JS - Made by Many](http://madebymany.github.io/sir-trevor-js/)
 
 	An intuitive editor for web content which does not presuppose anything about how it will be rendered.
-+ [UIPlayGround | CSS 3 Icons | CSS 3 Icons Generator | CSS 3 Icons Code Generator](http://www.uiplayground.in/css3-icons/)
++ [UIPlayGround - CSS 3 Icons - CSS 3 Icons Generator - CSS 3 Icons Code Generator](http://www.uiplayground.in/css3-icons/)
 
 	Over 200 easy to use CSS3 Icons. It will reduce the http Requests for you, too.
-+ [Git/Github Resources | Brad Frost Web](http://bradfrostweb.com/blog/post/gitgithub-resources/)
++ [Git/Github Resources - Brad Frost Web](http://bradfrostweb.com/blog/post/gitgithub-resources/)
 
 	Great resources on how to learn working with git.
 + [Making iOS 7 squircles using CSS3](http://thecodeplayer.com/walkthrough/css3-squircles)
@@ -1086,7 +1081,7 @@ Episode List
 + [stickUp - a free jQuery Plugin](http://lirancohen.github.io/stickUp/)
 
 	A simple plugin that "sticks" an element to the top of the browser window while scrolling past it, always keeping it in view.
-+ [Pizza Pie Charts | Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
++ [Pizza Pie Charts - Playground from ZURB](http://zurb.com/playground/pizza-pie-charts)
 
 	Creating responsive pie charts for any device is a piece of pie.
 
@@ -1115,7 +1110,7 @@ Episode List
 + [getify/You-Dont-Know-JS](http://github.com/getify/You-Dont-Know-JS)
 
 	A JavaScript book series launched through Kickstarter
-+ [Techniques for Responsive Typography | Codrops](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
++ [Techniques for Responsive Typography - Codrops](http://tympanus.net/codrops/2013/11/19/techniques-for-responsive-typography/)
 
 	A good read on Typography.
 
@@ -1135,7 +1130,7 @@ Episode List
 + [Badoo Tech Blog :: 5 Advanced Javascript and Web Debugging Techniques You Should Know About](http://techblog.badoo.com/blog/2013/11/18/5-advanced-javascript-and-web-debugging-techniques-you-should-know-about/)
 
 	5 advanced techniques which web developers can use to reduce the time they spend debugging and squash challenging bugs by using new tools available to us
-+ [Animated Opening Type | Codrops](http://tympanus.net/codrops/2013/11/14/animated-opening-type/)
++ [Animated Opening Type - Codrops](http://tympanus.net/codrops/2013/11/14/animated-opening-type/)
 
 	A tutorial on how to create an interesting animated 3D opening type effect with pseudo-elements, CSS transforms and transitions.
 + [DevTools Snippets](http://bgrins.github.io/devtools-snippets/)
@@ -1158,7 +1153,7 @@ Episode List
 + [Bigfoot](http://cmsauve.com/labs/bigfoot/)
 
 	A jQuery plugin for empowering footnotes.
-+ [Blueprints For Web And Print: Specctr, A Free Adobe Illustrator Plugin | Smashing Magazine](http://www.smashingmagazine.com/2013/11/15/specctr-an-adobe-illustrator-plugin-freebie/)
++ [Blueprints For Web And Print: Specctr, A Free Adobe Illustrator Plugin - Smashing Magazine](http://www.smashingmagazine.com/2013/11/15/specctr-an-adobe-illustrator-plugin-freebie/)
 
 	Blueprints For Web And Print.
 + [Geocomplete - jQuery Geocoding and Places Autocomplete Plugin](http://ubilabs.github.io/geocomplete/)
@@ -1202,7 +1197,7 @@ Episode List
 + [qrcode.js](http://davidshimjs.github.io/qrcodejs/)
 
 	Make QRCode with js.
-+ [The HTML5 meter Element | CSS-Tricks](http://css-tricks.com/html5-meter-element/)
++ [The HTML5 meter Element - CSS-Tricks](http://css-tricks.com/html5-meter-element/)
 
 	HTML meter Element
 + [Prism](http://prismjs.com/)
@@ -1228,7 +1223,7 @@ Episode List
 + [Grunt for People Who Think Things Like Grunt are Weird and Hard ? 24 ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
 
 	If you think Grunt is hard, just read this Article!
-+ [Bulletproof email buttons | Campaign Monitor](http://buttons.cm/)
++ [Bulletproof email buttons - Campaign Monitor](http://buttons.cm/)
 
 	Design gorgeous buttons using progressively enhanced VML and CSS.
 + [Headroom.js](http://wicky.nillia.ms/headroom.js/)
@@ -1260,13 +1255,13 @@ Episode List
 + [300ms tap delay, gone away - HTML5Rocks Updates](http://updates.html5rocks.com/2013/12/300ms-tap-delay-gone-away)
 
 	Remove touch delay.
-+ [SpinKit | Simple CSS Spinners](http://tobiasahlin.com/spinkit/)
++ [SpinKit - Simple CSS Spinners](http://tobiasahlin.com/spinkit/)
 
 	A collection of loading indicators animated with CSS
 + [zertosh/jquery-audit](https://github.com/zertosh/jquery-audit)
 
 	jQuery Audit is a Chrome Developer Tools extension for auditing jQuery.
-+ [Freestyle | Pixate](http://www.pixate.com/freestyle/)
++ [Freestyle - Pixate](http://www.pixate.com/freestyle/)
 
 	Freestyle is a simple, powerful way to define the look and feel of your app, via structured CSS and Sass.
 + [Zoomerang.js](http://yyx990803.github.io/zoomerang/)
@@ -1283,7 +1278,7 @@ Episode List
 + [The Sprite Generator (beta) » Stupid Apps](http://apps.stupid-studio.com/)
 
 	The Sprite Generator (beta) - Unlimited frames, high FPS, full control.
-+ [Tools | Intel® Developer Zone](http://software.intel.com/en-us/html5/tools)
++ [Tools - Intel® Developer Zone](http://software.intel.com/en-us/html5/tools)
 
 	Develop, emulate, test-on-device and build apps like never before.
 + [Colors](http://clrs.cc/)
@@ -1356,7 +1351,7 @@ Episode List
 + [Fit.js » Fit things into other things](http://soulwire.github.io/fit.js/)
 
 	Fit DOM elements into other DOM elements
-+ [CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More | CSS-Tricks](http://css-tricks.com/css-animation-tricks/)
++ [CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More - CSS-Tricks](http://css-tricks.com/css-animation-tricks/)
 
 	CSS animations
 + [countUp.js](http://inorganik.github.io/countUp.js/)
@@ -1391,13 +1386,13 @@ Episode List
 + [Avoiding anonymous JavaScript functions](http://toddmotto.com/avoiding-anonymous-javascript-functions/)
 
 	Why to avoid anonymous JS functions
-+ [Your guide to the best Google web fonts | Whats the Closest Google Font?](http://joelcrawfordsmith.com/new/content/your-guide-best-google-web-fonts)
++ [Your guide to the best Google web fonts - Whats the Closest Google Font?](http://joelcrawfordsmith.com/new/content/your-guide-best-google-web-fonts)
 
 	Find the closest google web font alternative to any font
 + [Yo Polymer -- A Whirlwind Tour Of Web Component Tooling - HTML5Rocks Updates](http://updates.html5rocks.com/2014/01/Yo-Polymer-A-Whirlwind-Tour-Of-Web-Component-Tooling)
 
 	Create a jukebox application
-+ [Bulletproof Accessible Icon Fonts | Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/bulletproof_icon_fonts)
++ [Bulletproof Accessible Icon Fonts - Filament Group, Inc., Boston, MA](http://filamentgroup.com/lab/bulletproof_icon_fonts)
 
 	A blog post about icon fonts
 
@@ -1408,7 +1403,7 @@ Episode List
 
 ### Ep77: Sass Mixins, JavaScript Coding, Git Tips
 
-+ [Z63 | 8 Sass mixins you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
++ [Z63 - 8 Sass mixins you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
 
 	Eight Sass mixins to include in your toolbox
 + [Firefox Notes - Desktop](http://www.mozilla.org/en-US/firefox/27.0/releasenotes/)
@@ -1417,7 +1412,7 @@ Episode List
 + [Sass: Mixin or Placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/)
 
 	A blog post about Sass
-+ [A re-introduction to JavaScript (JS Tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
++ [A re-introduction to JavaScript (JS Tutorial) - JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 	A blog post about JS
 + [carrot/share-button](https://github.com/carrot/share-button)
@@ -1481,7 +1476,7 @@ Episode List
 + [CSS A/Z](http://cssaz.tumblr.com/)
 
 	A HTML and CSS animation for each letter
-+ [Go ahead, with the Treehouse Show | Eight Arms, London](http://eightarms.co.uk/blog/go-ahead-with-the-treehouse-show/)
++ [Go ahead, with the Treehouse Show - Eight Arms, London](http://eightarms.co.uk/blog/go-ahead-with-the-treehouse-show/)
 
 	A blog post about the Treehouse Show
 + [Hemingway](http://www.hemingwayapp.com/)
@@ -1542,10 +1537,10 @@ Episode List
 + [Outdated UX patterns and alternatives](http://sideproject.io/outdated-ux-patterns/)
 
 	Alternatives to UX patterns
-+ [How to Learn AngularJS - Your AngularJS Sherpa | ng-newsletter](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
++ [How to Learn AngularJS - Your AngularJS Sherpa - ng-newsletter](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 
 	An introduction to AngularJS
-+ [Why you should move that button 3px to the left | Google Ventures](http://www.gv.com/lib/design-details)
++ [Why you should move that button 3px to the left - Google Ventures](http://www.gv.com/lib/design-details)
 
 	Why you should perfect the details
 + [madgex/lazy-ads](http://github.com/madgex/lazy-ads)
@@ -1562,13 +1557,13 @@ Episode List
 
 ### Ep82: Web Font Generators, ECMAScript 6 Features, Accessibility
 
-+ [Web Font Generator for Mac OSX | FontPrep](http://fontprep.com/)
++ [Web Font Generator for Mac OSX - FontPrep](http://fontprep.com/)
 
 	Generate web fonts
 + [Code Guide by @mdo](http://mdo.github.io/code-guide/)
 
 	A guide for well written code
-+ [Free mobile and web prototyping for designers | Marvel](https://www.marvelapp.com/)
++ [Free mobile and web prototyping for designers - Marvel](https://www.marvelapp.com/)
 
 	Prototype websites, web applications, etc...
 + [lukehoban/es6features](https://github.com/lukehoban/es6features)
@@ -1580,7 +1575,7 @@ Episode List
 + [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/)
 
 	A blog post about promise anti-patterns
-+ [GraphicBurger | Tasty PSD & other resources made with care for each pixel. Free for both personal & commercial use. Have a bite!](http://graphicburger.com/)
++ [GraphicBurger - Tasty PSD & other resources made with care for each pixel. Free for both personal & commercial use. Have a bite!](http://graphicburger.com/)
 
 	Awesome resources
 + [nanobar.js](http://nanobar.micronube.com/)
@@ -1609,7 +1604,7 @@ Episode List
 + [jQuery Coding Standards and Best Practices](http://lab.abhinayrathore.com/jquery-standards/)
 
 	jQuery best practices
-+ [Random User Generator | FREE Photoshop Extension](http://randomuser.me/extension/)
++ [Random User Generator - FREE Photoshop Extension](http://randomuser.me/extension/)
 
 	Generate users for designing interfaces in photoshop
 + [ScrollMagic - Demo](http://janpaepke.github.io/ScrollMagic/)
@@ -1638,7 +1633,7 @@ Episode List
 
 ---
 
-### Ep85: Flexbox | CSS and Sass Style Guides | HTML Frameworks
+### Ep85: Flexbox - CSS and Sass Style Guides - HTML Frameworks
 
 + [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/)
 
@@ -1669,7 +1664,7 @@ Episode List
 
 ---
 
-### Ep86: Really Good Emails | Credit Card Detection | Epic Editor
+### Ep86: Really Good Emails - Credit Card Detection - Epic Editor
 
 + [Really Good Emails - The Best Email Designs in the Universe (that came into my inbox)](http://reallygoodemails.com/)
 
@@ -1700,12 +1695,12 @@ Episode List
 
 ---
 
-### Ep87: Creating Style Guides | Writing Interface Copy | Ratchet
+### Ep87: Creating Style Guides - Writing Interface Copy - Ratchet
 
 + [Creating Style Guides · An A List Apart Article](http://alistapart.com/article/creating-style-guides)
 
 	How to make style guides
-+ [From Google Ventures: 5 Rules For Writing Great Interface Copy | Co.Design | business + design](http://www.fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy)
++ [From Google Ventures: 5 Rules For Writing Great Interface Copy - Co.Design - business + design](http://www.fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy)
 
 	5 rules for writing great interface copy
 + [Ratchet](http://goratchet.com/)
@@ -1723,7 +1718,7 @@ Episode List
 + [John Resig - Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
 
 	A blog post about writing code every day
-+ [vis.js | a dynamic, browser-based visualization library](http://visjs.org/)
++ [vis.js - a dynamic, browser-based visualization library](http://visjs.org/)
 
 	A dynamic, browser-based visualization library
 
@@ -1731,7 +1726,7 @@ Episode List
 
 ---
 
-### Ep88: Gulp | Sketch 3 | Bud
+### Ep88: Gulp - Sketch 3 - Bud
 
 + [gulp.js - the streaming build system](http://gulpjs.com/)
 
@@ -1762,7 +1757,7 @@ Episode List
 
 ---
 
-### Ep89: Typography | Sidebars | Style Guides
+### Ep89: Typography - Sidebars - Style Guides
 
 
 + [typebase.css: The starting point for good typography on the web](http://devinhunt.github.io/typebase.css/)
@@ -1794,7 +1789,7 @@ Episode List
 
 ---
 
-### Ep90: Voodoo | Responsive Tables | JavaScript Graphs
+### Ep90: Voodoo - Responsive Tables - JavaScript Graphs
 
 + [Voodoo - A Next Generation Internet](http://www.voodoojs.com/)
 
@@ -1808,10 +1803,10 @@ Episode List
 + [Dygraphs](http://dygraphs.com/)
 
 	Javascript charting library
-+ [Labelmask | Brad Frost Web](http://bradfrostweb.com/blog/post/labelmask/)
++ [Labelmask - Brad Frost Web](http://bradfrostweb.com/blog/post/labelmask/)
 
 	Blog post about labelmask
-+ [Seven JavaScript Quirks I Wish I'd Known About | Telerik Developer Network](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/)
++ [Seven JavaScript Quirks I Wish I'd Known About - Telerik Developer Network](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/)
 
 	Common quirks in JavaScript
 + [Flexplorer](http://bennettfeely.com/flexplorer/)
@@ -1822,7 +1817,7 @@ Episode List
 
 ---
 
-### Ep91: Path Animation | Sidebar Transitions | Icons
+### Ep91: Path Animation - Sidebar Transitions - Icons
 
 + [Advanced animation path » legomushroom](http://blog.legomushroom.com/2014/03/defining-advanced-animation-path/)
 
@@ -1853,12 +1848,12 @@ Episode List
 
 ---
 
-### Ep92: Morphing Buttons | Rangeslider | Declarative Animations
+### Ep92: Morphing Buttons - Rangeslider - Declarative Animations
 
 + [sandropaganotti/pull-and-zoom](https://github.com/sandropaganotti/pull-and-zoom)
 
 	A library that zooms the header while a user pulls the body of a mobile page
-+ [Morphing Buttons Concept | Codrops](http://tympanus.net/codrops/2014/05/12/morphing-buttons-concept/)
++ [Morphing Buttons Concept - Codrops](http://tympanus.net/codrops/2014/05/12/morphing-buttons-concept/)
 
 	Inspiration for revealing content by morphing buttons
 + [rangeslider.js](http://andreruffert.github.io/rangeslider.js/)
@@ -1876,7 +1871,7 @@ Episode List
 + [AniJS, Declarative handling library for CSS animations](http://anijs.github.io/)
 
 	A Library to Raise your Web Design without Coding
-+ [Bezier Curves and Type Design: A Tutorial | Learn - Scannerlicker!](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
++ [Bezier Curves and Type Design: A Tutorial - Learn - Scannerlicker!](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 
 		A tutorial on how bezier curves work
 
@@ -1884,7 +1879,7 @@ Episode List
 
 ---
 
-### Ep93: Parallax | StyleStats | Uncss
+### Ep93: Parallax - StyleStats - Uncss
 
 + [Parallax Done Right — Medium](https://medium.com/@dhg/82ced812e61c)
 
@@ -1909,7 +1904,7 @@ Episode List
 
 ---
 
-### Ep94:Web Design Manual | Script-Injected | Flow.js
+### Ep94:Web Design Manual - Script-Injected - Flow.js
 
 + [Web Design Field Manual](http://webfieldmanual.com/)
 
@@ -1926,7 +1921,7 @@ Episode List
 + [Compressor.io - optimize and compress your images and photos](http://compressor.io/)
 
 	Compress and optimize images with up to 90% file size reduction
-+ [A Hacker's Guide to Git | Wildly Inaccurate](https://wildlyinaccurate.com/a-hackers-guide-to-git)
++ [A Hacker's Guide to Git - Wildly Inaccurate](https://wildlyinaccurate.com/a-hackers-guide-to-git)
 
 	A thorough git tutorial
 
@@ -1934,9 +1929,9 @@ Episode List
 
 ---
 
-### Ep95: App js | LoopBack | SVGO
+### Ep95: App js - LoopBack - SVGO
 
-+ [App.js | Mobile webapps made easy](http://code.kik.com/app/2/index.html)
++ [App.js - Mobile webapps made easy](http://code.kik.com/app/2/index.html)
 
 	A lightweight JavaScript UI library for creating mobile webapps that behave like native apps
 + [svg/svgo-gui](https://github.com/svg/svgo-gui)
@@ -1959,12 +1954,12 @@ Episode List
 
 ---
 
-### Ep96: jQuery Plugins | Progress Bars | HTTP API Design
+### Ep96: jQuery Plugins - Progress Bars - HTTP API Design
 
 + [Selectize.js](http://brianreavis.github.io/selectize.js/)
 
 	A hybrid of a textbox and select box
-+ [pullpush | jQuery and JavaScript plugins and libraries](http://pullpu.sh/)
++ [pullpush - jQuery and JavaScript plugins and libraries](http://pullpu.sh/)
 
 	(BROKEN) A curated library of quality, well maintained jQuery and plain JS plugins and libraries
 + [NumberProgressBar](http://kalasoo.github.io/NumberProgressBar/)
@@ -1973,7 +1968,7 @@ Episode List
 + [interagent/http-api-design](https://github.com/interagent/http-api-design)
 
 	HTTP API design guide extracted from work on the Heroku Platform API
-+ [Profound Grid | A grid system for fixed and fluid layouts](http://www.profoundgrid.com/)
++ [Profound Grid - A grid system for fixed and fluid layouts](http://www.profoundgrid.com/)
 
 	A responsive grid system for fixed and fluid layouts. Built in SCSS
 + [demosthenes.info -- Slash Page Load Times With CSS Font Subsetting](http://demosthenes.info/blog/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting)
@@ -1984,7 +1979,7 @@ Episode List
 
 ---
 
-### Ep97: Data-binding Techniques | CSS Techniques | Zepto.js
+### Ep97: Data-binding Techniques - CSS Techniques - Zepto.js
 
 + [Data-binding Revolutions with Object.observe() - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es7/observe/)
 
@@ -2001,7 +1996,7 @@ Episode List
 + [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
 
 	A small, jQuery-compatible jQuery replacement
-+ [David Walsh on Redesigning with Sass | CSS-Tricks](http://css-tricks.com/redesigning-with-sass/)
++ [David Walsh on Redesigning with Sass - CSS-Tricks](http://css-tricks.com/redesigning-with-sass/)
 
 	A blog post about redesigning with SASS
 
@@ -2017,13 +2012,13 @@ Episode List
 + [Stella.js](http://markdalgleish.com/projects/stellar.js/)
 
 	A jQuery plugin for parallax scrolling
-+ [Adaptive Placeholders | The Circle Blog](http://blog.circleci.com/adaptive-placeholders/)
++ [Adaptive Placeholders - The Circle Blog](http://blog.circleci.com/adaptive-placeholders/)
 
 	Placeholders that adapt into labels
 + [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/)
 
 	A lightweight JavaScript widget that hides the header until you scroll up again
-+ [Inspiration for Article Intro Effects | Codrops](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
++ [Inspiration for Article Intro Effects - Codrops](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
 
 	Blog post header transitions
 + [Landing Proxy.app](http://blog.websecurify.com/2014/02/landing-proxy-app.html)
@@ -2034,7 +2029,7 @@ Episode List
 
 ---
 
-### Ep99: Inline Anchor Styles | Steady Scrolling | Web Speech API
+### Ep99: Inline Anchor Styles - Steady Scrolling - Web Speech API
 
 + [Inline Anchor Styles](http://tympanus.net/codrops/2014/06/04/inspiration-for-inline-anchor-styles/)
 
@@ -2059,7 +2054,7 @@ Episode List
 
 ---
 
-### Ep100: CSS will-change Property | HTML5 Forms | Vertical Align
+### Ep100: CSS will-change Property - HTML5 Forms - Vertical Align
 
 + [Dev.Opera — Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
 
@@ -2070,13 +2065,13 @@ Episode List
 + [Bounce.js](http://bouncejs.com/)
 
 	Easily create CSS animations
-+ [Z63 | Vertical align anything with just 3 lines of CSS | zerosixthree](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
++ [Z63 - Vertical align anything with just 3 lines of CSS - zerosixthree](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
 
 	A solution to vertical alignment
 + [dc.js - Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
 
 	A javascript charting library
-+ [A Couple of Use Cases for Calc() | CSS-Tricks](http://css-tricks.com/a-couple-of-use-cases-for-calc/)
++ [A Couple of Use Cases for Calc() - CSS-Tricks](http://css-tricks.com/a-couple-of-use-cases-for-calc/)
 
 	Calculation in css
 
@@ -2084,7 +2079,7 @@ Episode List
 
 ---
 
-### Ep101: CSS will-change Property | HTML5 Forms | Vertical Align
+### Ep101: CSS will-change Property - HTML5 Forms - Vertical Align
 
 + [Share: The Icon No One Agrees On - BOLD by Pixelapse](https://bold.pixelapse.com/minming/share-the-icon-no-one-agrees-on)
 
@@ -2095,7 +2090,7 @@ Episode List
 + [Web Starter Kit](https://developers.google.com/web/starter-kit/index?hl=en)
 
 	Boilerplate & Tooling for Multi-Device development
-+ [Read JavaScript Allongé | Leanpub](https://leanpub.com/javascript-allonge/read)
++ [Read JavaScript Allongé - Leanpub](https://leanpub.com/javascript-allonge/read)
 
 	A book about JavaScript
 + [What Every Frontend Developer Should Know About Webpage Rendering — Frontend Babel](http://frontendbabel.info/articles/webpage-rendering-101/)
@@ -2109,7 +2104,7 @@ Episode List
 
 ---
 
-### Ep102: UI Kits | Internet Explorer Development Tools | Fast.js
+### Ep102: UI Kits - Internet Explorer Development Tools - Fast.js
 
 + [rafaelconde/ios8-ui-kit](https://github.com/rafaelconde/ios8-ui-kit)
 
@@ -2117,7 +2112,7 @@ Episode List
 + [Announcing Internet Explorer Developer Channel - IEBlog](http://blogs.msdn.com/b/ie/archive/2014/06/16/announcing-internet-explorer-developer-channel.aspx)
 
 	Developer version of IE, similar to Google Chrome Canary and Firefox nightly
-+ [Ideas for Subtle Hover Effects | Codrops](http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/)
++ [Ideas for Subtle Hover Effects - Codrops](http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/)
 
 	Inspiration for subtle hover effects
 + [codemix/fast.js](https://github.com/codemix/fast.js)
@@ -2134,9 +2129,9 @@ Episode List
 
 ---
 
-### Ep103: Human JavaScript | Interactive Graphs | Sidecomments
+### Ep103: Human JavaScript - Interactive Graphs - Sidecomments
 
-+ [Introduction | Human JavaScript](http://read.humanjavascript.com/)
++ [Introduction - Human JavaScript](http://read.humanjavascript.com/)
 
 	An ebook about writting good JavaScript that can be read by humans
 + [The Simpsons in CSS](http://pattle.github.io/simpsons-in-css/)
@@ -2156,7 +2151,7 @@ Episode List
 
 ---
 
-### Ep104: Pixels | Web Components | The Hamburger Menu
+### Ep104: Pixels - Web Components - The Hamburger Menu
 
 + [Aerotwist - Pixels are expensive](http://aerotwist.com/blog/pixels-are-expensive/)
 
@@ -2178,7 +2173,7 @@ Episode List
 
 ---
 
-### Ep105: SVG Backgrounds | Breach | FastShell
+### Ep105: SVG Backgrounds - Breach - FastShell
 
 + [PatternBolt](http://buseca.github.io/patternbolt/)
 
@@ -2200,7 +2195,7 @@ Episode List
 
 ---
 
-### Ep106: Responsive Logos | Waves | Pagekit
+### Ep106: Responsive Logos - Waves - Pagekit
 
 + [Responsive Logos](http://responsivelogos.co.uk/)
 
@@ -2222,7 +2217,7 @@ Episode List
 
 ---
 
-### Ep107: Reading jQuery Source Code | HTML 5 Video Captions | Flexbox
+### Ep107: Reading jQuery Source Code - HTML 5 Video Captions - Flexbox
 
 + [18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado](http://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code)
 
@@ -2244,7 +2239,7 @@ Episode List
 
 ---
 
-### Ep108: Practical Typography | Date Pickers | Form Builders
+### Ep108: Practical Typography - Date Pickers - Form Builders
 
 + [Butterick’s Practical Typography](http://practicaltypography.com/)
 
@@ -2266,9 +2261,9 @@ Episode List
 
 ---
 
-### Ep109: CSS Triggers | Fireshell | Responsive Design
+### Ep109: CSS Triggers - Fireshell - Responsive Design
 
-+ [The Web Manifest specification | HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
++ [The Web Manifest specification - HTML5 Doctor](http://html5doctor.com/web-manifest-specification/)
 
 
 	Article from html5doctor.com about the web manifest specification
@@ -2278,7 +2273,7 @@ Episode List
 + [FireShell](http://getfireshell.com/)
 
 	Fiercely quick front-end boilerplate and workflows, HTML5, Grunt, Sass.
-+ [How we make RWD sites load fast as heck | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/performance-rwd.html)
++ [How we make RWD sites load fast as heck - Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/performance-rwd.html)
 
 	An article outlining "observations and approaches to delivering sites for speed and broader access"
 + [way.js](http://gwendall.github.io/way/)
@@ -2289,12 +2284,12 @@ Episode List
 
 ---
 
-### Ep110: Chrome Dev Tools | heatmap.js | Device Mockups
+### Ep110: Chrome Dev Tools - heatmap.js - Device Mockups
 
 + [Tell Chrome Developer Tools to use a dark theme - howchoo](http://howchoo.com/g/tell-chrome-developer-tools-to-use-a-dark-theme)
 
 	Dark theme for Google Chrome's developer tools
-+ [Heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
++ [Heatmap.js - Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
 
 	lightweight, easy to use JavaScript library to help you visualize your three dimensional data
 + [HTML5 device mockups](https://github.com/pixelsign/html5-device-mockups)
@@ -2311,7 +2306,7 @@ Episode List
 
 ---
 
-### Ep111: DPI | Responsive Charts | Media Queries
+### Ep111: DPI - Responsive Charts - Media Queries
 
 + [Designer's Guide to DPI](http://sebastien-gabriel.com/designers-guide-to-dpi)
 
@@ -2319,13 +2314,13 @@ Episode List
 + [Charlist - Simple reponsive](http://gionkunz.github.io/chartist-js/)
 
 	Responsive JavaScript charts
-+ [7 Habits of Highly Effective Media Queries | Brad Frost Web](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/)
++ [7 Habits of Highly Effective Media Queries - Brad Frost Web](http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/)
 
 	Considerations for writing high-quality media queries
 + [Victor.js - 2D Vectors for JavaScript](http://victorjs.org/)
 
 	JavaScript 2D vector maths library for Node.js and the browser
-+ [Pure CSS parallax scrolling websites | Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
++ [Pure CSS parallax scrolling websites - Keith Clark](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
 
 	Article demonstrating "how to use CSS transforms, perspective and some scaling trickery to create a pure CSS parallax scrolling website"
 
@@ -2333,15 +2328,15 @@ Episode List
 
 ---
 
-### Ep112: DPI | Responsive Charts | Media Queries
+### Ep112: DPI - Responsive Charts - Media Queries
 
-+ [Favicons, Touch Icons, Tile Icons, etc. What All Do You Need? | CSS-Tricks](http://css-tricks.com/favicon-quiz/)
++ [Favicons, Touch Icons, Tile Icons, etc. What All Do You Need? - CSS-Tricks](http://css-tricks.com/favicon-quiz/)
 
 	Quiz about favicons, touch icons, tile icons, etc.
 + [jonom/jquery-focuspoint · GitHub](https://github.com/jonom/jquery-focuspoint)
 
 	Dynamically crop images to fill available space without cutting out the image's subject for 'responsive cropping'
-+ [Making SVGs Responsive with CSS | Codrops](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
++ [Making SVGs Responsive with CSS - Codrops](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
 
 	Article explaining how to use CSS to make SVGs responsive
 + [Timesheet.js - Open time tables with HTML, JavaScript and CSS …](http://semu.github.io/timesheet.js/)
@@ -2355,7 +2350,7 @@ Episode List
 
 ---
 
-### Ep113: API Responses | Font Compression | Tab Styles
+### Ep113: API Responses - Font Compression - Tab Styles
 
 + [DataCollection.js](http://thestorefront.github.io/DataCollection.js/)
 
@@ -2363,10 +2358,10 @@ Episode List
 + [Dev.Opera — Native Responsive Images](https://dev.opera.com/articles/native-responsive-images/)
 
 	Article about responsive images
-+ [Speed Up Your Bootstrap and Font-Awesome Sites Using Font Compression | Zoompf Web Performance](http://zoompf.com/blog/2014/08/bootstrap-fonts)
++ [Speed Up Your Bootstrap and Font-Awesome Sites Using Font Compression - Zoompf Web Performance](http://zoompf.com/blog/2014/08/bootstrap-fonts)
 
 	Using apache to compress fonts
-+ [Tab Styles Inspiration | Codrops](http://tympanus.net/codrops/2014/09/02/tab-styles-inspiration/)
++ [Tab Styles Inspiration - Codrops](http://tympanus.net/codrops/2014/09/02/tab-styles-inspiration/)
 
 	"A couple of modern and subtle tab styles and effects for your inspiration"
 + [Advanced objects in JavaScript](http://bjorn.tipling.com/advanced-objects-in-javascript)
@@ -2379,7 +2374,7 @@ Episode List
 
 ### Ep114: Centering in CSS, Responsive Lightboxes, Dynamic Animations
 
-+ [Centering in CSS: A Complete Guide | CSS-Tricks](http://css-tricks.com/centering-css-complete-guide/)
++ [Centering in CSS: A Complete Guide - CSS-Tricks](http://css-tricks.com/centering-css-complete-guide/)
 
 	A guide from Chris Coyier with the aim of making centering in CSS less painful
 + [TURNBOX.js - NOHT CO.,LTD.](http://noht.co.jp/turnbox)
@@ -2391,7 +2386,7 @@ Episode List
 + [Strip - A Less Intrusive Responsive Lightbox](http://www.stripjs.com/)
 
 	A lightbox that only partially covers the page
-+ [drawer | blivesta · drawer](http://git.blivesta.com/drawer/)
++ [drawer - blivesta · drawer](http://git.blivesta.com/drawer/)
 
 	Flexible drawer menu using jQuery, iScroll and CSS.
 
@@ -2410,10 +2405,10 @@ Episode List
 + [touchSwipe](http://labs.rampinteractive.co.uk/touchSwipe/demos/)
 
 	Another Jquery plugin for touch devices (mainly used for swiping)
-+ [iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps | Breaking the Mobile Web](http://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
++ [iOS 8 and iPhone 6 for web developers and designers: next evolution for Safari and native webapps - Breaking the Mobile Web](http://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers)
 
 	A very long blog post about iOS 8 and iPhone 6
-+ [Web Components punch list | The Paciello Group – Your Accessibility Partner](http://www.paciellogroup.com/blog/2014/09/web-components-punch-list/)
++ [Web Components punch list - The Paciello Group – Your Accessibility Partner](http://www.paciellogroup.com/blog/2014/09/web-components-punch-list/)
 
 	A blog post about web components
 
@@ -2429,7 +2424,7 @@ Episode List
 + [SweetAlert](https://sweetalert.js.org/)
 
 	A Javascript project designed to be a replacement for the javascript build-in alert-function
-+ [Animating Images With CSS Keyframes | Pencil Scoop | Web Design & Development](http://www.pencilscoop.com/2014/04/animating-images-with-css-keyframes/)
++ [Animating Images With CSS Keyframes - Pencil Scoop - Web Design & Development](http://www.pencilscoop.com/2014/04/animating-images-with-css-keyframes/)
 
 	A blog post about animating images with css keyframes
 + [AngularJS Tutorial: a comprehensive 10,000 word guide](http://www.airpair.com/angularjs)
@@ -2457,7 +2452,7 @@ Episode List
 + [Midnight.js - Switch fixed headers on the fly](http://aerolab.github.io/midnight.js/)
 
 	A Javascript project that allows you to switch fixed headers on the fly
-+ [5 Array Methods That You Should Be Using Now | colintoh.com](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
++ [5 Array Methods That You Should Be Using Now - colintoh.com](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
 
 	A blog post about array methods
 
@@ -2470,7 +2465,7 @@ Episode List
 + [Concise / Welcome](http://concisecss.com/)
 
 	A front-end framework
-+ [How To Add Page Transitions with CSS and smoothState.js | CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/)
++ [How To Add Page Transitions with CSS and smoothState.js - CSS-Tricks](http://css-tricks.com/add-page-transitions-css-smoothstate-js/)
 
 	A blog post about about adding page transitions with css and smoothstate.js
 + [How to design for thumbs in the Era of Huge Screens - Scott Hurff](http://scotthurff.com/posts/how-to-design-for-thumbs-in-the-era-of-huge-screens)
@@ -2525,7 +2520,7 @@ Episode List
 
 	A chrome extension for analysing css files in the browser
 
-+ [FnordMetric | Framework for building beautiful real-time dashboards](https://github.com/get-wrecked/fnordmetric)
++ [FnordMetric - Framework for building beautiful real-time dashboards](https://github.com/get-wrecked/fnordmetric)
 
 	A project that allows you to create charts from sql
 
@@ -2538,10 +2533,10 @@ Episode List
 + [interact.js - JavaScript drag and drop, resizing and gestures with inertia and snapping](http://interactjs.io/)
 
 	A Javascript library that supports drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers
-+ [Let the Browser Handle Your UI Logic for You | Parse Blog](http://blog.parse.com/2014/11/10/let-the-browser-handle-your-ui-logic-for-you/)
++ [Let the Browser Handle Your UI Logic for You - Parse Blog](http://blog.parse.com/2014/11/10/let-the-browser-handle-your-ui-logic-for-you/)
 
 
-+ [Purplecoat.js | Simple Labeled Overlays](http://ellekasai.github.io/purplecoat.js/)
++ [Purplecoat.js - Simple Labeled Overlays](http://ellekasai.github.io/purplecoat.js/)
 
 	A Javacript plugin that lets you create overlays on elemeents
 + [ConnorAtherton/walkway](https://github.com/ConnorAtherton/walkway)
@@ -2584,7 +2579,7 @@ Episode List
 + [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 
 	A blog post about aria examples
-+ [Drag and Drop Interaction Ideas | Codrops](http://tympanus.net/codrops/2014/11/11/drag-and-drop-interaction-ideas/)
++ [Drag and Drop Interaction Ideas - Codrops](http://tympanus.net/codrops/2014/11/11/drag-and-drop-interaction-ideas/)
 
 	A blog about drag and drop interaction ideas
 + [Twitter Emoji (Twemoji)](http://twitter.github.io/twemoji/)
@@ -2607,7 +2602,7 @@ Episode List
 + [Evil Icons](http://evil-icons.io/)
 
 	A svg icon pack
-+ [Researching the Performance costs of JavaScript MVC Frameworks | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/mv-initial-load-times.html)
++ [Researching the Performance costs of JavaScript MVC Frameworks - Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/mv-initial-load-times.html)
 
 	A article about performance of popular javascript frameworks
 + [http://css-tricks.com/design-considerations-text-images/](http://css-tricks.com/design-considerations-text-images/)
@@ -2683,7 +2678,7 @@ Episode List
 + [State of Web Type](http://stateofwebtype.com/beta/?utm_source=html5weekly&utm_medium=email)
 
 	(BROKEN)
-+ [Poor Man's Styleguide | A frontend styleguide for the pragmatic](http://www.poormansstyleguide.com/)
++ [Poor Man's Styleguide - A frontend styleguide for the pragmatic](http://www.poormansstyleguide.com/)
 
 	A frontend styleguide for the pragmatic
 
@@ -2723,13 +2718,13 @@ Episode List
 + [Mprogress.js](http://lightningtgc.github.io/MProgress.js/)
 
 	A javascript pluging that creates progress linear bar from google material design
-+ [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/)
++ [CSS Reference - Codrops](http://tympanus.net/codrops/css_reference/)
 
 	A css reference
 + [vissense/vissense](https://github.com/vissense/vissense)
 
 	A utility library for observing visibility changes of dom elements
-+ [The Gooey Effect | CSS-Tricks](http://css-tricks.com/gooey-effect/)
++ [The Gooey Effect - CSS-Tricks](http://css-tricks.com/gooey-effect/)
 
 	A blog post about making gooey effect using css and svg filters
 
@@ -2783,7 +2778,7 @@ Episode List
 
 ### Ep132: Polygon Art, Colors, Scrolling
 
-+ [Animated Polygon Art | Gray Ghost Visuals Press](http://blog.grayghostvisuals.com/js/animated-polygon-art/)
++ [Animated Polygon Art - Gray Ghost Visuals Press](http://blog.grayghostvisuals.com/js/animated-polygon-art/)
 
 	A blog post about animated polygon art
 + [jQuery Unveil - A very lightweight plugin to lazy load images](http://luis-almeida.github.io/unveil/)
@@ -2815,7 +2810,7 @@ Episode List
 + [openexchangerates/accounting.js](https://github.com/openexchangerates/accounting.js)
 
  A javascript library for number, money and currency formating
-+ [Dropdown Menus with More Forgiving Mouse Movement Paths | CSS-Tricks](http://css-tricks.com/dropdown-menus-with-more-forgiving-mouse-movement-paths/)
++ [Dropdown Menus with More Forgiving Mouse Movement Paths - CSS-Tricks](http://css-tricks.com/dropdown-menus-with-more-forgiving-mouse-movement-paths/)
 
  A blog post about dropdown menus
 
@@ -2837,7 +2832,7 @@ Episode List
 + [colorable](http://jxnblk.com/colorable/demos/text/)
 
  A tool that helps you measure the contrast ratio of your background to text
-+ [Dynamically adding text tracks to HTML5 video | Ian Devlin](http://www.iandevlin.com/blog/2015/02/javascript/dynamically-adding-text-tracks-to-html5-video)
++ [Dynamically adding text tracks to HTML5 video - Ian Devlin](http://www.iandevlin.com/blog/2015/02/javascript/dynamically-adding-text-tracks-to-html5-video)
 
 A blog post about on adding dynamic text tracks to html5 videos
 
@@ -2847,13 +2842,13 @@ A blog post about on adding dynamic text tracks to html5 videos
 
 ### Ep135: BEM, jQuery Plugins, Web Fonts
 
-+ [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/)
++ [BEM 101 - CSS-Tricks](https://css-tricks.com/bem-101/)
 
 	A article about BEM
 + [selectivity](https://arendjr.github.io/selectivity/)
 
 	A modular and light-weight selection library for jquery and zeptojs
-+ [Prism Effect Slider with Canvas | Codrops](http://tympanus.net/codrops/2015/03/31/prism-effect-slider-canvas/)
++ [Prism Effect Slider with Canvas - Codrops](http://tympanus.net/codrops/2015/03/31/prism-effect-slider-canvas/)
 
 	A blog post about how to create a prism effect slider with canvas
 + [X-editable :: In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery](http://vitalets.github.io/x-editable/)
@@ -2872,7 +2867,7 @@ A collection of hand-picked font from google fonts
 + [Bootstrap Date Paginator - Date Paginator based on Bootstrap Paginator](http://jondmiles.com/bootstrap-datepaginator/)
 
 	(BROKEN)
-+ [Starting a Refactor with CSS Dig | CSS-Tricks](https://css-tricks.com/starting-a-refactor-with-css-dig/)
++ [Starting a Refactor with CSS Dig - CSS-Tricks](https://css-tricks.com/starting-a-refactor-with-css-dig/)
 
 	A article about css dig chrome extention
 + [Kamran Ahmed](http://kdemos.github.io/jquery-toast-plugin)
@@ -2919,7 +2914,7 @@ A blog post about living style guide
 + [github/fetch · GitHub](https://github.com/github/fetch)
 
 	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
-+ [How to Create (Animated) Text Fills | Codrops](http://tympanus.net/codrops/2015/02/16/create-animated-text-fills/)
++ [How to Create (Animated) Text Fills - Codrops](http://tympanus.net/codrops/2015/02/16/create-animated-text-fills/)
 
 	(BROKEN)
 + [http://html5pattern.com/](http://html5pattern.com/)
@@ -2938,7 +2933,7 @@ A blog post about dropdown menus
 + [jQuery Boilerplate](http://jqueryboilerplate.com/)
 
 	A very long post about introdution to reactive programming
-+ [SassMe | A Tool for Visualizing SASS Color Functions](http://sassme.arc90.com/)
++ [SassMe - A Tool for Visualizing SASS Color Functions](http://sassme.arc90.com/)
 
 	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
 + [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
@@ -2963,7 +2958,7 @@ A blog post about dropdown menus
 + [Flakes • An Admin UI & Template Framework](http://getflakes.com/)
 
 	A jquer plugin for touch, mouse, wheel and keyboard events or knobs
-+ [Keeping it simple: coding a carousel | Christian Heilmann](http://christianheilmann.com/2015/04/08/keeping-it-simple-coding-a-carousel/)
++ [Keeping it simple: coding a carousel - Christian Heilmann](http://christianheilmann.com/2015/04/08/keeping-it-simple-coding-a-carousel/)
 
 	(BROKEN)
 + [CSS Font Sizing - bitsofco.de](http://bitsofco.de/2015/css-font-sizing/)
@@ -3008,10 +3003,10 @@ A blog post about dropdown menus
 + [Making our Media Query Mixins More Flexible](http://sassbreak.com/flexible-media-query-mixins/)
 
   A blog post about media query mixins
-+ [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
++ [A re-introduction to JavaScript (JS tutorial) - JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
   A javascript tutorial
-+ [Medium Style Confirm | Bitwiser.in](http://bitwiser.in/medium-style-confirm/)
++ [Medium Style Confirm - Bitwiser.in](http://bitwiser.in/medium-style-confirm/)
 
   A medium.com style confirm dialog
 
@@ -3046,7 +3041,7 @@ A blog post about dropdown menus
 + [Tiff - a visual typeface diff tool.](http://tiff.herokuapp.com/)
 
   A type diff tool that visually contrasts the differences between two fonts.
-+ [Static Map Maker | a static map API helper](http://staticmapmaker.com/)
++ [Static Map Maker - a static map API helper](http://staticmapmaker.com/)
 
 + [Makerbook - The best free resources for creatives.](http://makerbook.net/)
 
@@ -3084,13 +3079,13 @@ A blog post about dropdown menus
 
 ## Ep146: Dropdowns, Scrolling, Motion Blur
 
-+ [CSS Mega Dropdown | CodyHouse](http://codyhouse.co/gem/mega-dropdown/)
++ [CSS Mega Dropdown - CodyHouse](http://codyhouse.co/gem/mega-dropdown/)
 
   A responsive and easy to customise mega-dropdown component.
 + [ReadRemaining.js - How long you'll need to read any text.](http://aerolab.github.io/readremaining.js/)
 
   Tell your readers how long they'll need to get through all of your gibberish, with this clever jQuery plugin.
-+ [Motion Blur Effect with SVG | Codrops](http://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/)
++ [Motion Blur Effect with SVG - Codrops](http://tympanus.net/codrops/2015/04/08/motion-blur-effect-svg/)
 
   A tutorial on how to create a motion blur effect on HTML elements using JavaScript and an SVG blur filter.
 + [ScrollWatch](https://edull24.github.io/ScrollWatch/)
@@ -3133,13 +3128,13 @@ A blog post about dropdown menus
 + [Simple Sharing Buttons Generator by @fourtonfish](http://simplesharingbuttons.com/)
 
   Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+, and other social networks -- it's all completely free
-+ [Useful Flexbox Technique: Alignment Shifting Wrapping | CSS-Tricks](https://css-tricks.com/useful-flexbox-technique-alignment-shifting-wrapping/)
++ [Useful Flexbox Technique: Alignment Shifting Wrapping - CSS-Tricks](https://css-tricks.com/useful-flexbox-technique-alignment-shifting-wrapping/)
 
   A blog post about useful flexbox technique called alignment shifting wrapping
-+ [When it comes to delivering the best possible user experience, how fast is fast enough? | SOASTA](http://www.soasta.com/blog/website-monitoring-fast-enough-user-experience/)
++ [When it comes to delivering the best possible user experience, how fast is fast enough? - SOASTA](http://www.soasta.com/blog/website-monitoring-fast-enough-user-experience/)
 
   A blog post about delivering the best possible user experience  
-+ [Card Expansion Effect with SVG clipPath | Codrops](http://tympanus.net/codrops/2015/06/18/card-expansion-effect-svg-clippath/)
++ [Card Expansion Effect with SVG clipPath - Codrops](http://tympanus.net/codrops/2015/06/18/card-expansion-effect-svg-clippath/)
 
   A morphing card expansion effect enhanced by a low poly background animation, using SVG clipPath and Trianglify.
 
@@ -3149,7 +3144,7 @@ A blog post about dropdown menus
 
 ## Ep149: Performance Tools, Material Design, Sliders
 
-+ [Performance Tools | CSS-Tricks](https://css-tricks.com/performance-tools/)
++ [Performance Tools - CSS-Tricks](https://css-tricks.com/performance-tools/)
 
   A blog post about performance tools
 + [The Making Of "In Pieces"](http://www.smashingmagazine.com/2015/06/02/the-making-of-in-pieces/)
@@ -3158,7 +3153,7 @@ A blog post about dropdown menus
 + [Material Design Lite](http://www.getmdl.io/index.html)
 
   A front end framework based on google material design
-+ [Blueprint: Zoom Slider | Codrops](http://tympanus.net/codrops/2015/07/06/zoom-slider/)
++ [Blueprint: Zoom Slider - Codrops](http://tympanus.net/codrops/2015/07/06/zoom-slider/)
 
   A simple content slider with depth-like zoom functionality for a predefined area in each slide.
 + [Summernote - Super Simple WYSIWYG editor on Bootstrap](http://summernote.org/#/)
@@ -3171,7 +3166,7 @@ A blog post about dropdown menus
 
 ## Ep150: CSS Shapes, JavaScript, Font Combinations
 
-+ [Working with Shapes in Web Design | CSS-Tricks](https://css-tricks.com/working-with-shapes-in-web-design/)
++ [Working with Shapes in Web Design - CSS-Tricks](https://css-tricks.com/working-with-shapes-in-web-design/)
 
   A blog post about working with shapes in web design
 + [purifycss/purifycss · GitHub](https://github.com/purifycss/purifycss)
